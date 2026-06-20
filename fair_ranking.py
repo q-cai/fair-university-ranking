@@ -253,6 +253,7 @@ def main():
             })
 
     web_data = {
+        'total_connections': G.number_of_edges(),
         'rankings': rankings_json,
         'network': {
             'nodes': [{'id': n} for n in top_names],

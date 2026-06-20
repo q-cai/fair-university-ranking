@@ -40,7 +40,7 @@
     // ——— Stats Cards ———
     function populateStats(data) {
         document.getElementById('statTotal').textContent = data.rankings.length;
-        document.getElementById('statEdges').textContent = data.network.links.length;
+        document.getElementById('statEdges').textContent = (data.total_connections || data.network.links.length).toLocaleString();
         document.getElementById('statTop').textContent =
             data.rankings.length > 0 ? data.rankings[0].university.replace(/\s*\(.*?\)\s*/g, '') : '—';
     }
