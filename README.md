@@ -6,6 +6,14 @@ It uses **Weighted PageRank** to determine how effectively universities train Ph
 
 ---
 
+## 🔗 Live Online Dashboard
+The interactive visualization dashboard is hosted live online:
+👉 **[https://q-cai.github.io/university-ranking/web/](https://q-cai.github.io/university-ranking/web/)**
+
+*Explore the force-directed D3.js network graph showing prestige flows and the side-by-side XRank vs. QS Rank comparison.*
+
+---
+
 ## 💡 Methodology & Core Concepts
 
 ### 1. The PhD-to-Faculty Placement Network
@@ -39,7 +47,7 @@ Combined, this yields a robust, un-biased global network of **12,473 edges** spa
 
 * **Entity Resolution (Name Normalization)**: Raw datasets contain massive name fragmentation (e.g., *University of California, Berkeley*, *UC Berkeley*, *University of California Berkeley College of Chemistry*). `xrank.py` runs a normalization layer *before* building the graph to aggregate all incoming edges into a single canonical node, preventing score leakage.
 * **Parenthetical Search Cleaning**: Automated mapping cleans search strings (e.g., stripping `(MIT)` to search only for `Massachusetts Institute of Technology`), resolving issues where sub-institutes or joint research facilities were matched instead of main campuses.
-* **No Regional Bias**: Eliminates US-only datasets (like the Larremore dataset), evaluating US and non-US schools under the exact same API-driven sampling criteria.
+* **No Regional Bias**: Evaluates US and non-US schools under the exact same API-driven sampling criteria.
 
 ---
 
@@ -55,7 +63,7 @@ Combined, this yields a robust, un-biased global network of **12,473 edges** spa
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run Locally
 
 ### 1. Prerequisites
 Install required Python libraries:
