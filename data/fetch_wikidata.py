@@ -2,9 +2,11 @@ import json
 import requests
 import time
 import pandas as pd
+import os
 
-MAPPING_FILE = "qs_institutions.json"
-OUTPUT_FILE = "wikidata_faculty.csv"
+script_dir = os.path.dirname(os.path.abspath(__file__))
+MAPPING_FILE = os.path.join(script_dir, "qs_institutions.json")
+OUTPUT_FILE = os.path.join(script_dir, "wikidata_faculty.csv")
 
 # Batch size for QIDs to avoid 60s timeout
 BATCH_SIZE = 15

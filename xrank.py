@@ -168,7 +168,8 @@ def main():
     # Calculate Total Placed (out-degree) for each university in the network
     print("Calculating Total Placed for normalization...")
     acad_edges = edges[edges['TaxonomyLevel'] == 'Academia']
-    total_placed = acad_edges.groupby('DegreeInstitutionName')['Total'].sum().to_dict()
+    acad_edges_no_self = acad_edges[acad_edges['InstitutionName'] != acad_edges['DegreeInstitutionName']]
+    total_placed = acad_edges_no_self.groupby('DegreeInstitutionName')['Total'].sum().to_dict()
     
     qs_df['XRank_Score'] = 0.0
     qs_df['Total_Placed'] = 0.0
@@ -203,12 +204,13 @@ def main():
     
     # Print top 10 universities with data
     print("\nTop 10 Global Universities by XRank (QS Top 100):")
-    top_unis = xrank_df[xrank_df['Data_Available'] == True].head(10)
+    ranked_unis = xrank_df[xrank_df['Data_Available'] == True]
+    top_unis = ranked_unis.head(10)
     for idx, row in top_unis.iterrows():
         print(f"XRank: {int(row['XRank'])} | {row['University']} (QS: {row['Rank']}) - Score: {row['XRank_Score']:.4f}")
         
     # Generate net flow matrix for the top 20 universities with data
-    top20_names = top_unis['Larremore_Name'].tolist()[:20]
+    top20_names = ranked_unis.head(20)['Larremore_Name'].tolist()
     flow_matrix = calculate_net_flow(edges, top20_names)
     flow_file = 'output/net_flow_matrix.csv'
     flow_matrix.to_csv(flow_file)

@@ -8,7 +8,7 @@ import concurrent.futures
 
 sys.stdout.reconfigure(line_buffering=True)
 
-API_KEY = ""
+API_KEY = os.environ.get("OPENALEX_API_KEY")
 script_dir = os.path.dirname(os.path.abspath(__file__))
 MAPPING_FILE = os.path.join(script_dir, "qs_institutions.json")
 OUTPUT_FILE = os.path.join(script_dir, "orcid_faculty.csv")
@@ -42,9 +42,10 @@ def get_top_authors_with_orcid(openalex_id):
     params = {
         "filter": f"last_known_institutions.id:{openalex_id},has_orcid:true",
         "sort": "cited_by_count:desc",
-        "per_page": MAX_AUTHORS_PER_UNI,
-        "api_key": API_KEY
+        "per_page": MAX_AUTHORS_PER_UNI
     }
+    if API_KEY:
+        params["api_key"] = API_KEY
     response = make_request_with_retry(url, params=params)
     if not response or response.status_code != 200:
         return []

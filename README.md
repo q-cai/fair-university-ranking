@@ -71,6 +71,11 @@ Install required Python libraries:
 pip install pandas networkx requests
 ```
 
+OpenAlex does not require an API key for basic usage. If you have one, provide it via an environment variable instead of editing the scripts:
+```bash
+export OPENALEX_API_KEY="your-openalex-key"
+```
+
 ### 2. Execute Data Pipeline
 Run the pipeline sequentially to reconstruct the ranking from scratch:
 ```bash

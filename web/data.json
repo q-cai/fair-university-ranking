@@ -6,7 +6,7 @@
       "university": "Harvard University",
       "country": "United States",
       "score": 1.1037,
-      "total_placed": 2230,
+      "total_placed": 1292,
       "larremore_name": "Harvard University"
     },
     {
@@ -15,7 +15,7 @@
       "university": "Stanford University",
       "country": "United States",
       "score": 0.8567,
-      "total_placed": 794,
+      "total_placed": 393,
       "larremore_name": "Stanford University"
     },
     {
@@ -24,7 +24,7 @@
       "university": "University College London (UCL)",
       "country": "United Kingdom",
       "score": 0.8563,
-      "total_placed": 424,
+      "total_placed": 421,
       "larremore_name": "University College London (UCL)"
     },
     {
@@ -33,7 +33,7 @@
       "university": "University of California Berkeley (UCB)",
       "country": "United States",
       "score": 0.8379,
-      "total_placed": 658,
+      "total_placed": 655,
       "larremore_name": "University of California Berkeley (UCB)"
     },
     {
@@ -42,7 +42,7 @@
       "university": "University of Oxford",
       "country": "United Kingdom",
       "score": 0.821,
-      "total_placed": 595,
+      "total_placed": 367,
       "larremore_name": "University of Oxford"
     },
     {
@@ -51,7 +51,7 @@
       "university": "Massachusetts Institute of Technology (MIT)",
       "country": "United States",
       "score": 0.8053,
-      "total_placed": 602,
+      "total_placed": 600,
       "larremore_name": "Massachusetts Institute of Technology (MIT)"
     },
     {
@@ -60,7 +60,7 @@
       "university": "University of Cambridge",
       "country": "United Kingdom",
       "score": 0.782,
-      "total_placed": 753,
+      "total_placed": 483,
       "larremore_name": "University of Cambridge"
     },
     {
@@ -69,7 +69,7 @@
       "university": "California Institute of Technology (Caltech)",
       "country": "United States",
       "score": 0.6564,
-      "total_placed": 230,
+      "total_placed": 224,
       "larremore_name": "California Institute of Technology (Caltech)"
     },
     {
@@ -78,7 +78,7 @@
       "university": "Imperial College London",
       "country": "United Kingdom",
       "score": 0.5582,
-      "total_placed": 99,
+      "total_placed": 95,
       "larremore_name": "Imperial College London"
     },
     {
@@ -87,7 +87,7 @@
       "university": "Columbia University",
       "country": "United States",
       "score": 0.5305,
-      "total_placed": 857,
+      "total_placed": 480,
       "larremore_name": "Columbia University"
     },
     {
@@ -96,7 +96,7 @@
       "university": "University of Chicago",
       "country": "United States",
       "score": 0.5089,
-      "total_placed": 693,
+      "total_placed": 440,
       "larremore_name": "University of Chicago"
     },
     {
@@ -105,7 +105,7 @@
       "university": "University of Toronto",
       "country": "Canada",
       "score": 0.4991,
-      "total_placed": 368,
+      "total_placed": 156,
       "larremore_name": "University of Toronto"
     },
     {
@@ -114,7 +114,7 @@
       "university": "University of Washington",
       "country": "United States",
       "score": 0.4888,
-      "total_placed": 250,
+      "total_placed": 248,
       "larremore_name": "University of Washington"
     },
     {
@@ -123,7 +123,7 @@
       "university": "Princeton University",
       "country": "United States",
       "score": 0.4781,
-      "total_placed": 616,
+      "total_placed": 614,
       "larremore_name": "Princeton University"
     },
     {
@@ -132,7 +132,7 @@
       "university": "The University of Tokyo",
       "country": "Japan",
       "score": 0.4769,
-      "total_placed": 573,
+      "total_placed": 134,
       "larremore_name": "The University of Tokyo"
     },
     {
@@ -141,7 +141,7 @@
       "university": "Yale University",
       "country": "United States",
       "score": 0.4653,
-      "total_placed": 967,
+      "total_placed": 634,
       "larremore_name": "Yale University"
     },
     {
@@ -150,7 +150,7 @@
       "university": "University of Pennsylvania",
       "country": "United States",
       "score": 0.465,
-      "total_placed": 232,
+      "total_placed": 231,
       "larremore_name": "University of Pennsylvania"
     },
     {
@@ -159,7 +159,7 @@
       "university": "University of Edinburgh",
       "country": "United Kingdom",
       "score": 0.4439,
-      "total_placed": 135,
+      "total_placed": 128,
       "larremore_name": "University of Edinburgh"
     },
     {
@@ -168,7 +168,7 @@
       "university": "University of Manchester",
       "country": "United Kingdom",
       "score": 0.4386,
-      "total_placed": 146,
+      "total_placed": 140,
       "larremore_name": "University of Manchester"
     },
     {
@@ -177,7 +177,7 @@
       "university": "University of Michigan-Ann Arbor",
       "country": "United States",
       "score": 0.4146,
-      "total_placed": 297,
+      "total_placed": 296,
       "larremore_name": "University of Michigan-Ann Arbor"
     },
     {
@@ -186,7 +186,7 @@
       "university": "University of Melbourne",
       "country": "Australia",
       "score": 0.4073,
-      "total_placed": 85,
+      "total_placed": 74,
       "larremore_name": "University of Melbourne"
     },
     {
@@ -195,7 +195,7 @@
       "university": "Cornell University",
       "country": "United States",
       "score": 0.4066,
-      "total_placed": 374,
+      "total_placed": 372,
       "larremore_name": "Cornell University"
     },
     {
@@ -204,7 +204,7 @@
       "university": "New York University (NYU)",
       "country": "United States",
       "score": 0.4054,
-      "total_placed": 325,
+      "total_placed": 323,
       "larremore_name": "New York University (NYU)"
     },
     {
@@ -222,7 +222,7 @@
       "university": "The University of Queensland",
       "country": "Australia",
       "score": 0.4013,
-      "total_placed": 46,
+      "total_placed": 34,
       "larremore_name": "The University of Queensland"
     },
     {
@@ -231,7 +231,7 @@
       "university": "University of Glasgow",
       "country": "United Kingdom",
       "score": 0.3854,
-      "total_placed": 78,
+      "total_placed": 61,
       "larremore_name": "University of Glasgow"
     },
     {
@@ -240,7 +240,7 @@
       "university": "Seoul National University",
       "country": "South Korea",
       "score": 0.3623,
-      "total_placed": 47,
+      "total_placed": 39,
       "larremore_name": "Seoul National University"
     },
     {
@@ -249,7 +249,7 @@
       "university": "University of California San Diego (UCSD)",
       "country": "United States",
       "score": 0.355,
-      "total_placed": 57,
+      "total_placed": 53,
       "larremore_name": "University of California San Diego (UCSD)"
     },
     {
@@ -258,7 +258,7 @@
       "university": "Duke University",
       "country": "United States",
       "score": 0.3518,
-      "total_placed": 115,
+      "total_placed": 64,
       "larremore_name": "Duke University"
     },
     {
@@ -267,7 +267,7 @@
       "university": "University of California Los Angeles (UCLA)",
       "country": "United States",
       "score": 0.347,
-      "total_placed": 137,
+      "total_placed": 136,
       "larremore_name": "University of California Los Angeles (UCLA)"
     },
     {
@@ -276,7 +276,7 @@
       "university": "Osaka University",
       "country": "Japan",
       "score": 0.3365,
-      "total_placed": 83,
+      "total_placed": 34,
       "larremore_name": "Osaka University"
     },
     {
@@ -285,7 +285,7 @@
       "university": "Monash University",
       "country": "Australia",
       "score": 0.3323,
-      "total_placed": 30,
+      "total_placed": 23,
       "larremore_name": "Monash University"
     },
     {
@@ -294,7 +294,7 @@
       "university": "Kyoto University",
       "country": "Japan",
       "score": 0.3309,
-      "total_placed": 86,
+      "total_placed": 77,
       "larremore_name": "Kyoto University"
     },
     {
@@ -303,7 +303,7 @@
       "university": "Australian National University (ANU)",
       "country": "Australia",
       "score": 0.3301,
-      "total_placed": 69,
+      "total_placed": 56,
       "larremore_name": "Australian National University (ANU)"
     },
     {
@@ -312,7 +312,7 @@
       "university": "University of Leeds",
       "country": "United Kingdom",
       "score": 0.3219,
-      "total_placed": 98,
+      "total_placed": 44,
       "larremore_name": "University of Leeds"
     },
     {
@@ -321,7 +321,7 @@
       "university": "Brown University",
       "country": "United States",
       "score": 0.3194,
-      "total_placed": 155,
+      "total_placed": 154,
       "larremore_name": "Brown University"
     },
     {
@@ -330,7 +330,7 @@
       "university": "University of Sydney",
       "country": "Australia",
       "score": 0.3113,
-      "total_placed": 188,
+      "total_placed": 55,
       "larremore_name": "University of Sydney"
     },
     {
@@ -339,7 +339,7 @@
       "university": "The University of Adelaide",
       "country": "Australia",
       "score": 0.3113,
-      "total_placed": 46,
+      "total_placed": 32,
       "larremore_name": "The University of Adelaide"
     },
     {
@@ -348,7 +348,7 @@
       "university": "McGill University",
       "country": "Canada",
       "score": 0.3107,
-      "total_placed": 160,
+      "total_placed": 152,
       "larremore_name": "McGill University"
     },
     {
@@ -357,7 +357,7 @@
       "university": "University of Amsterdam",
       "country": "Netherlands",
       "score": 0.309,
-      "total_placed": 434,
+      "total_placed": 103,
       "larremore_name": "University of Amsterdam"
     },
     {
@@ -366,7 +366,7 @@
       "university": "The University of Western Australia",
       "country": "Australia",
       "score": 0.3059,
-      "total_placed": 31,
+      "total_placed": 21,
       "larremore_name": "The University of Western Australia"
     },
     {
@@ -375,7 +375,7 @@
       "university": "King's College London",
       "country": "United Kingdom",
       "score": 0.305,
-      "total_placed": 74,
+      "total_placed": 72,
       "larremore_name": "King's College London"
     },
     {
@@ -384,7 +384,7 @@
       "university": "Northwestern University",
       "country": "United States",
       "score": 0.3047,
-      "total_placed": 108,
+      "total_placed": 106,
       "larremore_name": "Northwestern University"
     },
     {
@@ -402,7 +402,7 @@
       "university": "University of Southampton",
       "country": "United Kingdom",
       "score": 0.3014,
-      "total_placed": 37,
+      "total_placed": 33,
       "larremore_name": "University of Southampton"
     },
     {
@@ -411,7 +411,7 @@
       "university": "University of British Columbia",
       "country": "Canada",
       "score": 0.2955,
-      "total_placed": 136,
+      "total_placed": 68,
       "larremore_name": "University of British Columbia"
     },
     {
@@ -420,7 +420,7 @@
       "university": "University of Birmingham",
       "country": "United Kingdom",
       "score": 0.2928,
-      "total_placed": 66,
+      "total_placed": 63,
       "larremore_name": "University of Birmingham"
     },
     {
@@ -447,7 +447,7 @@
       "university": "Lund University",
       "country": "Sweden",
       "score": 0.2882,
-      "total_placed": 156,
+      "total_placed": 30,
       "larremore_name": "Lund University"
     },
     {
@@ -456,7 +456,7 @@
       "university": "Lomonosov Moscow State University",
       "country": "Russia",
       "score": 0.2866,
-      "total_placed": 224,
+      "total_placed": 31,
       "larremore_name": "Lomonosov Moscow State University"
     },
     {
@@ -465,7 +465,7 @@
       "university": "London School of Economics and Political Science (LSE)",
       "country": "United Kingdom",
       "score": 0.2831,
-      "total_placed": 146,
+      "total_placed": 141,
       "larremore_name": "London School of Economics and Political Science (LSE)"
     },
     {
@@ -483,7 +483,7 @@
       "university": "University of Bristol",
       "country": "United Kingdom",
       "score": 0.2828,
-      "total_placed": 56,
+      "total_placed": 48,
       "larremore_name": "University of Bristol"
     },
     {
@@ -492,7 +492,7 @@
       "university": "Peking University",
       "country": "China",
       "score": 0.2815,
-      "total_placed": 77,
+      "total_placed": 34,
       "larremore_name": "Peking University"
     },
     {
@@ -501,7 +501,7 @@
       "university": "Sorbonne University",
       "country": "France",
       "score": 0.2812,
-      "total_placed": 75,
+      "total_placed": 58,
       "larremore_name": "Sorbonne University"
     },
     {
@@ -519,7 +519,7 @@
       "university": "Durham University",
       "country": "United Kingdom",
       "score": 0.2779,
-      "total_placed": 42,
+      "total_placed": 37,
       "larremore_name": "Durham University"
     },
     {
@@ -528,7 +528,7 @@
       "university": "Yonsei University",
       "country": "South Korea",
       "score": 0.2765,
-      "total_placed": 13,
+      "total_placed": 9,
       "larremore_name": "Yonsei University"
     },
     {
@@ -537,7 +537,7 @@
       "university": "University of Texas at Austin",
       "country": "United States",
       "score": 0.2758,
-      "total_placed": 78,
+      "total_placed": 77,
       "larremore_name": "University of Texas at Austin"
     },
     {
@@ -546,7 +546,7 @@
       "university": "National University of Singapore (NUS)",
       "country": "Singapore",
       "score": 0.2754,
-      "total_placed": 14,
+      "total_placed": 12,
       "larremore_name": "National University of Singapore (NUS)"
     },
     {
@@ -555,7 +555,7 @@
       "university": "University of New South Wales (UNSW Sydney)",
       "country": "Australia",
       "score": 0.2749,
-      "total_placed": 44,
+      "total_placed": 38,
       "larremore_name": "University of New South Wales (UNSW Sydney)"
     },
     {
@@ -573,7 +573,7 @@
       "university": "Tsinghua University",
       "country": "China",
       "score": 0.2748,
-      "total_placed": 53,
+      "total_placed": 50,
       "larremore_name": "Tsinghua University"
     },
     {
@@ -582,7 +582,7 @@
       "university": "Purdue University",
       "country": "United States",
       "score": 0.2733,
-      "total_placed": 101,
+      "total_placed": 31,
       "larremore_name": "Purdue University"
     },
     {
@@ -600,7 +600,7 @@
       "university": "ETH Zurich",
       "country": "Switzerland",
       "score": 0.2697,
-      "total_placed": 267,
+      "total_placed": 55,
       "larremore_name": "ETH Zurich"
     },
     {
@@ -609,7 +609,7 @@
       "university": "Korea University",
       "country": "South Korea",
       "score": 0.2691,
-      "total_placed": 14,
+      "total_placed": 8,
       "larremore_name": "Korea University"
     },
     {
@@ -618,7 +618,7 @@
       "university": "University of Copenhagen",
       "country": "Denmark",
       "score": 0.2669,
-      "total_placed": 351,
+      "total_placed": 46,
       "larremore_name": "University of Copenhagen"
     },
     {
@@ -627,7 +627,7 @@
       "university": "Fudan University",
       "country": "China",
       "score": 0.2608,
-      "total_placed": 42,
+      "total_placed": 24,
       "larremore_name": "Fudan University"
     },
     {
@@ -636,7 +636,7 @@
       "university": "Ruprecht-Karls-Universit\u00e4t Heidelberg",
       "country": "Germany",
       "score": 0.2579,
-      "total_placed": 4,
+      "total_placed": 3,
       "larremore_name": "Ruprecht-Karls-Universit\u00e4t Heidelberg"
     },
     {
@@ -663,7 +663,7 @@
       "university": "University of Alberta",
       "country": "Canada",
       "score": 0.2518,
-      "total_placed": 48,
+      "total_placed": 45,
       "larremore_name": "University of Alberta"
     },
     {
@@ -672,7 +672,7 @@
       "university": "Zhejiang University",
       "country": "China",
       "score": 0.2517,
-      "total_placed": 21,
+      "total_placed": 20,
       "larremore_name": "Zhejiang University"
     },
     {
@@ -681,7 +681,7 @@
       "university": "Universidad de Buenos Aires (UBA)",
       "country": "Argentina",
       "score": 0.2484,
-      "total_placed": 15,
+      "total_placed": 2,
       "larremore_name": "Universidad de Buenos Aires (UBA)"
     },
     {
@@ -690,7 +690,7 @@
       "university": "KU Leuven",
       "country": "Belgium",
       "score": 0.2468,
-      "total_placed": 18,
+      "total_placed": 2,
       "larremore_name": "KU Leuven"
     },
     {
@@ -699,7 +699,7 @@
       "university": "Tokyo Institute of Technology",
       "country": "Japan",
       "score": 0.2455,
-      "total_placed": 31,
+      "total_placed": 9,
       "larremore_name": "Tokyo Institute of Technology"
     },
     {
@@ -708,7 +708,7 @@
       "university": "National Taiwan University (NTU)",
       "country": "Taiwan",
       "score": 0.2448,
-      "total_placed": 43,
+      "total_placed": 41,
       "larremore_name": "National Taiwan University (NTU)"
     },
     {
@@ -717,7 +717,7 @@
       "university": "Technical University of Munich (TUM)",
       "country": "Germany",
       "score": 0.2446,
-      "total_placed": 49,
+      "total_placed": 48,
       "larremore_name": "Technical University of Munich (TUM)"
     },
     {
@@ -726,7 +726,7 @@
       "university": "Shanghai Jiao Tong University",
       "country": "China",
       "score": 0.2445,
-      "total_placed": 21,
+      "total_placed": 14,
       "larremore_name": "Shanghai Jiao Tong University"
     },
     {
@@ -735,7 +735,7 @@
       "university": "Trinity College Dublin",
       "country": "Ireland",
       "score": 0.2437,
-      "total_placed": 65,
+      "total_placed": 26,
       "larremore_name": "Trinity College Dublin"
     },
     {
@@ -744,7 +744,7 @@
       "university": "Nanyang Technological University (NTU)",
       "country": "Singapore",
       "score": 0.2419,
-      "total_placed": 9,
+      "total_placed": 6,
       "larremore_name": "Nanyang Technological University (NTU)"
     },
     {
@@ -753,7 +753,7 @@
       "university": "Delft University of Technology",
       "country": "Netherlands",
       "score": 0.2401,
-      "total_placed": 211,
+      "total_placed": 29,
       "larremore_name": "Delft University of Technology"
     },
     {
@@ -762,7 +762,7 @@
       "university": "Universit\u00e9 Paris-Saclay",
       "country": "France",
       "score": 0.2398,
-      "total_placed": 2,
+      "total_placed": 1,
       "larremore_name": "Universit\u00e9 Paris-Saclay"
     },
     {
@@ -780,7 +780,7 @@
       "university": "Universidade de S\u00e3o Paulo (USP)",
       "country": "Brazil",
       "score": 0.239,
-      "total_placed": 13,
+      "total_placed": 1,
       "larremore_name": "Universidade de S\u00e3o Paulo (USP)"
     },
     {
@@ -789,7 +789,7 @@
       "university": "KAIST",
       "country": "South Korea",
       "score": 0.2348,
-      "total_placed": 9,
+      "total_placed": 1,
       "larremore_name": "KAIST"
     },
     {
@@ -798,7 +798,7 @@
       "university": "RWTH Aachen University",
       "country": "Germany",
       "score": 0.2344,
-      "total_placed": 61,
+      "total_placed": 16,
       "larremore_name": "RWTH Aachen University"
     },
     {
@@ -807,7 +807,7 @@
       "university": "POSTECH",
       "country": "South Korea",
       "score": 0.2328,
-      "total_placed": 2,
+      "total_placed": 1,
       "larremore_name": "POSTECH"
     },
     {
@@ -825,7 +825,7 @@
       "university": "Pontificia Universidad Cat\u00f3lica de Chile",
       "country": "Chile",
       "score": 0.2309,
-      "total_placed": 5,
+      "total_placed": 1,
       "larremore_name": "Pontificia Universidad Cat\u00f3lica de Chile"
     },
     {
@@ -834,7 +834,7 @@
       "university": "University of Technology Sydney (UTS)",
       "country": "Australia",
       "score": 0.2307,
-      "total_placed": 9,
+      "total_placed": 2,
       "larremore_name": "University of Technology Sydney (UTS)"
     },
     {
@@ -843,7 +843,7 @@
       "university": "City University of Hong Kong",
       "country": "Hong Kong SAR",
       "score": 0.23,
-      "total_placed": 7,
+      "total_placed": 1,
       "larremore_name": "City University of Hong Kong"
     },
     {
@@ -852,7 +852,7 @@
       "university": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)",
       "country": "Switzerland",
       "score": 0.2298,
-      "total_placed": 5,
+      "total_placed": 1,
       "larremore_name": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)"
     },
     {
@@ -861,7 +861,7 @@
       "university": "Universiti Malaya (UM)",
       "country": "Malaysia",
       "score": 0.2295,
-      "total_placed": 2,
+      "total_placed": 1,
       "larremore_name": "Universiti Malaya (UM)"
     },
     {
@@ -870,7 +870,7 @@
       "university": "Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM)",
       "country": "Mexico",
       "score": 0.2295,
-      "total_placed": 5,
+      "total_placed": 1,
       "larremore_name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM)"
     },
     {
@@ -879,7 +879,7 @@
       "university": "KTH Royal Institute of Technology",
       "country": "Sweden",
       "score": 0.2295,
-      "total_placed": 4,
+      "total_placed": 1,
       "larremore_name": "KTH Royal Institute of Technology"
     },
     {

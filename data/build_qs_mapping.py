@@ -5,7 +5,7 @@ import time
 import re
 import os
 
-API_KEY = ""
+API_KEY = os.environ.get("OPENALEX_API_KEY")
 script_dir = os.path.dirname(os.path.abspath(__file__))
 QS_FILE = os.path.join(script_dir, "qs_top100.csv")
 OUTPUT_FILE = os.path.join(script_dir, "qs_institutions.json")
@@ -20,9 +20,10 @@ def get_institution_info(name):
     url = "https://api.openalex.org/institutions"
     params = {
         "search": clean_name,
-        "filter": "type:education",
-        "api_key": API_KEY
+        "filter": "type:education"
     }
+    if API_KEY:
+        params["api_key"] = API_KEY
     try:
         response = requests.get(url, params=params)
         response.raise_for_status()
