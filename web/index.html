@@ -24,6 +24,15 @@
             <p class="subtitle">Global University Prestige Ranking via Faculty PhD-to-Employment Flow Networks</p>
         </header>
 
+        <section class="glass-panel intro-card">
+            <h2>💡 What is XRank?</h2>
+            <p class="intro-text">
+                Traditional university rankings rely heavily on subjective surveys, financial resources, or research outputs. 
+                <strong>XRank</strong> offers a mathematically rigorous, globally fair alternative by mapping the <strong>PhD-to-Faculty employment flow network</strong>. 
+                Using a consolidated dataset across Wikidata, OpenAlex, and ORCID APIs, XRank runs a <strong>Weighted PageRank</strong> algorithm to compute the absolute prestige of universities based on where their PhD graduates go to teach.
+            </p>
+        </section>
+
         <div class="stats-row" id="statsRow">
             <div class="stat-card glass-panel">
                 <div class="stat-value" id="statTotal">—</div>
@@ -82,6 +91,24 @@
                 <div id="tooltip" class="tooltip"></div>
             </section>
         </main>
+
+        <section class="glass-panel explanation-card">
+            <h2>📖 Metric Explanations</h2>
+            <div class="explanation-grid">
+                <div class="exp-item">
+                    <h3>XRank Score</h3>
+                    <p>The consolidated academic prestige value calculated via <strong>Weighted PageRank</strong> (multiplied by 1,000 for legibility). It represents the probability of reaching a university by tracing academic career trajectories. The higher the score, the more dominant a university is as a producer of prestigious faculty members.</p>
+                </div>
+                <div class="exp-item">
+                    <h3>Total Placed</h3>
+                    <p>The total count of PhD graduates from a given university who are currently employed as faculty members across all QS Top 100 institutions in our dataset. In network graph theory, this corresponds to the university's <strong>out-degree weight</strong> in the hiring network.</p>
+                </div>
+                <div class="exp-item">
+                    <h3>Δ (Prestige Shift)</h3>
+                    <p>The change in position when comparing the university's <strong>XRank</strong> (academic placement prestige) against its official **QS World Ranking**. A positive green shift ($\Delta$) indicates that a school's actual academic placement power is stronger than its general QS reputation suggests.</p>
+                </div>
+            </div>
+        </section>
 
         <footer class="glass-panel footer">
             <p>Data Source: <a href="https://openalex.org/" target="_blank">OpenAlex</a> + <a href="https://orcid.org/" target="_blank">ORCID</a> + <a href="https://www.wikidata.org/" target="_blank">Wikidata</a> · Algorithm: Weighted PageRank (d=0.85) · Self-loops removed</p>
