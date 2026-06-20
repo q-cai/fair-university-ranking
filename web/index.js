@@ -109,7 +109,7 @@
 
         // Build a score lookup
         const scoreMap = {};
-        rankings.forEach(r => { scoreMap[r.larremore_name] = r.score; });
+        rankings.forEach(r => { scoreMap[r.mapped_name] = r.score; });
         const maxScore = Math.max(...Object.values(scoreMap));
 
         const svg = d3.select('#networkGraph')
@@ -183,7 +183,7 @@
 
         node.on('mouseenter', (event, d) => {
             const s = scoreMap[d.id];
-            const r = rankings.find(x => x.larremore_name === d.id);
+            const r = rankings.find(x => x.mapped_name === d.id);
             tooltip.innerHTML = `
                 <strong>${r ? r.university : d.id}</strong><br>
                 FairRank: <strong>${r ? r.fair_rank : '—'}</strong> · QS: ${r ? r.qs_rank : '—'}<br>

@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fair University Ranking</title>
-    <meta name="description" content="Fair University Ranking (FairRank) ranks universities globally by academic hiring prestige using PageRank on Wikidata, OpenAlex, and ORCID data.">
+    <title>FairRank Faculty Placement Prestige</title>
+    <meta name="description" content="FairRank estimates university faculty-placement prestige using weighted PageRank on Wikidata, OpenAlex, and ORCID data.">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="index.css">
 </head>
@@ -21,15 +21,15 @@
                 <h1>FairRank</h1>
                 <span class="badge">Global API · Open Data</span>
             </div>
-            <p class="subtitle">Global University Prestige Ranking via Faculty PhD-to-Employment Flow Networks</p>
+            <p class="subtitle">Faculty-placement prestige via PhD-to-employment flow networks</p>
         </header>
 
         <section class="glass-panel intro-card">
-            <h2>💡 What is Fair University Ranking?</h2>
+            <h2>💡 What is FairRank?</h2>
             <p class="intro-text">
                 Traditional university rankings rely heavily on subjective surveys, financial resources, or research outputs. 
-                <strong>Fair University Ranking (FairRank)</strong> offers a mathematically rigorous, globally fair alternative by mapping the <strong>PhD-to-Faculty employment flow network</strong>. 
-                Using a consolidated dataset across Wikidata, OpenAlex, and ORCID APIs, FairRank runs a <strong>Weighted PageRank</strong> algorithm to compute the absolute prestige of universities based on where their PhD graduates go to teach.
+                <strong>FairRank</strong> maps the <strong>PhD-to-faculty employment flow network</strong> to estimate academic placement prestige from open data. 
+                Using a consolidated dataset across Wikidata, OpenAlex, and ORCID APIs, FairRank runs a <strong>Weighted PageRank</strong> algorithm to score universities based on where their PhD graduates go on to teach. The result is an open placement-prestige signal, not a complete measure of university quality.
             </p>
         </section>
 
@@ -71,7 +71,7 @@
                                 <th>University</th>
                                 <th>Country</th>
                                 <th>QS</th>
-                                <th>Total Placed</th>
+                                <th>External Placed</th>
                                 <th>Score</th>
                             </tr>
                         </thead>
@@ -97,23 +97,23 @@
             <div class="explanation-grid">
                 <div class="exp-item">
                     <h3>FairRank Score</h3>
-                    <p>The consolidated academic prestige value calculated via <strong>Weighted PageRank</strong> (multiplied by 1,000 for legibility). It represents the probability of reaching a university by tracing academic career trajectories. The higher the score, the more dominant a university is as a producer of prestigious faculty members.</p>
+                    <p>The academic placement-prestige value calculated via <strong>Weighted PageRank</strong> (multiplied by 1,000 for legibility). It represents the probability of reaching a university by tracing observed faculty hiring paths. Higher scores indicate stronger observed placement into influential academic employers.</p>
                 </div>
                 <div class="exp-item">
-                    <h3>Total Placed</h3>
-                    <p>The total count of PhD graduates from a given university who are currently employed as faculty members across all QS Top 100 institutions in our dataset. In network graph theory, this corresponds to the university's <strong>out-degree weight</strong> in the hiring network.</p>
+                    <h3>External Placed</h3>
+                    <p>The count of observed PhD graduates from a given university who are employed as faculty at other institutions in the dataset. Self-hires are excluded to match the PageRank graph. With edges directed from hiring institution to alma mater, this is the university's weighted incoming placement count.</p>
                 </div>
                 <div class="exp-item">
                     <h3>Δ (Prestige Shift)</h3>
-                    <p>The change in position when comparing the university's <strong>FairRank</strong> (academic placement prestige) against its official **QS World Ranking**. A positive green shift ($\Delta$) indicates that a school's actual academic placement power is stronger than its general QS reputation suggests.</p>
+                    <p>The change in position when comparing the university's <strong>FairRank</strong> placement-prestige rank against its official <strong>QS World Ranking</strong>. A positive green shift indicates that a school's observed academic placement signal is stronger than its general QS position suggests.</p>
                 </div>
                 <div class="exp-item">
                     <h3>Hiring Connections</h3>
-                    <p>The total number of active directed employment edges in the global academic network graph. Each connection represents a directed pathway where an alumnus of an alma mater is employed as faculty at a hiring university. It measures the density and interconnectedness of the global academic flow.</p>
+                    <p>The total number of active directed employment edges in the academic network graph after self-loops are removed. Each connection represents a pathway where an alumnus of an alma mater is employed as faculty at a hiring university.</p>
                 </div>
                 <div class="exp-item">
                     <h3>Damping Factor (0.85)</h3>
-                    <p>A standard parameter in the PageRank algorithm. It represents an 85% probability that prestige continues to propagate along structured placement links, while 15% represents the random probability of a scholar starting an independent research path elsewhere. This ensures convergence and stability in directed graphs.</p>
+                    <p>A standard parameter in the PageRank algorithm. It means 85% of score propagation follows observed placement links, while 15% is redistributed across the graph to ensure convergence and stability.</p>
                 </div>
             </div>
         </section>
