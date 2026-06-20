@@ -1,0 +1,11 @@
+,Harvard University,Stanford University,University College London (UCL),University of California Berkeley (UCB),University of Oxford,Massachusetts Institute of Technology (MIT),University of Cambridge,California Institute of Technology (Caltech),Imperial College London,Columbia University
+Harvard University,0,214,-33,-108,-24,-114,-31,-30,-8,92
+Stanford University,-214,0,-18,-180,-7,-164,-42,-69,-3,-49
+University College London (UCL),33,18,0,1,76,0,66,0,1,14
+University of California Berkeley (UCB),108,180,-1,0,12,1,9,0,0,62
+University of Oxford,24,7,-76,-12,0,-13,-31,-4,-10,18
+Massachusetts Institute of Technology (MIT),114,164,0,-1,13,0,6,-2,0,49
+University of Cambridge,31,42,-66,-9,31,-6,0,-6,-14,6
+California Institute of Technology (Caltech),30,69,0,0,4,2,6,0,0,17
+Imperial College London,8,3,-1,0,10,0,14,0,0,2
+Columbia University,-92,49,-14,-62,-18,-49,-6,-17,-2,0

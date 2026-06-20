@@ -1,0 +1,502 @@
+{
+  "Massachusetts Institute of Technology (MIT)": {
+    "openalex_id": "I63966007",
+    "wikidata_id": "Q49108",
+    "name": "Massachusetts Institute of Technology"
+  },
+  "Imperial College London": {
+    "openalex_id": "I47508984",
+    "wikidata_id": null,
+    "name": "Imperial College London"
+  },
+  "University of Oxford": {
+    "openalex_id": "I40120149",
+    "wikidata_id": "Q34433",
+    "name": "University of Oxford"
+  },
+  "Harvard University": {
+    "openalex_id": "I136199984",
+    "wikidata_id": "Q13371",
+    "name": "Harvard University"
+  },
+  "University of Cambridge": {
+    "openalex_id": "I241749",
+    "wikidata_id": "Q35794",
+    "name": "University of Cambridge"
+  },
+  "Stanford University": {
+    "openalex_id": "I97018004",
+    "wikidata_id": "Q41506",
+    "name": "Stanford University"
+  },
+  "ETH Zurich": {
+    "openalex_id": "I35440088",
+    "wikidata_id": "Q11942",
+    "name": "ETH Zurich"
+  },
+  "National University of Singapore (NUS)": {
+    "openalex_id": "I165932596",
+    "wikidata_id": null,
+    "name": "National University of Singapore"
+  },
+  "University College London (UCL)": {
+    "openalex_id": "I45129253",
+    "wikidata_id": null,
+    "name": "University College London"
+  },
+  "California Institute of Technology (Caltech)": {
+    "openalex_id": "I122411786",
+    "wikidata_id": null,
+    "name": "California Institute of Technology"
+  },
+  "University of Pennsylvania": {
+    "openalex_id": "I79576946",
+    "wikidata_id": null,
+    "name": "University of Pennsylvania"
+  },
+  "University of California Berkeley (UCB)": {
+    "openalex_id": "I95457486",
+    "wikidata_id": "Q168756",
+    "name": "University of California, Berkeley"
+  },
+  "University of Melbourne": {
+    "openalex_id": "I165779595",
+    "wikidata_id": null,
+    "name": "The University of Melbourne"
+  },
+  "Peking University": {
+    "openalex_id": "I20231570",
+    "wikidata_id": "Q16952",
+    "name": "Peking University"
+  },
+  "Nanyang Technological University (NTU)": {
+    "openalex_id": "I172675005",
+    "wikidata_id": null,
+    "name": "Nanyang Technological University"
+  },
+  "Cornell University": {
+    "openalex_id": "I205783295",
+    "wikidata_id": null,
+    "name": "Cornell University"
+  },
+  "The University of Hong Kong (HKU)": {
+    "openalex_id": "I4405261251",
+    "wikidata_id": "Q99229082",
+    "name": "The Hong Kong University of Science and Technology (Guangzhou)"
+  },
+  "University of Sydney": {
+    "openalex_id": "I129604602",
+    "wikidata_id": "Q487556",
+    "name": "The University of Sydney"
+  },
+  "University of New South Wales (UNSW Sydney)": {
+    "openalex_id": "I31746571",
+    "wikidata_id": null,
+    "name": "UNSW Sydney"
+  },
+  "Tsinghua University": {
+    "openalex_id": "I99065089",
+    "wikidata_id": null,
+    "name": "Tsinghua University"
+  },
+  "University of Chicago": {
+    "openalex_id": "I40347166",
+    "wikidata_id": "Q131252",
+    "name": "University of Chicago"
+  },
+  "Princeton University": {
+    "openalex_id": "I20089843",
+    "wikidata_id": null,
+    "name": "Princeton University"
+  },
+  "Yale University": {
+    "openalex_id": "I32971472",
+    "wikidata_id": "Q49112",
+    "name": "Yale University"
+  },
+  "Universit\u00e9 PSL": {
+    "openalex_id": "I2746051580",
+    "wikidata_id": null,
+    "name": "Universit\u00e9 Paris Sciences et Lettres"
+  },
+  "University of Toronto": {
+    "openalex_id": "I185261750",
+    "wikidata_id": "Q180865",
+    "name": "University of Toronto"
+  },
+  "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)": {
+    "openalex_id": "I5124864",
+    "wikidata_id": null,
+    "name": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne"
+  },
+  "University of Edinburgh": {
+    "openalex_id": "I98677209",
+    "wikidata_id": null,
+    "name": "University of Edinburgh"
+  },
+  "Technical University of Munich (TUM)": {
+    "openalex_id": "I62916508",
+    "wikidata_id": null,
+    "name": "Technical University of Munich"
+  },
+  "McGill University": {
+    "openalex_id": "I5023651",
+    "wikidata_id": null,
+    "name": "McGill University"
+  },
+  "Australian National University (ANU)": {
+    "openalex_id": "I118347636",
+    "wikidata_id": "Q127990",
+    "name": "Australian National University"
+  },
+  "Seoul National University": {
+    "openalex_id": "I139264467",
+    "wikidata_id": null,
+    "name": "Seoul National University"
+  },
+  "The University of Tokyo": {
+    "openalex_id": "I74801974",
+    "wikidata_id": "Q7842",
+    "name": "The University of Tokyo"
+  },
+  "Johns Hopkins University": {
+    "openalex_id": "I145311948",
+    "wikidata_id": null,
+    "name": "Johns Hopkins University"
+  },
+  "University of Manchester": {
+    "openalex_id": "I28407311",
+    "wikidata_id": null,
+    "name": "University of Manchester"
+  },
+  "Columbia University": {
+    "openalex_id": "I78577930",
+    "wikidata_id": "Q49088",
+    "name": "Columbia University"
+  },
+  "The Chinese University of Hong Kong (CUHK)": {
+    "openalex_id": null,
+    "wikidata_id": null,
+    "name": "The Chinese University of Hong Kong (CUHK)"
+  },
+  "Monash University": {
+    "openalex_id": "I56590836",
+    "wikidata_id": null,
+    "name": "Monash University"
+  },
+  "University of British Columbia": {
+    "openalex_id": "I141945490",
+    "wikidata_id": "Q391028",
+    "name": "University of British Columbia"
+  },
+  "Fudan University": {
+    "openalex_id": "I24943067",
+    "wikidata_id": "Q495015",
+    "name": "Fudan University"
+  },
+  "King's College London": {
+    "openalex_id": "I183935753",
+    "wikidata_id": null,
+    "name": "King's College London"
+  },
+  "The University of Queensland": {
+    "openalex_id": "I165143802",
+    "wikidata_id": null,
+    "name": "The University of Queensland"
+  },
+  "University of California Los Angeles (UCLA)": {
+    "openalex_id": "I161318765",
+    "wikidata_id": null,
+    "name": "University of California, Los Angeles"
+  },
+  "New York University (NYU)": {
+    "openalex_id": "I57206974",
+    "wikidata_id": "Q49210",
+    "name": "New York University"
+  },
+  "University of Michigan-Ann Arbor": {
+    "openalex_id": "I27837315",
+    "wikidata_id": null,
+    "name": "University of Michigan"
+  },
+  "Shanghai Jiao Tong University": {
+    "openalex_id": "I183067930",
+    "wikidata_id": "Q525169",
+    "name": "Shanghai Jiao Tong University"
+  },
+  "Institut Polytechnique de Paris": {
+    "openalex_id": "I4210145102",
+    "wikidata_id": null,
+    "name": "Institut Polytechnique de Paris"
+  },
+  "The Hong Kong University of Science and Technology (HKUST)": {
+    "openalex_id": "I4405261251",
+    "wikidata_id": "Q99229082",
+    "name": "The Hong Kong University of Science and Technology (Guangzhou)"
+  },
+  "Zhejiang University": {
+    "openalex_id": "I76130692",
+    "wikidata_id": null,
+    "name": "Zhejiang University"
+  },
+  "Delft University of Technology": {
+    "openalex_id": "I98358874",
+    "wikidata_id": "Q752663",
+    "name": "Delft University of Technology"
+  },
+  "Kyoto University": {
+    "openalex_id": "I22299242",
+    "wikidata_id": null,
+    "name": "Kyoto University"
+  },
+  "Northwestern University": {
+    "openalex_id": "I111979921",
+    "wikidata_id": null,
+    "name": "Northwestern University"
+  },
+  "London School of Economics and Political Science (LSE)": {
+    "openalex_id": "I909854389",
+    "wikidata_id": "Q174570",
+    "name": "London School of Economics and Political Science"
+  },
+  "KAIST": {
+    "openalex_id": "I157485424",
+    "wikidata_id": "Q39949",
+    "name": "Korea Advanced Institute of Science and Technology"
+  },
+  "University of Bristol": {
+    "openalex_id": "I36234482",
+    "wikidata_id": null,
+    "name": "University of Bristol"
+  },
+  "University of Amsterdam": {
+    "openalex_id": "I887064364",
+    "wikidata_id": "Q214341",
+    "name": "University of Amsterdam"
+  },
+  "Yonsei University": {
+    "openalex_id": "I193775966",
+    "wikidata_id": null,
+    "name": "Yonsei University"
+  },
+  "The Hong Kong Polytechnic University": {
+    "openalex_id": null,
+    "wikidata_id": null,
+    "name": "The Hong Kong Polytechnic University"
+  },
+  "Carnegie Mellon University": {
+    "openalex_id": "I74973139",
+    "wikidata_id": null,
+    "name": "Carnegie Mellon University"
+  },
+  "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen (LMU Munich)": {
+    "openalex_id": "I8204097",
+    "wikidata_id": null,
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+  },
+  "Universiti Malaya (UM)": {
+    "openalex_id": "I33849332",
+    "wikidata_id": null,
+    "name": "University of Malaya"
+  },
+  "Duke University": {
+    "openalex_id": "I170897317",
+    "wikidata_id": "Q168751",
+    "name": "Duke University"
+  },
+  "City University of Hong Kong": {
+    "openalex_id": "I168719708",
+    "wikidata_id": "Q787360",
+    "name": "City University of Hong Kong"
+  },
+  "KU Leuven": {
+    "openalex_id": "I99464096",
+    "wikidata_id": null,
+    "name": "KU Leuven"
+  },
+  "Sorbonne University": {
+    "openalex_id": "I39804081",
+    "wikidata_id": "Q41497113",
+    "name": "Sorbonne Universit\u00e9"
+  },
+  "The University of Auckland": {
+    "openalex_id": null,
+    "wikidata_id": null,
+    "name": "The University of Auckland"
+  },
+  "University of Texas at Austin": {
+    "openalex_id": "I86519309",
+    "wikidata_id": null,
+    "name": "The University of Texas at Austin"
+  },
+  "Korea University": {
+    "openalex_id": "I197347611",
+    "wikidata_id": "Q39997",
+    "name": "Korea University"
+  },
+  "National Taiwan University (NTU)": {
+    "openalex_id": "I16733864",
+    "wikidata_id": null,
+    "name": "National Taiwan University"
+  },
+  "The University of Warwick": {
+    "openalex_id": null,
+    "wikidata_id": null,
+    "name": "The University of Warwick"
+  },
+  "University of Illinois at Urbana-Champaign": {
+    "openalex_id": null,
+    "wikidata_id": null,
+    "name": "University of Illinois at Urbana-Champaign"
+  },
+  "Universidad de Buenos Aires (UBA)": {
+    "openalex_id": "I24354313",
+    "wikidata_id": null,
+    "name": "Universidad de Buenos Aires"
+  },
+  "University of California San Diego (UCSD)": {
+    "openalex_id": "I36258959",
+    "wikidata_id": null,
+    "name": "University of California San Diego"
+  },
+  "Universit\u00e9 Paris-Saclay": {
+    "openalex_id": "I277688954",
+    "wikidata_id": "Q109409389",
+    "name": "Universit\u00e9 Paris-Saclay"
+  },
+  "KTH Royal Institute of Technology": {
+    "openalex_id": "I86987016",
+    "wikidata_id": null,
+    "name": "KTH Royal Institute of Technology"
+  },
+  "Lund University": {
+    "openalex_id": "I187531555",
+    "wikidata_id": "Q218506",
+    "name": "Lund University"
+  },
+  "University of Washington": {
+    "openalex_id": "I201448701",
+    "wikidata_id": null,
+    "name": "University of Washington"
+  },
+  "The University of Western Australia": {
+    "openalex_id": "I177877127",
+    "wikidata_id": null,
+    "name": "The University of Western Australia"
+  },
+  "University of Glasgow": {
+    "openalex_id": "I7882870",
+    "wikidata_id": null,
+    "name": "University of Glasgow"
+  },
+  "Brown University": {
+    "openalex_id": "I27804330",
+    "wikidata_id": null,
+    "name": "Brown University"
+  },
+  "University of Birmingham": {
+    "openalex_id": "I79619799",
+    "wikidata_id": null,
+    "name": "University of Birmingham"
+  },
+  "University of Southampton": {
+    "openalex_id": "I43439940",
+    "wikidata_id": null,
+    "name": "University of Southampton"
+  },
+  "The University of Adelaide": {
+    "openalex_id": "I5681781",
+    "wikidata_id": null,
+    "name": "The University of Adelaide"
+  },
+  "University of Leeds": {
+    "openalex_id": "I130828816",
+    "wikidata_id": "Q503424",
+    "name": "University of Leeds"
+  },
+  "Ruprecht-Karls-Universit\u00e4t Heidelberg": {
+    "openalex_id": "I223822909",
+    "wikidata_id": "Q151510",
+    "name": "Heidelberg University"
+  },
+  "Tokyo Institute of Technology": {
+    "openalex_id": "I114531698",
+    "wikidata_id": "Q587326",
+    "name": "Tokyo Institute of Technology"
+  },
+  "Osaka University": {
+    "openalex_id": "I98285908",
+    "wikidata_id": "Q651233",
+    "name": "The University of Osaka"
+  },
+  "Trinity College Dublin": {
+    "openalex_id": "I205274468",
+    "wikidata_id": "Q258464",
+    "name": "Trinity College Dublin"
+  },
+  "University of Technology Sydney (UTS)": {
+    "openalex_id": "I114017466",
+    "wikidata_id": null,
+    "name": "University of Technology Sydney"
+  },
+  "Durham University": {
+    "openalex_id": "I190082696",
+    "wikidata_id": null,
+    "name": "Durham University"
+  },
+  "Purdue University": {
+    "openalex_id": "I219193219",
+    "wikidata_id": "Q217741",
+    "name": "Purdue University West Lafayette"
+  },
+  "Universidade de S\u00e3o Paulo (USP)": {
+    "openalex_id": "I17974374",
+    "wikidata_id": "Q835960",
+    "name": "Universidade de S\u00e3o Paulo"
+  },
+  "Pontificia Universidad Cat\u00f3lica de Chile": {
+    "openalex_id": "I162148367",
+    "wikidata_id": null,
+    "name": "Pontificia Universidad Cat\u00f3lica de Chile"
+  },
+  "Lomonosov Moscow State University": {
+    "openalex_id": "I19880235",
+    "wikidata_id": "Q13164",
+    "name": "Lomonosov Moscow State University"
+  },
+  "Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM)": {
+    "openalex_id": "I8961855",
+    "wikidata_id": "Q222738",
+    "name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
+  },
+  "University of Alberta": {
+    "openalex_id": "I154425047",
+    "wikidata_id": null,
+    "name": "University of Alberta"
+  },
+  "Freie Universit\u00e4t Berlin": {
+    "openalex_id": "I75951250",
+    "wikidata_id": null,
+    "name": "Freie Universit\u00e4t Berlin"
+  },
+  "POSTECH": {
+    "openalex_id": "I123900574",
+    "wikidata_id": "Q40018",
+    "name": "Pohang University of Science and Technology"
+  },
+  "RWTH Aachen University": {
+    "openalex_id": "I887968799",
+    "wikidata_id": "Q273263",
+    "name": "RWTH Aachen University"
+  },
+  "Pennsylvania State University": {
+    "openalex_id": "I130769515",
+    "wikidata_id": null,
+    "name": "Pennsylvania State University"
+  },
+  "University of Copenhagen": {
+    "openalex_id": "I124055696",
+    "wikidata_id": "Q186285",
+    "name": "University of Copenhagen"
+  }
+}

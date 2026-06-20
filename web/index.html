@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XRank — University Prestige Ranking</title>
+    <meta name="description" content="XRank ranks universities globally by academic hiring prestige using PageRank on Wikidata, OpenAlex, and ORCID data.">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="background-effects">
+        <div class="glow glow-1"></div>
+        <div class="glow glow-2"></div>
+        <div class="glow glow-3"></div>
+    </div>
+
+    <div class="container">
+        <header class="glass-panel" id="header">
+            <div class="logo">
+                <h1>XRank</h1>
+                <span class="badge">Global API · Open Data</span>
+            </div>
+            <p class="subtitle">Global University Prestige Ranking via Faculty PhD-to-Employment Flow Networks</p>
+        </header>
+
+        <div class="stats-row" id="statsRow">
+            <div class="stat-card glass-panel">
+                <div class="stat-value" id="statTotal">—</div>
+                <div class="stat-label">Universities Ranked</div>
+            </div>
+            <div class="stat-card glass-panel">
+                <div class="stat-value" id="statEdges">—</div>
+                <div class="stat-label">Hiring Connections</div>
+            </div>
+            <div class="stat-card glass-panel">
+                <div class="stat-value" id="statTop">—</div>
+                <div class="stat-label">#1 University</div>
+            </div>
+            <div class="stat-card glass-panel">
+                <div class="stat-value">0.85</div>
+                <div class="stat-label">Damping Factor</div>
+            </div>
+        </div>
+
+        <main class="dashboard">
+            <section class="rankings glass-panel">
+                <div class="section-header">
+                    <h2>📊 XRank vs QS Rankings</h2>
+                    <div class="toggle-group">
+                        <button class="toggle-btn active" id="btnAll">All</button>
+                        <button class="toggle-btn" id="btnUS">US Only</button>
+                        <button class="toggle-btn" id="btnIntl">International</button>
+                    </div>
+                </div>
+                <div class="table-container" id="tableContainer">
+                    <table id="rankingsTable">
+                        <thead>
+                            <tr>
+                                <th>XRank</th>
+                                <th>Δ</th>
+                                <th>University</th>
+                                <th>Country</th>
+                                <th>QS</th>
+                                <th>Total Placed</th>
+                                <th>Score</th>
+                            </tr>
+                        </thead>
+                        <tbody id="rankingsBody">
+                            <!-- Populated by JS -->
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <section class="visualization glass-panel">
+                <div class="section-header">
+                    <h2>🕸️ Faculty Hiring Network</h2>
+                    <p class="hint">Top 20 · Drag nodes · Hover for details</p>
+                </div>
+                <div id="networkGraph" class="graph-container"></div>
+                <div id="tooltip" class="tooltip"></div>
+            </section>
+        </main>
+
+        <footer class="glass-panel footer">
+            <p>Data Source: <a href="https://openalex.org/" target="_blank">OpenAlex</a> + <a href="https://orcid.org/" target="_blank">ORCID</a> + <a href="https://www.wikidata.org/" target="_blank">Wikidata</a> · Algorithm: Weighted PageRank (d=0.85) · Self-loops removed</p>
+        </footer>
+    </div>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>
