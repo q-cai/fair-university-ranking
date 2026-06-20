@@ -8,7 +8,7 @@ It uses **Weighted PageRank** to determine how effectively universities train Ph
 
 ## 🔗 Live Online Dashboard
 The interactive visualization dashboard is hosted live online:
-👉 **[https://q-cai.github.io/university-ranking/web/](https://q-cai.github.io/university-ranking/web/)**
+👉 **[https://q-cai.github.io/fair-university-ranking/web/](https://q-cai.github.io/fair-university-ranking/web/)**
 
 *Explore the force-directed D3.js network graph showing prestige flows and the side-by-side XRank vs. QS Rank comparison.*
 
