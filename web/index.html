@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>XRank — University Prestige Ranking</title>
-    <meta name="description" content="XRank ranks universities globally by academic hiring prestige using PageRank on Wikidata, OpenAlex, and ORCID data.">
+    <title>Fair University Ranking</title>
+    <meta name="description" content="Fair University Ranking (FairRank) ranks universities globally by academic hiring prestige using PageRank on Wikidata, OpenAlex, and ORCID data.">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="index.css">
 </head>
@@ -18,18 +18,18 @@
     <div class="container">
         <header class="glass-panel" id="header">
             <div class="logo">
-                <h1>XRank</h1>
+                <h1>FairRank</h1>
                 <span class="badge">Global API · Open Data</span>
             </div>
             <p class="subtitle">Global University Prestige Ranking via Faculty PhD-to-Employment Flow Networks</p>
         </header>
 
         <section class="glass-panel intro-card">
-            <h2>💡 What is XRank?</h2>
+            <h2>💡 What is Fair University Ranking?</h2>
             <p class="intro-text">
                 Traditional university rankings rely heavily on subjective surveys, financial resources, or research outputs. 
-                <strong>XRank</strong> offers a mathematically rigorous, globally fair alternative by mapping the <strong>PhD-to-Faculty employment flow network</strong>. 
-                Using a consolidated dataset across Wikidata, OpenAlex, and ORCID APIs, XRank runs a <strong>Weighted PageRank</strong> algorithm to compute the absolute prestige of universities based on where their PhD graduates go to teach.
+                <strong>Fair University Ranking (FairRank)</strong> offers a mathematically rigorous, globally fair alternative by mapping the <strong>PhD-to-Faculty employment flow network</strong>. 
+                Using a consolidated dataset across Wikidata, OpenAlex, and ORCID APIs, FairRank runs a <strong>Weighted PageRank</strong> algorithm to compute the absolute prestige of universities based on where their PhD graduates go to teach.
             </p>
         </section>
 
@@ -55,7 +55,7 @@
         <main class="dashboard">
             <section class="rankings glass-panel">
                 <div class="section-header">
-                    <h2>📊 XRank vs QS Rankings</h2>
+                    <h2>📊 FairRank vs QS Rankings</h2>
                     <div class="toggle-group">
                         <button class="toggle-btn active" id="btnAll">All</button>
                         <button class="toggle-btn" id="btnUS">US Only</button>
@@ -66,7 +66,7 @@
                     <table id="rankingsTable">
                         <thead>
                             <tr>
-                                <th>XRank</th>
+                                <th>FairRank</th>
                                 <th>Δ</th>
                                 <th>University</th>
                                 <th>Country</th>
@@ -96,7 +96,7 @@
             <h2>📖 Metric Explanations</h2>
             <div class="explanation-grid">
                 <div class="exp-item">
-                    <h3>XRank Score</h3>
+                    <h3>FairRank Score</h3>
                     <p>The consolidated academic prestige value calculated via <strong>Weighted PageRank</strong> (multiplied by 1,000 for legibility). It represents the probability of reaching a university by tracing academic career trajectories. The higher the score, the more dominant a university is as a producer of prestigious faculty members.</p>
                 </div>
                 <div class="exp-item">
@@ -105,7 +105,7 @@
                 </div>
                 <div class="exp-item">
                     <h3>Δ (Prestige Shift)</h3>
-                    <p>The change in position when comparing the university's <strong>XRank</strong> (academic placement prestige) against its official **QS World Ranking**. A positive green shift ($\Delta$) indicates that a school's actual academic placement power is stronger than its general QS reputation suggests.</p>
+                    <p>The change in position when comparing the university's <strong>FairRank</strong> (academic placement prestige) against its official **QS World Ranking**. A positive green shift ($\Delta$) indicates that a school's actual academic placement power is stronger than its general QS reputation suggests.</p>
                 </div>
             </div>
         </section>

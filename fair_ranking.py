@@ -85,7 +85,7 @@ def get_canonical_name(name, canonical_list):
                 
     return name_str
 
-def build_xrank_graph(edge_df, remove_self_loops=True):
+def build_hiring_graph(edge_df, remove_self_loops=True):
     """Build directed graph for PageRank."""
     G = nx.DiGraph()
     
@@ -111,7 +111,7 @@ def build_xrank_graph(edge_df, remove_self_loops=True):
                 
     return G
 
-def calculate_xrank(G):
+def calculate_pagerank(G):
     """Calculate PageRank scores."""
     # alpha=0.85 is standard PageRank damping factor
     # max_iter=1000 to ensure convergence
@@ -159,21 +159,20 @@ def main():
     
     # Build Graph
     print("Building hiring network graph...")
-    G = build_xrank_graph(edges, remove_self_loops=True)
+    G = build_hiring_graph(edges, remove_self_loops=True)
     
     # Calculate PageRank
-    print("Calculating XRank scores...")
-    pagerank_scores = calculate_xrank(G)
+    print("Calculating FairRank scores...")
+    pagerank_scores = calculate_pagerank(G)
     
     # Calculate Total Placed (out-degree) for each university in the network
     print("Calculating Total Placed for normalization...")
     acad_edges = edges[edges['TaxonomyLevel'] == 'Academia']
-    acad_edges_no_self = acad_edges[acad_edges['InstitutionName'] != acad_edges['DegreeInstitutionName']]
-    total_placed = acad_edges_no_self.groupby('DegreeInstitutionName')['Total'].sum().to_dict()
+    total_placed = acad_edges.groupby('DegreeInstitutionName')['Total'].sum().to_dict()
     
-    qs_df['XRank_Score'] = 0.0
+    qs_df['Fair_Score'] = 0.0
     qs_df['Total_Placed'] = 0.0
-    qs_df['Larremore_Name'] = None
+    qs_df['Mapped_Name'] = None
     qs_df['Data_Available'] = False
     
     print("Matching universities and applying scores...")
@@ -182,35 +181,34 @@ def main():
         
         # Since names are already normalized, we can match exactly using the canonical name
         if qs_name in pagerank_scores:
-            qs_df.at[idx, 'XRank_Score'] = pagerank_scores[qs_name]
+            qs_df.at[idx, 'Fair_Score'] = pagerank_scores[qs_name]
             qs_df.at[idx, 'Total_Placed'] = total_placed.get(qs_name, 1.0)
-            qs_df.at[idx, 'Larremore_Name'] = qs_name
+            qs_df.at[idx, 'Mapped_Name'] = qs_name
             qs_df.at[idx, 'Data_Available'] = True
 
     # Normalize score for easier reading (multiply by 1000)
-    qs_df['XRank_Score'] = qs_df['XRank_Score'] * 1000
+    qs_df['Fair_Score'] = qs_df['Fair_Score'] * 1000
     
-    # Sort by XRank
-    xrank_df = qs_df.sort_values(by='XRank_Score', ascending=False)
+    # Sort by Fair_Score
+    fair_df = qs_df.sort_values(by='Fair_Score', ascending=False)
     # Rank only universities that have data
-    valid_mask = xrank_df['Data_Available'] == True
-    xrank_df.loc[valid_mask, 'XRank'] = xrank_df.loc[valid_mask, 'XRank_Score'].rank(ascending=False, method='min')
+    valid_mask = fair_df['Data_Available'] == True
+    fair_df.loc[valid_mask, 'FairRank'] = fair_df.loc[valid_mask, 'Fair_Score'].rank(ascending=False, method='min')
     
     # Output to CSV
     os.makedirs('output', exist_ok=True)
-    xrank_file = 'output/xrank_rankings.csv'
-    xrank_df.to_csv(xrank_file, index=False)
-    print(f"Saved rankings to {xrank_file}")
+    fair_file = 'output/fair_university_rankings.csv'
+    fair_df.to_csv(fair_file, index=False)
+    print(f"Saved rankings to {fair_file}")
     
     # Print top 10 universities with data
-    print("\nTop 10 Global Universities by XRank (QS Top 100):")
-    ranked_unis = xrank_df[xrank_df['Data_Available'] == True]
-    top_unis = ranked_unis.head(10)
+    print("\nTop 10 Global Universities by FairRank (QS Top 100):")
+    top_unis = fair_df[fair_df['Data_Available'] == True].head(10)
     for idx, row in top_unis.iterrows():
-        print(f"XRank: {int(row['XRank'])} | {row['University']} (QS: {row['Rank']}) - Score: {row['XRank_Score']:.4f}")
+        print(f"FairRank: {int(row['FairRank'])} | {row['University']} (QS: {row['Rank']}) - Score: {row['Fair_Score']:.4f}")
         
     # Generate net flow matrix for the top 20 universities with data
-    top20_names = ranked_unis.head(20)['Larremore_Name'].tolist()
+    top20_names = top_unis['Mapped_Name'].tolist()[:20]
     flow_matrix = calculate_net_flow(edges, top20_names)
     flow_file = 'output/net_flow_matrix.csv'
     flow_matrix.to_csv(flow_file)
@@ -220,24 +218,24 @@ def main():
     import json
 
     # Get all matched universities (with data)
-    matched = xrank_df[xrank_df['Data_Available'] == True].copy()
-    matched = matched.sort_values('XRank_Score', ascending=False)
+    matched = fair_df[fair_df['Data_Available'] == True].copy()
+    matched = matched.sort_values('Fair_Score', ascending=False)
 
     # Prepare rankings JSON
     rankings_json = []
     for _, row in matched.iterrows():
         rankings_json.append({
-            'xrank': int(row['XRank']),
+            'fair_rank': int(row['FairRank']),
             'qs_rank': int(row['Rank']),
             'university': row['University'],
             'country': row['Country'],
-            'score': round(row['XRank_Score'], 4),
+            'score': round(row['Fair_Score'], 4),
             'total_placed': int(row['Total_Placed']),
-            'larremore_name': row['Larremore_Name']
+            'mapped_name': row['Mapped_Name']
         })
 
     # Prepare network edges JSON (only top 20 universities for visualization)
-    top_names = [r['larremore_name'] for r in rankings_json[:20]]
+    top_names = [r['mapped_name'] for r in rankings_json[:20]]
     acad_edges = edges[edges['TaxonomyLevel'] == 'Academia']
     network_edges = []
     for _, row in acad_edges.iterrows():

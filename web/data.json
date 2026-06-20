@@ -1,904 +1,904 @@
 {
   "rankings": [
     {
-      "xrank": 1,
+      "fair_rank": 1,
       "qs_rank": 4,
       "university": "Harvard University",
       "country": "United States",
       "score": 1.1037,
-      "total_placed": 1292,
-      "larremore_name": "Harvard University"
+      "total_placed": 2230,
+      "mapped_name": "Harvard University"
     },
     {
-      "xrank": 2,
+      "fair_rank": 2,
       "qs_rank": 6,
       "university": "Stanford University",
       "country": "United States",
       "score": 0.8567,
-      "total_placed": 393,
-      "larremore_name": "Stanford University"
+      "total_placed": 794,
+      "mapped_name": "Stanford University"
     },
     {
-      "xrank": 3,
+      "fair_rank": 3,
       "qs_rank": 9,
       "university": "University College London (UCL)",
       "country": "United Kingdom",
       "score": 0.8563,
-      "total_placed": 421,
-      "larremore_name": "University College London (UCL)"
+      "total_placed": 424,
+      "mapped_name": "University College London (UCL)"
     },
     {
-      "xrank": 4,
+      "fair_rank": 4,
       "qs_rank": 12,
       "university": "University of California Berkeley (UCB)",
       "country": "United States",
       "score": 0.8379,
-      "total_placed": 655,
-      "larremore_name": "University of California Berkeley (UCB)"
+      "total_placed": 658,
+      "mapped_name": "University of California Berkeley (UCB)"
     },
     {
-      "xrank": 5,
+      "fair_rank": 5,
       "qs_rank": 3,
       "university": "University of Oxford",
       "country": "United Kingdom",
       "score": 0.821,
-      "total_placed": 367,
-      "larremore_name": "University of Oxford"
+      "total_placed": 595,
+      "mapped_name": "University of Oxford"
     },
     {
-      "xrank": 6,
+      "fair_rank": 6,
       "qs_rank": 1,
       "university": "Massachusetts Institute of Technology (MIT)",
       "country": "United States",
       "score": 0.8053,
-      "total_placed": 600,
-      "larremore_name": "Massachusetts Institute of Technology (MIT)"
+      "total_placed": 602,
+      "mapped_name": "Massachusetts Institute of Technology (MIT)"
     },
     {
-      "xrank": 7,
+      "fair_rank": 7,
       "qs_rank": 5,
       "university": "University of Cambridge",
       "country": "United Kingdom",
       "score": 0.782,
-      "total_placed": 483,
-      "larremore_name": "University of Cambridge"
+      "total_placed": 753,
+      "mapped_name": "University of Cambridge"
     },
     {
-      "xrank": 8,
+      "fair_rank": 8,
       "qs_rank": 10,
       "university": "California Institute of Technology (Caltech)",
       "country": "United States",
       "score": 0.6564,
-      "total_placed": 224,
-      "larremore_name": "California Institute of Technology (Caltech)"
+      "total_placed": 230,
+      "mapped_name": "California Institute of Technology (Caltech)"
     },
     {
-      "xrank": 9,
+      "fair_rank": 9,
       "qs_rank": 2,
       "university": "Imperial College London",
       "country": "United Kingdom",
       "score": 0.5582,
-      "total_placed": 95,
-      "larremore_name": "Imperial College London"
+      "total_placed": 99,
+      "mapped_name": "Imperial College London"
     },
     {
-      "xrank": 10,
+      "fair_rank": 10,
       "qs_rank": 34,
       "university": "Columbia University",
       "country": "United States",
       "score": 0.5305,
-      "total_placed": 480,
-      "larremore_name": "Columbia University"
+      "total_placed": 857,
+      "mapped_name": "Columbia University"
     },
     {
-      "xrank": 11,
+      "fair_rank": 11,
       "qs_rank": 21,
       "university": "University of Chicago",
       "country": "United States",
       "score": 0.5089,
-      "total_placed": 440,
-      "larremore_name": "University of Chicago"
+      "total_placed": 693,
+      "mapped_name": "University of Chicago"
     },
     {
-      "xrank": 12,
+      "fair_rank": 12,
       "qs_rank": 25,
       "university": "University of Toronto",
       "country": "Canada",
       "score": 0.4991,
-      "total_placed": 156,
-      "larremore_name": "University of Toronto"
+      "total_placed": 368,
+      "mapped_name": "University of Toronto"
     },
     {
-      "xrank": 13,
+      "fair_rank": 13,
       "qs_rank": 76,
       "university": "University of Washington",
       "country": "United States",
       "score": 0.4888,
-      "total_placed": 248,
-      "larremore_name": "University of Washington"
+      "total_placed": 250,
+      "mapped_name": "University of Washington"
     },
     {
-      "xrank": 14,
+      "fair_rank": 14,
       "qs_rank": 22,
       "university": "Princeton University",
       "country": "United States",
       "score": 0.4781,
-      "total_placed": 614,
-      "larremore_name": "Princeton University"
+      "total_placed": 616,
+      "mapped_name": "Princeton University"
     },
     {
-      "xrank": 15,
+      "fair_rank": 15,
       "qs_rank": 32,
       "university": "The University of Tokyo",
       "country": "Japan",
       "score": 0.4769,
-      "total_placed": 134,
-      "larremore_name": "The University of Tokyo"
+      "total_placed": 573,
+      "mapped_name": "The University of Tokyo"
     },
     {
-      "xrank": 16,
+      "fair_rank": 16,
       "qs_rank": 23,
       "university": "Yale University",
       "country": "United States",
       "score": 0.4653,
-      "total_placed": 634,
-      "larremore_name": "Yale University"
+      "total_placed": 967,
+      "mapped_name": "Yale University"
     },
     {
-      "xrank": 17,
+      "fair_rank": 17,
       "qs_rank": 11,
       "university": "University of Pennsylvania",
       "country": "United States",
       "score": 0.465,
-      "total_placed": 231,
-      "larremore_name": "University of Pennsylvania"
+      "total_placed": 232,
+      "mapped_name": "University of Pennsylvania"
     },
     {
-      "xrank": 18,
+      "fair_rank": 18,
       "qs_rank": 27,
       "university": "University of Edinburgh",
       "country": "United Kingdom",
       "score": 0.4439,
-      "total_placed": 128,
-      "larremore_name": "University of Edinburgh"
+      "total_placed": 135,
+      "mapped_name": "University of Edinburgh"
     },
     {
-      "xrank": 19,
+      "fair_rank": 19,
       "qs_rank": 34,
       "university": "University of Manchester",
       "country": "United Kingdom",
       "score": 0.4386,
-      "total_placed": 140,
-      "larremore_name": "University of Manchester"
+      "total_placed": 146,
+      "mapped_name": "University of Manchester"
     },
     {
-      "xrank": 20,
+      "fair_rank": 20,
       "qs_rank": 44,
       "university": "University of Michigan-Ann Arbor",
       "country": "United States",
       "score": 0.4146,
-      "total_placed": 296,
-      "larremore_name": "University of Michigan-Ann Arbor"
+      "total_placed": 297,
+      "mapped_name": "University of Michigan-Ann Arbor"
     },
     {
-      "xrank": 21,
+      "fair_rank": 21,
       "qs_rank": 13,
       "university": "University of Melbourne",
       "country": "Australia",
       "score": 0.4073,
-      "total_placed": 74,
-      "larremore_name": "University of Melbourne"
+      "total_placed": 85,
+      "mapped_name": "University of Melbourne"
     },
     {
-      "xrank": 22,
+      "fair_rank": 22,
       "qs_rank": 16,
       "university": "Cornell University",
       "country": "United States",
       "score": 0.4066,
-      "total_placed": 372,
-      "larremore_name": "Cornell University"
+      "total_placed": 374,
+      "mapped_name": "Cornell University"
     },
     {
-      "xrank": 23,
+      "fair_rank": 23,
       "qs_rank": 43,
       "university": "New York University (NYU)",
       "country": "United States",
       "score": 0.4054,
-      "total_placed": 323,
-      "larremore_name": "New York University (NYU)"
+      "total_placed": 325,
+      "mapped_name": "New York University (NYU)"
     },
     {
-      "xrank": 24,
+      "fair_rank": 24,
       "qs_rank": 32,
       "university": "Johns Hopkins University",
       "country": "United States",
       "score": 0.4015,
       "total_placed": 176,
-      "larremore_name": "Johns Hopkins University"
+      "mapped_name": "Johns Hopkins University"
     },
     {
-      "xrank": 25,
+      "fair_rank": 25,
       "qs_rank": 41,
       "university": "The University of Queensland",
       "country": "Australia",
       "score": 0.4013,
-      "total_placed": 34,
-      "larremore_name": "The University of Queensland"
+      "total_placed": 46,
+      "mapped_name": "The University of Queensland"
     },
     {
-      "xrank": 26,
+      "fair_rank": 26,
       "qs_rank": 78,
       "university": "University of Glasgow",
       "country": "United Kingdom",
       "score": 0.3854,
-      "total_placed": 61,
-      "larremore_name": "University of Glasgow"
+      "total_placed": 78,
+      "mapped_name": "University of Glasgow"
     },
     {
-      "xrank": 27,
+      "fair_rank": 27,
       "qs_rank": 31,
       "university": "Seoul National University",
       "country": "South Korea",
       "score": 0.3623,
-      "total_placed": 39,
-      "larremore_name": "Seoul National University"
+      "total_placed": 47,
+      "mapped_name": "Seoul National University"
     },
     {
-      "xrank": 28,
+      "fair_rank": 28,
       "qs_rank": 72,
       "university": "University of California San Diego (UCSD)",
       "country": "United States",
       "score": 0.355,
-      "total_placed": 53,
-      "larremore_name": "University of California San Diego (UCSD)"
+      "total_placed": 57,
+      "mapped_name": "University of California San Diego (UCSD)"
     },
     {
-      "xrank": 29,
+      "fair_rank": 29,
       "qs_rank": 61,
       "university": "Duke University",
       "country": "United States",
       "score": 0.3518,
-      "total_placed": 64,
-      "larremore_name": "Duke University"
+      "total_placed": 115,
+      "mapped_name": "Duke University"
     },
     {
-      "xrank": 30,
+      "fair_rank": 30,
       "qs_rank": 42,
       "university": "University of California Los Angeles (UCLA)",
       "country": "United States",
       "score": 0.347,
-      "total_placed": 136,
-      "larremore_name": "University of California Los Angeles (UCLA)"
+      "total_placed": 137,
+      "mapped_name": "University of California Los Angeles (UCLA)"
     },
     {
-      "xrank": 31,
+      "fair_rank": 31,
       "qs_rank": 86,
       "university": "Osaka University",
       "country": "Japan",
       "score": 0.3365,
-      "total_placed": 34,
-      "larremore_name": "Osaka University"
+      "total_placed": 83,
+      "mapped_name": "Osaka University"
     },
     {
-      "xrank": 32,
+      "fair_rank": 32,
       "qs_rank": 37,
       "university": "Monash University",
       "country": "Australia",
       "score": 0.3323,
-      "total_placed": 23,
-      "larremore_name": "Monash University"
+      "total_placed": 30,
+      "mapped_name": "Monash University"
     },
     {
-      "xrank": 33,
+      "fair_rank": 33,
       "qs_rank": 50,
       "university": "Kyoto University",
       "country": "Japan",
       "score": 0.3309,
-      "total_placed": 77,
-      "larremore_name": "Kyoto University"
+      "total_placed": 86,
+      "mapped_name": "Kyoto University"
     },
     {
-      "xrank": 34,
+      "fair_rank": 34,
       "qs_rank": 30,
       "university": "Australian National University (ANU)",
       "country": "Australia",
       "score": 0.3301,
-      "total_placed": 56,
-      "larremore_name": "Australian National University (ANU)"
+      "total_placed": 69,
+      "mapped_name": "Australian National University (ANU)"
     },
     {
-      "xrank": 35,
+      "fair_rank": 35,
       "qs_rank": 83,
       "university": "University of Leeds",
       "country": "United Kingdom",
       "score": 0.3219,
-      "total_placed": 44,
-      "larremore_name": "University of Leeds"
+      "total_placed": 98,
+      "mapped_name": "University of Leeds"
     },
     {
-      "xrank": 36,
+      "fair_rank": 36,
       "qs_rank": 79,
       "university": "Brown University",
       "country": "United States",
       "score": 0.3194,
-      "total_placed": 154,
-      "larremore_name": "Brown University"
+      "total_placed": 155,
+      "mapped_name": "Brown University"
     },
     {
-      "xrank": 37,
+      "fair_rank": 37,
       "qs_rank": 18,
       "university": "University of Sydney",
       "country": "Australia",
       "score": 0.3113,
-      "total_placed": 55,
-      "larremore_name": "University of Sydney"
+      "total_placed": 188,
+      "mapped_name": "University of Sydney"
     },
     {
-      "xrank": 38,
+      "fair_rank": 38,
       "qs_rank": 82,
       "university": "The University of Adelaide",
       "country": "Australia",
       "score": 0.3113,
-      "total_placed": 32,
-      "larremore_name": "The University of Adelaide"
+      "total_placed": 46,
+      "mapped_name": "The University of Adelaide"
     },
     {
-      "xrank": 39,
+      "fair_rank": 39,
       "qs_rank": 29,
       "university": "McGill University",
       "country": "Canada",
       "score": 0.3107,
-      "total_placed": 152,
-      "larremore_name": "McGill University"
+      "total_placed": 160,
+      "mapped_name": "McGill University"
     },
     {
-      "xrank": 40,
+      "fair_rank": 40,
       "qs_rank": 55,
       "university": "University of Amsterdam",
       "country": "Netherlands",
       "score": 0.309,
-      "total_placed": 103,
-      "larremore_name": "University of Amsterdam"
+      "total_placed": 434,
+      "mapped_name": "University of Amsterdam"
     },
     {
-      "xrank": 41,
+      "fair_rank": 41,
       "qs_rank": 77,
       "university": "The University of Western Australia",
       "country": "Australia",
       "score": 0.3059,
-      "total_placed": 21,
-      "larremore_name": "The University of Western Australia"
+      "total_placed": 31,
+      "mapped_name": "The University of Western Australia"
     },
     {
-      "xrank": 42,
+      "fair_rank": 42,
       "qs_rank": 40,
       "university": "King's College London",
       "country": "United Kingdom",
       "score": 0.305,
-      "total_placed": 72,
-      "larremore_name": "King's College London"
+      "total_placed": 74,
+      "mapped_name": "King's College London"
     },
     {
-      "xrank": 43,
+      "fair_rank": 43,
       "qs_rank": 51,
       "university": "Northwestern University",
       "country": "United States",
       "score": 0.3047,
-      "total_placed": 106,
-      "larremore_name": "Northwestern University"
+      "total_placed": 108,
+      "mapped_name": "Northwestern University"
     },
     {
-      "xrank": 44,
+      "fair_rank": 44,
       "qs_rank": 65,
       "university": "The University of Auckland",
       "country": "New Zealand",
       "score": 0.3047,
       "total_placed": 35,
-      "larremore_name": "The University of Auckland"
+      "mapped_name": "The University of Auckland"
     },
     {
-      "xrank": 45,
+      "fair_rank": 45,
       "qs_rank": 81,
       "university": "University of Southampton",
       "country": "United Kingdom",
       "score": 0.3014,
-      "total_placed": 33,
-      "larremore_name": "University of Southampton"
+      "total_placed": 37,
+      "mapped_name": "University of Southampton"
     },
     {
-      "xrank": 46,
+      "fair_rank": 46,
       "qs_rank": 38,
       "university": "University of British Columbia",
       "country": "Canada",
       "score": 0.2955,
-      "total_placed": 68,
-      "larremore_name": "University of British Columbia"
+      "total_placed": 136,
+      "mapped_name": "University of British Columbia"
     },
     {
-      "xrank": 47,
+      "fair_rank": 47,
       "qs_rank": 80,
       "university": "University of Birmingham",
       "country": "United Kingdom",
       "score": 0.2928,
-      "total_placed": 63,
-      "larremore_name": "University of Birmingham"
+      "total_placed": 66,
+      "mapped_name": "University of Birmingham"
     },
     {
-      "xrank": 48,
+      "fair_rank": 48,
       "qs_rank": 99,
       "university": "Pennsylvania State University",
       "country": "United States",
       "score": 0.2909,
       "total_placed": 46,
-      "larremore_name": "Pennsylvania State University"
+      "mapped_name": "Pennsylvania State University"
     },
     {
-      "xrank": 49,
+      "fair_rank": 49,
       "qs_rank": 96,
       "university": "Freie Universit\u00e4t Berlin",
       "country": "Germany",
       "score": 0.2904,
       "total_placed": 65,
-      "larremore_name": "Freie Universit\u00e4t Berlin"
+      "mapped_name": "Freie Universit\u00e4t Berlin"
     },
     {
-      "xrank": 50,
+      "fair_rank": 50,
       "qs_rank": 75,
       "university": "Lund University",
       "country": "Sweden",
       "score": 0.2882,
-      "total_placed": 30,
-      "larremore_name": "Lund University"
+      "total_placed": 156,
+      "mapped_name": "Lund University"
     },
     {
-      "xrank": 51,
+      "fair_rank": 51,
       "qs_rank": 93,
       "university": "Lomonosov Moscow State University",
       "country": "Russia",
       "score": 0.2866,
-      "total_placed": 31,
-      "larremore_name": "Lomonosov Moscow State University"
+      "total_placed": 224,
+      "mapped_name": "Lomonosov Moscow State University"
     },
     {
-      "xrank": 52,
+      "fair_rank": 52,
       "qs_rank": 52,
       "university": "London School of Economics and Political Science (LSE)",
       "country": "United Kingdom",
       "score": 0.2831,
-      "total_placed": 141,
-      "larremore_name": "London School of Economics and Political Science (LSE)"
+      "total_placed": 146,
+      "mapped_name": "London School of Economics and Political Science (LSE)"
     },
     {
-      "xrank": 53,
+      "fair_rank": 53,
       "qs_rank": 17,
       "university": "The University of Hong Kong (HKU)",
       "country": "Hong Kong SAR",
       "score": 0.2829,
       "total_placed": 22,
-      "larremore_name": "The University of Hong Kong (HKU)"
+      "mapped_name": "The University of Hong Kong (HKU)"
     },
     {
-      "xrank": 54,
+      "fair_rank": 54,
       "qs_rank": 54,
       "university": "University of Bristol",
       "country": "United Kingdom",
       "score": 0.2828,
-      "total_placed": 48,
-      "larremore_name": "University of Bristol"
+      "total_placed": 56,
+      "mapped_name": "University of Bristol"
     },
     {
-      "xrank": 55,
+      "fair_rank": 55,
       "qs_rank": 14,
       "university": "Peking University",
       "country": "China",
       "score": 0.2815,
-      "total_placed": 34,
-      "larremore_name": "Peking University"
+      "total_placed": 77,
+      "mapped_name": "Peking University"
     },
     {
-      "xrank": 56,
+      "fair_rank": 56,
       "qs_rank": 64,
       "university": "Sorbonne University",
       "country": "France",
       "score": 0.2812,
-      "total_placed": 58,
-      "larremore_name": "Sorbonne University"
+      "total_placed": 75,
+      "mapped_name": "Sorbonne University"
     },
     {
-      "xrank": 57,
+      "fair_rank": 57,
       "qs_rank": 59,
       "university": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen (LMU Munich)",
       "country": "Germany",
       "score": 0.2802,
       "total_placed": 206,
-      "larremore_name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen (LMU Munich)"
+      "mapped_name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen (LMU Munich)"
     },
     {
-      "xrank": 58,
+      "fair_rank": 58,
       "qs_rank": 89,
       "university": "Durham University",
       "country": "United Kingdom",
       "score": 0.2779,
-      "total_placed": 37,
-      "larremore_name": "Durham University"
+      "total_placed": 42,
+      "mapped_name": "Durham University"
     },
     {
-      "xrank": 59,
+      "fair_rank": 59,
       "qs_rank": 56,
       "university": "Yonsei University",
       "country": "South Korea",
       "score": 0.2765,
-      "total_placed": 9,
-      "larremore_name": "Yonsei University"
+      "total_placed": 13,
+      "mapped_name": "Yonsei University"
     },
     {
-      "xrank": 60,
+      "fair_rank": 60,
       "qs_rank": 66,
       "university": "University of Texas at Austin",
       "country": "United States",
       "score": 0.2758,
-      "total_placed": 77,
-      "larremore_name": "University of Texas at Austin"
+      "total_placed": 78,
+      "mapped_name": "University of Texas at Austin"
     },
     {
-      "xrank": 61,
+      "fair_rank": 61,
       "qs_rank": 8,
       "university": "National University of Singapore (NUS)",
       "country": "Singapore",
       "score": 0.2754,
-      "total_placed": 12,
-      "larremore_name": "National University of Singapore (NUS)"
+      "total_placed": 14,
+      "mapped_name": "National University of Singapore (NUS)"
     },
     {
-      "xrank": 62,
+      "fair_rank": 62,
       "qs_rank": 19,
       "university": "University of New South Wales (UNSW Sydney)",
       "country": "Australia",
       "score": 0.2749,
-      "total_placed": 38,
-      "larremore_name": "University of New South Wales (UNSW Sydney)"
+      "total_placed": 44,
+      "mapped_name": "University of New South Wales (UNSW Sydney)"
     },
     {
-      "xrank": 63,
+      "fair_rank": 63,
       "qs_rank": 70,
       "university": "University of Illinois at Urbana-Champaign",
       "country": "United States",
       "score": 0.2748,
       "total_placed": 5,
-      "larremore_name": "University of Illinois at Urbana-Champaign"
+      "mapped_name": "University of Illinois at Urbana-Champaign"
     },
     {
-      "xrank": 64,
+      "fair_rank": 64,
       "qs_rank": 20,
       "university": "Tsinghua University",
       "country": "China",
       "score": 0.2748,
-      "total_placed": 50,
-      "larremore_name": "Tsinghua University"
+      "total_placed": 53,
+      "mapped_name": "Tsinghua University"
     },
     {
-      "xrank": 65,
+      "fair_rank": 65,
       "qs_rank": 89,
       "university": "Purdue University",
       "country": "United States",
       "score": 0.2733,
-      "total_placed": 31,
-      "larremore_name": "Purdue University"
+      "total_placed": 101,
+      "mapped_name": "Purdue University"
     },
     {
-      "xrank": 66,
+      "fair_rank": 66,
       "qs_rank": 58,
       "university": "Carnegie Mellon University",
       "country": "United States",
       "score": 0.2699,
       "total_placed": 71,
-      "larremore_name": "Carnegie Mellon University"
+      "mapped_name": "Carnegie Mellon University"
     },
     {
-      "xrank": 67,
+      "fair_rank": 67,
       "qs_rank": 7,
       "university": "ETH Zurich",
       "country": "Switzerland",
       "score": 0.2697,
-      "total_placed": 55,
-      "larremore_name": "ETH Zurich"
+      "total_placed": 267,
+      "mapped_name": "ETH Zurich"
     },
     {
-      "xrank": 68,
+      "fair_rank": 68,
       "qs_rank": 67,
       "university": "Korea University",
       "country": "South Korea",
       "score": 0.2691,
-      "total_placed": 8,
-      "larremore_name": "Korea University"
+      "total_placed": 14,
+      "mapped_name": "Korea University"
     },
     {
-      "xrank": 69,
+      "fair_rank": 69,
       "qs_rank": 100,
       "university": "University of Copenhagen",
       "country": "Denmark",
       "score": 0.2669,
-      "total_placed": 46,
-      "larremore_name": "University of Copenhagen"
+      "total_placed": 351,
+      "mapped_name": "University of Copenhagen"
     },
     {
-      "xrank": 70,
+      "fair_rank": 70,
       "qs_rank": 39,
       "university": "Fudan University",
       "country": "China",
       "score": 0.2608,
-      "total_placed": 24,
-      "larremore_name": "Fudan University"
+      "total_placed": 42,
+      "mapped_name": "Fudan University"
     },
     {
-      "xrank": 71,
+      "fair_rank": 71,
       "qs_rank": 84,
       "university": "Ruprecht-Karls-Universit\u00e4t Heidelberg",
       "country": "Germany",
       "score": 0.2579,
-      "total_placed": 3,
-      "larremore_name": "Ruprecht-Karls-Universit\u00e4t Heidelberg"
+      "total_placed": 4,
+      "mapped_name": "Ruprecht-Karls-Universit\u00e4t Heidelberg"
     },
     {
-      "xrank": 72,
+      "fair_rank": 72,
       "qs_rank": 36,
       "university": "The Chinese University of Hong Kong (CUHK)",
       "country": "Hong Kong SAR",
       "score": 0.2567,
       "total_placed": 10,
-      "larremore_name": "The Chinese University of Hong Kong (CUHK)"
+      "mapped_name": "The Chinese University of Hong Kong (CUHK)"
     },
     {
-      "xrank": 73,
+      "fair_rank": 73,
       "qs_rank": 69,
       "university": "The University of Warwick",
       "country": "United Kingdom",
       "score": 0.2549,
       "total_placed": 31,
-      "larremore_name": "The University of Warwick"
+      "mapped_name": "The University of Warwick"
     },
     {
-      "xrank": 74,
+      "fair_rank": 74,
       "qs_rank": 95,
       "university": "University of Alberta",
       "country": "Canada",
       "score": 0.2518,
-      "total_placed": 45,
-      "larremore_name": "University of Alberta"
+      "total_placed": 48,
+      "mapped_name": "University of Alberta"
     },
     {
-      "xrank": 75,
+      "fair_rank": 75,
       "qs_rank": 48,
       "university": "Zhejiang University",
       "country": "China",
       "score": 0.2517,
-      "total_placed": 20,
-      "larremore_name": "Zhejiang University"
+      "total_placed": 21,
+      "mapped_name": "Zhejiang University"
     },
     {
-      "xrank": 76,
+      "fair_rank": 76,
       "qs_rank": 71,
       "university": "Universidad de Buenos Aires (UBA)",
       "country": "Argentina",
       "score": 0.2484,
-      "total_placed": 2,
-      "larremore_name": "Universidad de Buenos Aires (UBA)"
+      "total_placed": 15,
+      "mapped_name": "Universidad de Buenos Aires (UBA)"
     },
     {
-      "xrank": 77,
+      "fair_rank": 77,
       "qs_rank": 63,
       "university": "KU Leuven",
       "country": "Belgium",
       "score": 0.2468,
-      "total_placed": 2,
-      "larremore_name": "KU Leuven"
+      "total_placed": 18,
+      "mapped_name": "KU Leuven"
     },
     {
-      "xrank": 78,
+      "fair_rank": 78,
       "qs_rank": 85,
       "university": "Tokyo Institute of Technology",
       "country": "Japan",
       "score": 0.2455,
-      "total_placed": 9,
-      "larremore_name": "Tokyo Institute of Technology"
+      "total_placed": 31,
+      "mapped_name": "Tokyo Institute of Technology"
     },
     {
-      "xrank": 79,
+      "fair_rank": 79,
       "qs_rank": 68,
       "university": "National Taiwan University (NTU)",
       "country": "Taiwan",
       "score": 0.2448,
-      "total_placed": 41,
-      "larremore_name": "National Taiwan University (NTU)"
+      "total_placed": 43,
+      "mapped_name": "National Taiwan University (NTU)"
     },
     {
-      "xrank": 80,
+      "fair_rank": 80,
       "qs_rank": 28,
       "university": "Technical University of Munich (TUM)",
       "country": "Germany",
       "score": 0.2446,
-      "total_placed": 48,
-      "larremore_name": "Technical University of Munich (TUM)"
+      "total_placed": 49,
+      "mapped_name": "Technical University of Munich (TUM)"
     },
     {
-      "xrank": 81,
+      "fair_rank": 81,
       "qs_rank": 45,
       "university": "Shanghai Jiao Tong University",
       "country": "China",
       "score": 0.2445,
-      "total_placed": 14,
-      "larremore_name": "Shanghai Jiao Tong University"
+      "total_placed": 21,
+      "mapped_name": "Shanghai Jiao Tong University"
     },
     {
-      "xrank": 82,
+      "fair_rank": 82,
       "qs_rank": 87,
       "university": "Trinity College Dublin",
       "country": "Ireland",
       "score": 0.2437,
-      "total_placed": 26,
-      "larremore_name": "Trinity College Dublin"
+      "total_placed": 65,
+      "mapped_name": "Trinity College Dublin"
     },
     {
-      "xrank": 83,
+      "fair_rank": 83,
       "qs_rank": 15,
       "university": "Nanyang Technological University (NTU)",
       "country": "Singapore",
       "score": 0.2419,
-      "total_placed": 6,
-      "larremore_name": "Nanyang Technological University (NTU)"
+      "total_placed": 9,
+      "mapped_name": "Nanyang Technological University (NTU)"
     },
     {
-      "xrank": 84,
+      "fair_rank": 84,
       "qs_rank": 49,
       "university": "Delft University of Technology",
       "country": "Netherlands",
       "score": 0.2401,
-      "total_placed": 29,
-      "larremore_name": "Delft University of Technology"
+      "total_placed": 211,
+      "mapped_name": "Delft University of Technology"
     },
     {
-      "xrank": 85,
+      "fair_rank": 85,
       "qs_rank": 73,
       "university": "Universit\u00e9 Paris-Saclay",
       "country": "France",
       "score": 0.2398,
-      "total_placed": 1,
-      "larremore_name": "Universit\u00e9 Paris-Saclay"
+      "total_placed": 2,
+      "mapped_name": "Universit\u00e9 Paris-Saclay"
     },
     {
-      "xrank": 86,
+      "fair_rank": 86,
       "qs_rank": 47,
       "university": "The Hong Kong University of Science and Technology (HKUST)",
       "country": "Hong Kong SAR",
       "score": 0.2397,
       "total_placed": 5,
-      "larremore_name": "The Hong Kong University of Science and Technology (HKUST)"
+      "mapped_name": "The Hong Kong University of Science and Technology (HKUST)"
     },
     {
-      "xrank": 87,
+      "fair_rank": 87,
       "qs_rank": 91,
       "university": "Universidade de S\u00e3o Paulo (USP)",
       "country": "Brazil",
       "score": 0.239,
-      "total_placed": 1,
-      "larremore_name": "Universidade de S\u00e3o Paulo (USP)"
+      "total_placed": 13,
+      "mapped_name": "Universidade de S\u00e3o Paulo (USP)"
     },
     {
-      "xrank": 88,
+      "fair_rank": 88,
       "qs_rank": 53,
       "university": "KAIST",
       "country": "South Korea",
       "score": 0.2348,
-      "total_placed": 1,
-      "larremore_name": "KAIST"
+      "total_placed": 9,
+      "mapped_name": "KAIST"
     },
     {
-      "xrank": 89,
+      "fair_rank": 89,
       "qs_rank": 98,
       "university": "RWTH Aachen University",
       "country": "Germany",
       "score": 0.2344,
-      "total_placed": 16,
-      "larremore_name": "RWTH Aachen University"
+      "total_placed": 61,
+      "mapped_name": "RWTH Aachen University"
     },
     {
-      "xrank": 90,
+      "fair_rank": 90,
       "qs_rank": 97,
       "university": "POSTECH",
       "country": "South Korea",
       "score": 0.2328,
-      "total_placed": 1,
-      "larremore_name": "POSTECH"
+      "total_placed": 2,
+      "mapped_name": "POSTECH"
     },
     {
-      "xrank": 91,
+      "fair_rank": 91,
       "qs_rank": 57,
       "university": "The Hong Kong Polytechnic University",
       "country": "Hong Kong SAR",
       "score": 0.2313,
       "total_placed": 1,
-      "larremore_name": "The Hong Kong Polytechnic University"
+      "mapped_name": "The Hong Kong Polytechnic University"
     },
     {
-      "xrank": 92,
+      "fair_rank": 92,
       "qs_rank": 92,
       "university": "Pontificia Universidad Cat\u00f3lica de Chile",
       "country": "Chile",
       "score": 0.2309,
-      "total_placed": 1,
-      "larremore_name": "Pontificia Universidad Cat\u00f3lica de Chile"
+      "total_placed": 5,
+      "mapped_name": "Pontificia Universidad Cat\u00f3lica de Chile"
     },
     {
-      "xrank": 93,
+      "fair_rank": 93,
       "qs_rank": 88,
       "university": "University of Technology Sydney (UTS)",
       "country": "Australia",
       "score": 0.2307,
-      "total_placed": 2,
-      "larremore_name": "University of Technology Sydney (UTS)"
+      "total_placed": 9,
+      "mapped_name": "University of Technology Sydney (UTS)"
     },
     {
-      "xrank": 94,
+      "fair_rank": 94,
       "qs_rank": 62,
       "university": "City University of Hong Kong",
       "country": "Hong Kong SAR",
       "score": 0.23,
-      "total_placed": 1,
-      "larremore_name": "City University of Hong Kong"
+      "total_placed": 7,
+      "mapped_name": "City University of Hong Kong"
     },
     {
-      "xrank": 95,
+      "fair_rank": 95,
       "qs_rank": 26,
       "university": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)",
       "country": "Switzerland",
       "score": 0.2298,
-      "total_placed": 1,
-      "larremore_name": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)"
+      "total_placed": 5,
+      "mapped_name": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)"
     },
     {
-      "xrank": 96,
+      "fair_rank": 96,
       "qs_rank": 60,
       "university": "Universiti Malaya (UM)",
       "country": "Malaysia",
       "score": 0.2295,
-      "total_placed": 1,
-      "larremore_name": "Universiti Malaya (UM)"
+      "total_placed": 2,
+      "mapped_name": "Universiti Malaya (UM)"
     },
     {
-      "xrank": 96,
+      "fair_rank": 96,
       "qs_rank": 94,
       "university": "Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM)",
       "country": "Mexico",
       "score": 0.2295,
-      "total_placed": 1,
-      "larremore_name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM)"
+      "total_placed": 5,
+      "mapped_name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM)"
     },
     {
-      "xrank": 96,
+      "fair_rank": 96,
       "qs_rank": 74,
       "university": "KTH Royal Institute of Technology",
       "country": "Sweden",
       "score": 0.2295,
-      "total_placed": 1,
-      "larremore_name": "KTH Royal Institute of Technology"
+      "total_placed": 4,
+      "mapped_name": "KTH Royal Institute of Technology"
     },
     {
-      "xrank": 96,
+      "fair_rank": 96,
       "qs_rank": 46,
       "university": "Institut Polytechnique de Paris",
       "country": "France",
       "score": 0.2295,
       "total_placed": 1,
-      "larremore_name": "Institut Polytechnique de Paris"
+      "mapped_name": "Institut Polytechnique de Paris"
     },
     {
-      "xrank": 96,
+      "fair_rank": 96,
       "qs_rank": 24,
       "university": "Universit\u00e9 PSL",
       "country": "France",
       "score": 0.2295,
       "total_placed": 1,
-      "larremore_name": "Universit\u00e9 PSL"
+      "mapped_name": "Universit\u00e9 PSL"
     }
   ],
   "network": {

@@ -31,7 +31,7 @@
             document.getElementById('rankingsBody').innerHTML =
                 `<tr><td colspan="6" style="color:var(--red);padding:2rem">
                     ❌ Could not load data.json.<br>
-                    Run <code>python3 xrank.py</code> first, then serve from the project root:<br>
+                    Run <code>python3 fair_ranking.py</code> first, then serve from the project root:<br>
                     <code>cd university_ranking && python3 -m http.server 8080</code><br>
                     Open <code>http://localhost:8080/web/</code>
                 </td></tr>`;
@@ -62,7 +62,7 @@
         const maxScore = Math.max(...filtered.map(r => r.score));
 
         filtered.forEach(r => {
-            const delta = r.qs_rank - r.xrank;
+            const delta = r.qs_rank - r.fair_rank;
             let deltaClass = 'same', deltaText = '—';
             if (delta > 0) { deltaClass = 'up'; deltaText = `▲${delta}`; }
             else if (delta < 0) { deltaClass = 'down'; deltaText = `▼${Math.abs(delta)}`; }
@@ -72,7 +72,7 @@
 
             const tr = document.createElement('tr');
             tr.innerHTML = `
-                <td style="color:var(--accent-1)">${r.xrank}</td>
+                <td style="color:var(--accent-1)">${r.fair_rank}</td>
                 <td><span class="delta ${deltaClass}">${deltaText}</span></td>
                 <td>${r.university}</td>
                 <td><span class="country-tag">${flag} ${r.country}</span></td>
@@ -186,7 +186,7 @@
             const r = rankings.find(x => x.larremore_name === d.id);
             tooltip.innerHTML = `
                 <strong>${r ? r.university : d.id}</strong><br>
-                XRank: <strong>${r ? r.xrank : '—'}</strong> · QS: ${r ? r.qs_rank : '—'}<br>
+                FairRank: <strong>${r ? r.fair_rank : '—'}</strong> · QS: ${r ? r.qs_rank : '—'}<br>
                 Score: ${s ? s.toFixed(2) : '—'}
             `;
             tooltip.classList.add('visible');

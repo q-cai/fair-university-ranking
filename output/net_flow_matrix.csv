@@ -1,21 +1,11 @@
-,Harvard University,Stanford University,University College London (UCL),University of California Berkeley (UCB),University of Oxford,Massachusetts Institute of Technology (MIT),University of Cambridge,California Institute of Technology (Caltech),Imperial College London,Columbia University,University of Chicago,University of Toronto,University of Washington,Princeton University,The University of Tokyo,Yale University,University of Pennsylvania,University of Edinburgh,University of Manchester,University of Michigan-Ann Arbor
-Harvard University,0,214,-33,-108,-24,-114,-31,-30,-8,92,117,46,-37,-122,10,37,-40,-8,-2,-40
-Stanford University,-214,0,-18,-180,-7,-164,-42,-69,-3,-49,-43,10,-43,-100,-9,-70,-39,-4,-7,-66
-University College London (UCL),33,18,0,1,76,0,66,0,1,14,16,22,1,1,3,21,0,1,0,0
-University of California Berkeley (UCB),108,180,-1,0,12,1,9,0,0,62,65,24,0,4,0,51,0,0,0,1
-University of Oxford,24,7,-76,-12,0,-13,-31,-4,-10,18,6,21,-4,-20,3,5,-5,-26,-23,-2
-Massachusetts Institute of Technology (MIT),114,164,0,-1,13,0,6,-2,0,49,46,20,0,3,5,50,2,0,0,0
-University of Cambridge,31,42,-66,-9,31,-6,0,-6,-14,6,10,28,-6,-13,2,17,-7,-22,-21,-3
-California Institute of Technology (Caltech),30,69,0,0,4,2,6,0,0,17,13,6,0,1,2,14,0,0,0,1
-Imperial College London,8,3,-1,0,10,0,14,0,0,2,0,3,1,1,1,3,0,0,0,0
-Columbia University,-92,49,-14,-62,-18,-49,-6,-17,-2,0,10,8,-23,-86,-5,-42,-40,-3,-4,-32
-University of Chicago,-117,43,-16,-65,-6,-46,-10,-13,0,-10,0,11,-23,-63,-8,-27,-29,-1,-3,-36
-University of Toronto,-46,-10,-22,-24,-21,-20,-28,-6,-3,-8,-11,0,-2,-35,-2,-15,-9,-7,-6,-14
-University of Washington,37,43,-1,0,4,0,6,0,-1,23,23,2,0,0,-1,24,0,0,-1,0
-Princeton University,122,100,-1,-4,20,-3,13,-1,-1,86,63,35,0,0,2,75,-1,1,0,-1
-The University of Tokyo,-10,9,-3,0,-3,-5,-2,-2,-1,5,8,2,1,-2,0,4,-1,-1,0,1
-Yale University,-37,70,-21,-51,-5,-50,-17,-14,-3,42,27,15,-24,-75,-4,0,-23,-4,-6,-40
-University of Pennsylvania,40,39,0,0,5,-2,7,0,0,40,29,9,0,1,1,23,0,0,0,1
-University of Edinburgh,8,4,-1,0,26,0,22,0,0,3,1,7,0,-1,1,4,0,0,-1,0
-University of Manchester,2,7,0,0,23,0,21,0,0,4,3,6,1,0,0,6,0,1,0,0
-University of Michigan-Ann Arbor,40,66,0,-1,2,0,3,-1,0,32,36,14,0,1,-1,40,-1,0,0,0
+,Harvard University,Stanford University,University College London (UCL),University of California Berkeley (UCB),University of Oxford,Massachusetts Institute of Technology (MIT),University of Cambridge,California Institute of Technology (Caltech),Imperial College London,Columbia University
+Harvard University,0,214,-33,-108,-24,-114,-31,-30,-8,92
+Stanford University,-214,0,-18,-180,-7,-164,-42,-69,-3,-49
+University College London (UCL),33,18,0,1,76,0,66,0,1,14
+University of California Berkeley (UCB),108,180,-1,0,12,1,9,0,0,62
+University of Oxford,24,7,-76,-12,0,-13,-31,-4,-10,18
+Massachusetts Institute of Technology (MIT),114,164,0,-1,13,0,6,-2,0,49
+University of Cambridge,31,42,-66,-9,31,-6,0,-6,-14,6
+California Institute of Technology (Caltech),30,69,0,0,4,2,6,0,0,17
+Imperial College London,8,3,-1,0,10,0,14,0,0,2
+Columbia University,-92,49,-14,-62,-18,-49,-6,-17,-2,0

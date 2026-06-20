@@ -261,7 +261,7 @@ tr:hover {
     background: rgba(99, 102, 241, 0.06);
 }
 
-/* XRank column */
+/* FairRank column */
 td:first-child {
     font-weight: 700;
     font-family: var(--font-heading);

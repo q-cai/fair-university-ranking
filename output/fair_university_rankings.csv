@@ -1,0 +1,101 @@
+Rank,University,Country,Fair_Score,Total_Placed,Mapped_Name,Data_Available,FairRank
+4,Harvard University,United States,1.1037384260797447,2230.0,Harvard University,True,1.0
+6,Stanford University,United States,0.8567304139752456,794.0,Stanford University,True,2.0
+9,University College London (UCL),United Kingdom,0.8563290528314893,424.0,University College London (UCL),True,3.0
+12,University of California Berkeley (UCB),United States,0.8378700264057446,658.0,University of California Berkeley (UCB),True,4.0
+3,University of Oxford,United Kingdom,0.8209854086266235,595.0,University of Oxford,True,5.0
+1,Massachusetts Institute of Technology (MIT),United States,0.8052817243150625,602.0,Massachusetts Institute of Technology (MIT),True,6.0
+5,University of Cambridge,United Kingdom,0.7819562232165227,753.0,University of Cambridge,True,7.0
+10,California Institute of Technology (Caltech),United States,0.6564441249836959,230.0,California Institute of Technology (Caltech),True,8.0
+2,Imperial College London,United Kingdom,0.5581914263862983,99.0,Imperial College London,True,9.0
+34,Columbia University,United States,0.5305368167299289,857.0,Columbia University,True,10.0
+21,University of Chicago,United States,0.5089308312488099,693.0,University of Chicago,True,11.0
+25,University of Toronto,Canada,0.4991177699444052,368.0,University of Toronto,True,12.0
+76,University of Washington,United States,0.48875048783721703,250.0,University of Washington,True,13.0
+22,Princeton University,United States,0.4780615345323344,616.0,Princeton University,True,14.0
+32,The University of Tokyo,Japan,0.4769322086949665,573.0,The University of Tokyo,True,15.0
+23,Yale University,United States,0.4652935993856795,967.0,Yale University,True,16.0
+11,University of Pennsylvania,United States,0.4649554153936759,232.0,University of Pennsylvania,True,17.0
+27,University of Edinburgh,United Kingdom,0.44393523177077776,135.0,University of Edinburgh,True,18.0
+34,University of Manchester,United Kingdom,0.4386096912924869,146.0,University of Manchester,True,19.0
+44,University of Michigan-Ann Arbor,United States,0.414590090882015,297.0,University of Michigan-Ann Arbor,True,20.0
+13,University of Melbourne,Australia,0.40733514684058963,85.0,University of Melbourne,True,21.0
+16,Cornell University,United States,0.40663836892926924,374.0,Cornell University,True,22.0
+43,New York University (NYU),United States,0.405411160463296,325.0,New York University (NYU),True,23.0
+32,Johns Hopkins University,United States,0.4015031109321762,176.0,Johns Hopkins University,True,24.0
+41,The University of Queensland,Australia,0.4012678210099643,46.0,The University of Queensland,True,25.0
+78,University of Glasgow,United Kingdom,0.3854000102703602,78.0,University of Glasgow,True,26.0
+31,Seoul National University,South Korea,0.3622967018815875,47.0,Seoul National University,True,27.0
+72,University of California San Diego (UCSD),United States,0.3549505042338205,57.0,University of California San Diego (UCSD),True,28.0
+61,Duke University,United States,0.3518270729349314,115.0,Duke University,True,29.0
+42,University of California Los Angeles (UCLA),United States,0.3470305355198148,137.0,University of California Los Angeles (UCLA),True,30.0
+86,Osaka University,Japan,0.3364761722152736,83.0,Osaka University,True,31.0
+37,Monash University,Australia,0.33225017097634646,30.0,Monash University,True,32.0
+50,Kyoto University,Japan,0.33088393175679826,86.0,Kyoto University,True,33.0
+30,Australian National University (ANU),Australia,0.3300990933546427,69.0,Australian National University (ANU),True,34.0
+83,University of Leeds,United Kingdom,0.32190562742587014,98.0,University of Leeds,True,35.0
+79,Brown University,United States,0.319422631662524,155.0,Brown University,True,36.0
+18,University of Sydney,Australia,0.311342046705136,188.0,University of Sydney,True,37.0
+82,The University of Adelaide,Australia,0.31132966681708557,46.0,The University of Adelaide,True,38.0
+29,McGill University,Canada,0.31065914133620287,160.0,McGill University,True,39.0
+55,University of Amsterdam,Netherlands,0.3089982866232914,434.0,University of Amsterdam,True,40.0
+77,The University of Western Australia,Australia,0.30586806119562,31.0,The University of Western Australia,True,41.0
+40,King's College London,United Kingdom,0.30497713192008824,74.0,King's College London,True,42.0
+51,Northwestern University,United States,0.30470827578623966,108.0,Northwestern University,True,43.0
+65,The University of Auckland,New Zealand,0.3046718745590015,35.0,The University of Auckland,True,44.0
+81,University of Southampton,United Kingdom,0.3013558591805443,37.0,University of Southampton,True,45.0
+38,University of British Columbia,Canada,0.2954924428251228,136.0,University of British Columbia,True,46.0
+80,University of Birmingham,United Kingdom,0.2928341738601147,66.0,University of Birmingham,True,47.0
+99,Pennsylvania State University,United States,0.29087329994804706,46.0,Pennsylvania State University,True,48.0
+96,Freie Universität Berlin,Germany,0.2904401401556593,65.0,Freie Universität Berlin,True,49.0
+75,Lund University,Sweden,0.2881708482919766,156.0,Lund University,True,50.0
+93,Lomonosov Moscow State University,Russia,0.28655636258001177,224.0,Lomonosov Moscow State University,True,51.0
+52,London School of Economics and Political Science (LSE),United Kingdom,0.2831206972987555,146.0,London School of Economics and Political Science (LSE),True,52.0
+17,The University of Hong Kong (HKU),Hong Kong SAR,0.28290760554458116,22.0,The University of Hong Kong (HKU),True,53.0
+54,University of Bristol,United Kingdom,0.28279888836612405,56.0,University of Bristol,True,54.0
+14,Peking University,China,0.2815463156977786,77.0,Peking University,True,55.0
+64,Sorbonne University,France,0.2811628914229206,75.0,Sorbonne University,True,56.0
+59,Ludwig-Maximilians-Universität München (LMU Munich),Germany,0.2801550490404825,206.0,Ludwig-Maximilians-Universität München (LMU Munich),True,57.0
+89,Durham University,United Kingdom,0.2779466429164108,42.0,Durham University,True,58.0
+56,Yonsei University,South Korea,0.2764822876365952,13.0,Yonsei University,True,59.0
+66,University of Texas at Austin,United States,0.27579639376285486,78.0,University of Texas at Austin,True,60.0
+8,National University of Singapore (NUS),Singapore,0.2753922987893755,14.0,National University of Singapore (NUS),True,61.0
+19,University of New South Wales (UNSW Sydney),Australia,0.2748648606644615,44.0,University of New South Wales (UNSW Sydney),True,62.0
+70,University of Illinois at Urbana-Champaign,United States,0.27480511081977166,5.0,University of Illinois at Urbana-Champaign,True,63.0
+20,Tsinghua University,China,0.27475651910406973,53.0,Tsinghua University,True,64.0
+89,Purdue University,United States,0.2733496339010001,101.0,Purdue University,True,65.0
+58,Carnegie Mellon University,United States,0.2699097356623379,71.0,Carnegie Mellon University,True,66.0
+7,ETH Zurich,Switzerland,0.26972601616373426,267.0,ETH Zurich,True,67.0
+67,Korea University,South Korea,0.26907049948250217,14.0,Korea University,True,68.0
+100,University of Copenhagen,Denmark,0.2669091126939237,351.0,University of Copenhagen,True,69.0
+39,Fudan University,China,0.26076206503443317,42.0,Fudan University,True,70.0
+84,Ruprecht-Karls-Universität Heidelberg,Germany,0.25789613535427497,4.0,Ruprecht-Karls-Universität Heidelberg,True,71.0
+36,The Chinese University of Hong Kong (CUHK),Hong Kong SAR,0.25673822680647623,10.0,The Chinese University of Hong Kong (CUHK),True,72.0
+69,The University of Warwick,United Kingdom,0.2548730564880508,31.0,The University of Warwick,True,73.0
+95,University of Alberta,Canada,0.2517988533098443,48.0,University of Alberta,True,74.0
+48,Zhejiang University,China,0.25174506859381823,21.0,Zhejiang University,True,75.0
+71,Universidad de Buenos Aires (UBA),Argentina,0.24839539457169904,15.0,Universidad de Buenos Aires (UBA),True,76.0
+63,KU Leuven,Belgium,0.24678479887877844,18.0,KU Leuven,True,77.0
+85,Tokyo Institute of Technology,Japan,0.24553841990439473,31.0,Tokyo Institute of Technology,True,78.0
+68,National Taiwan University (NTU),Taiwan,0.24482288434055766,43.0,National Taiwan University (NTU),True,79.0
+28,Technical University of Munich (TUM),Germany,0.24462113513414319,49.0,Technical University of Munich (TUM),True,80.0
+45,Shanghai Jiao Tong University,China,0.24445789060806852,21.0,Shanghai Jiao Tong University,True,81.0
+87,Trinity College Dublin,Ireland,0.24372704964138633,65.0,Trinity College Dublin,True,82.0
+15,Nanyang Technological University (NTU),Singapore,0.24186763662057326,9.0,Nanyang Technological University (NTU),True,83.0
+49,Delft University of Technology,Netherlands,0.24014013184813665,211.0,Delft University of Technology,True,84.0
+73,Université Paris-Saclay,France,0.23979222209239326,2.0,Université Paris-Saclay,True,85.0
+47,The Hong Kong University of Science and Technology (HKUST),Hong Kong SAR,0.2397339780885899,5.0,The Hong Kong University of Science and Technology (HKUST),True,86.0
+91,Universidade de São Paulo (USP),Brazil,0.23904088445433946,13.0,Universidade de São Paulo (USP),True,87.0
+53,KAIST,South Korea,0.2348337965596186,9.0,KAIST,True,88.0
+98,RWTH Aachen University,Germany,0.23442115214369014,61.0,RWTH Aachen University,True,89.0
+97,POSTECH,South Korea,0.23278013983115364,2.0,POSTECH,True,90.0
+57,The Hong Kong Polytechnic University,Hong Kong SAR,0.23129746940249685,1.0,The Hong Kong Polytechnic University,True,91.0
+92,Pontificia Universidad Católica de Chile,Chile,0.23093488991829306,5.0,Pontificia Universidad Católica de Chile,True,92.0
+88,University of Technology Sydney (UTS),Australia,0.2306980076753497,9.0,University of Technology Sydney (UTS),True,93.0
+62,City University of Hong Kong,Hong Kong SAR,0.23000079934214582,7.0,City University of Hong Kong,True,94.0
+26,École Polytechnique Fédérale de Lausanne (EPFL),Switzerland,0.2297724419639833,5.0,École Polytechnique Fédérale de Lausanne (EPFL),True,95.0
+60,Universiti Malaya (UM),Malaysia,0.22949941109635616,2.0,Universiti Malaya (UM),True,96.0
+94,Universidad Nacional Autónoma de México (UNAM),Mexico,0.22949941109635616,5.0,Universidad Nacional Autónoma de México (UNAM),True,96.0
+74,KTH Royal Institute of Technology,Sweden,0.22949941109635616,4.0,KTH Royal Institute of Technology,True,96.0
+46,Institut Polytechnique de Paris,France,0.22949941109635616,1.0,Institut Polytechnique de Paris,True,96.0
+24,Université PSL,France,0.22949941109635616,1.0,Université PSL,True,96.0
