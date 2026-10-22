@@ -8,6 +8,51 @@
       "country": "United States",
       "score": 1.1037,
       "total_placed": 1292,
+      "total_hired": 4125,
+      "top_destinations": [
+        {
+          "name": "Stanford University",
+          "count": 297
+        },
+        {
+          "name": "Columbia University",
+          "count": 217
+        },
+        {
+          "name": "University of Chicago",
+          "count": 213
+        },
+        {
+          "name": "Yale University",
+          "count": 200
+        },
+        {
+          "name": "University of Toronto",
+          "count": 73
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Yale University",
+          "count": 163
+        },
+        {
+          "name": "Columbia University",
+          "count": 125
+        },
+        {
+          "name": "Princeton University",
+          "count": 123
+        },
+        {
+          "name": "Massachusetts Institute of Technology (MIT)",
+          "count": 116
+        },
+        {
+          "name": "University of California Berkeley (UCB)",
+          "count": 112
+        }
+      ],
       "mapped_name": "Harvard University"
     },
     {
@@ -17,6 +62,51 @@
       "country": "United States",
       "score": 0.8567,
       "total_placed": 393,
+      "total_hired": 3367,
+      "top_destinations": [
+        {
+          "name": "Harvard University",
+          "count": 83
+        },
+        {
+          "name": "Yale University",
+          "count": 55
+        },
+        {
+          "name": "University of Chicago",
+          "count": 37
+        },
+        {
+          "name": "Columbia University",
+          "count": 35
+        },
+        {
+          "name": "Duke University",
+          "count": 27
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Harvard University",
+          "count": 297
+        },
+        {
+          "name": "University of California Berkeley (UCB)",
+          "count": 185
+        },
+        {
+          "name": "Massachusetts Institute of Technology (MIT)",
+          "count": 165
+        },
+        {
+          "name": "Yale University",
+          "count": 125
+        },
+        {
+          "name": "Princeton University",
+          "count": 103
+        }
+      ],
       "mapped_name": "Stanford University"
     },
     {
@@ -26,6 +116,51 @@
       "country": "United Kingdom",
       "score": 0.8563,
       "total_placed": 421,
+      "total_hired": 17,
+      "top_destinations": [
+        {
+          "name": "University of Oxford",
+          "count": 77
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 66
+        },
+        {
+          "name": "Harvard University",
+          "count": 33
+        },
+        {
+          "name": "University of Leeds",
+          "count": 31
+        },
+        {
+          "name": "University of Toronto",
+          "count": 22
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Imperial College London",
+          "count": 2
+        },
+        {
+          "name": "University of Glasgow",
+          "count": 2
+        },
+        {
+          "name": "Duke University",
+          "count": 1
+        },
+        {
+          "name": "Imperial Cancer Research Fund",
+          "count": 1
+        },
+        {
+          "name": "Institute of High Energy Physics Chinese Academy of Sciences",
+          "count": 1
+        }
+      ],
       "mapped_name": "University College London (UCL)"
     },
     {
@@ -35,6 +170,51 @@
       "country": "United States",
       "score": 0.8379,
       "total_placed": 655,
+      "total_hired": 26,
+      "top_destinations": [
+        {
+          "name": "Stanford University",
+          "count": 185
+        },
+        {
+          "name": "Harvard University",
+          "count": 112
+        },
+        {
+          "name": "University of Chicago",
+          "count": 66
+        },
+        {
+          "name": "Columbia University",
+          "count": 63
+        },
+        {
+          "name": "Yale University",
+          "count": 52
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Stanford University",
+          "count": 5
+        },
+        {
+          "name": "Harvard University",
+          "count": 4
+        },
+        {
+          "name": "University College London (UCL)",
+          "count": 2
+        },
+        {
+          "name": "California Institute of Technology (Caltech)",
+          "count": 1
+        },
+        {
+          "name": "University of Chicago",
+          "count": 1
+        }
+      ],
       "mapped_name": "University of California Berkeley (UCB)"
     },
     {
@@ -44,6 +224,51 @@
       "country": "United Kingdom",
       "score": 0.821,
       "total_placed": 367,
+      "total_hired": 2086,
+      "top_destinations": [
+        {
+          "name": "University of Cambridge",
+          "count": 67
+        },
+        {
+          "name": "Harvard University",
+          "count": 63
+        },
+        {
+          "name": "University of Toronto",
+          "count": 27
+        },
+        {
+          "name": "Columbia University",
+          "count": 26
+        },
+        {
+          "name": "University of Leeds",
+          "count": 21
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Cambridge",
+          "count": 98
+        },
+        {
+          "name": "University College London (UCL)",
+          "count": 77
+        },
+        {
+          "name": "Balliol College",
+          "count": 50
+        },
+        {
+          "name": "Trinity College",
+          "count": 46
+        },
+        {
+          "name": "Harvard University",
+          "count": 39
+        }
+      ],
       "mapped_name": "University of Oxford"
     },
     {
@@ -53,6 +278,51 @@
       "country": "United States",
       "score": 0.8053,
       "total_placed": 600,
+      "total_hired": 15,
+      "top_destinations": [
+        {
+          "name": "Stanford University",
+          "count": 165
+        },
+        {
+          "name": "Harvard University",
+          "count": 116
+        },
+        {
+          "name": "Yale University",
+          "count": 50
+        },
+        {
+          "name": "Columbia University",
+          "count": 49
+        },
+        {
+          "name": "University of Chicago",
+          "count": 46
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "California Institute of Technology (Caltech)",
+          "count": 2
+        },
+        {
+          "name": "Harvard University",
+          "count": 2
+        },
+        {
+          "name": "Freie Universit\u00e4t Berlin",
+          "count": 1
+        },
+        {
+          "name": "Moscow Engineering Physics Institute",
+          "count": 1
+        },
+        {
+          "name": "Stanford University",
+          "count": 1
+        }
+      ],
       "mapped_name": "Massachusetts Institute of Technology (MIT)"
     },
     {
@@ -62,6 +332,51 @@
       "country": "United Kingdom",
       "score": 0.782,
       "total_placed": 483,
+      "total_hired": 1822,
+      "top_destinations": [
+        {
+          "name": "University of Oxford",
+          "count": 98
+        },
+        {
+          "name": "Harvard University",
+          "count": 67
+        },
+        {
+          "name": "Stanford University",
+          "count": 52
+        },
+        {
+          "name": "University of Toronto",
+          "count": 36
+        },
+        {
+          "name": "University of Leeds",
+          "count": 33
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Trinity College",
+          "count": 93
+        },
+        {
+          "name": "University of Oxford",
+          "count": 67
+        },
+        {
+          "name": "University College London (UCL)",
+          "count": 66
+        },
+        {
+          "name": "St John's College",
+          "count": 50
+        },
+        {
+          "name": "Harvard University",
+          "count": 36
+        }
+      ],
       "mapped_name": "University of Cambridge"
     },
     {
@@ -71,6 +386,51 @@
       "country": "United States",
       "score": 0.6564,
       "total_placed": 224,
+      "total_hired": 15,
+      "top_destinations": [
+        {
+          "name": "Stanford University",
+          "count": 69
+        },
+        {
+          "name": "Harvard University",
+          "count": 32
+        },
+        {
+          "name": "Columbia University",
+          "count": 18
+        },
+        {
+          "name": "Yale University",
+          "count": 14
+        },
+        {
+          "name": "University of Chicago",
+          "count": 13
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Harvard University",
+          "count": 2
+        },
+        {
+          "name": "Brown University",
+          "count": 1
+        },
+        {
+          "name": "Columbia University",
+          "count": 1
+        },
+        {
+          "name": "Northwestern University",
+          "count": 1
+        },
+        {
+          "name": "Princeton University",
+          "count": 1
+        }
+      ],
       "mapped_name": "California Institute of Technology (Caltech)"
     },
     {
@@ -80,6 +440,51 @@
       "country": "United Kingdom",
       "score": 0.5582,
       "total_placed": 95,
+      "total_hired": 27,
+      "top_destinations": [
+        {
+          "name": "University of Cambridge",
+          "count": 16
+        },
+        {
+          "name": "University of Leeds",
+          "count": 11
+        },
+        {
+          "name": "University of Oxford",
+          "count": 11
+        },
+        {
+          "name": "Harvard University",
+          "count": 9
+        },
+        {
+          "name": "London School of Economics and Political Science (LSE)",
+          "count": 3
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University College London (UCL)",
+          "count": 3
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 2
+        },
+        {
+          "name": "Erasmus MC",
+          "count": 1
+        },
+        {
+          "name": "University of Melbourne",
+          "count": 1
+        },
+        {
+          "name": "Universit\u00e9 catholique de Louvain",
+          "count": 1
+        }
+      ],
       "mapped_name": "Imperial College London"
     },
     {
@@ -89,6 +494,51 @@
       "country": "United States",
       "score": 0.5305,
       "total_placed": 480,
+      "total_hired": 2475,
+      "top_destinations": [
+        {
+          "name": "Harvard University",
+          "count": 125
+        },
+        {
+          "name": "Stanford University",
+          "count": 84
+        },
+        {
+          "name": "University of Chicago",
+          "count": 82
+        },
+        {
+          "name": "Yale University",
+          "count": 65
+        },
+        {
+          "name": "Duke University",
+          "count": 25
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Harvard University",
+          "count": 217
+        },
+        {
+          "name": "Yale University",
+          "count": 107
+        },
+        {
+          "name": "Princeton University",
+          "count": 86
+        },
+        {
+          "name": "University of Chicago",
+          "count": 72
+        },
+        {
+          "name": "New York University (NYU)",
+          "count": 67
+        }
+      ],
       "mapped_name": "Columbia University"
     },
     {
@@ -98,6 +548,51 @@
       "country": "United States",
       "score": 0.5089,
       "total_placed": 440,
+      "total_hired": 2234,
+      "top_destinations": [
+        {
+          "name": "Harvard University",
+          "count": 96
+        },
+        {
+          "name": "Stanford University",
+          "count": 80
+        },
+        {
+          "name": "Columbia University",
+          "count": 72
+        },
+        {
+          "name": "Yale University",
+          "count": 58
+        },
+        {
+          "name": "Duke University",
+          "count": 35
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Harvard University",
+          "count": 213
+        },
+        {
+          "name": "Yale University",
+          "count": 85
+        },
+        {
+          "name": "Columbia University",
+          "count": 82
+        },
+        {
+          "name": "University of California Berkeley (UCB)",
+          "count": 66
+        },
+        {
+          "name": "Princeton University",
+          "count": 63
+        }
+      ],
       "mapped_name": "University of Chicago"
     },
     {
@@ -107,6 +602,51 @@
       "country": "Canada",
       "score": 0.4991,
       "total_placed": 156,
+      "total_hired": 1316,
+      "top_destinations": [
+        {
+          "name": "University of British Columbia",
+          "count": 32
+        },
+        {
+          "name": "Harvard University",
+          "count": 27
+        },
+        {
+          "name": "Stanford University",
+          "count": 16
+        },
+        {
+          "name": "Yale University",
+          "count": 10
+        },
+        {
+          "name": "Columbia University",
+          "count": 8
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Harvard University",
+          "count": 73
+        },
+        {
+          "name": "McGill University",
+          "count": 41
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 36
+        },
+        {
+          "name": "Princeton University",
+          "count": 35
+        },
+        {
+          "name": "University of Oxford",
+          "count": 27
+        }
+      ],
       "mapped_name": "University of Toronto"
     },
     {
@@ -116,6 +656,51 @@
       "country": "United States",
       "score": 0.4888,
       "total_placed": 248,
+      "total_hired": 22,
+      "top_destinations": [
+        {
+          "name": "Stanford University",
+          "count": 44
+        },
+        {
+          "name": "Harvard University",
+          "count": 38
+        },
+        {
+          "name": "Yale University",
+          "count": 24
+        },
+        {
+          "name": "Columbia University",
+          "count": 24
+        },
+        {
+          "name": "University of Chicago",
+          "count": 23
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "The University of Queensland",
+          "count": 3
+        },
+        {
+          "name": "Columbia University",
+          "count": 1
+        },
+        {
+          "name": "University of California Berkeley (UCB)",
+          "count": 1
+        },
+        {
+          "name": "Universit\u00e9 Paris-Sud",
+          "count": 1
+        },
+        {
+          "name": "University of Oxford",
+          "count": 1
+        }
+      ],
       "mapped_name": "University of Washington"
     },
     {
@@ -125,6 +710,51 @@
       "country": "United States",
       "score": 0.4781,
       "total_placed": 614,
+      "total_hired": 35,
+      "top_destinations": [
+        {
+          "name": "Harvard University",
+          "count": 123
+        },
+        {
+          "name": "Stanford University",
+          "count": 103
+        },
+        {
+          "name": "Columbia University",
+          "count": 86
+        },
+        {
+          "name": "Yale University",
+          "count": 76
+        },
+        {
+          "name": "University of Chicago",
+          "count": 63
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of California Berkeley (UCB)",
+          "count": 4
+        },
+        {
+          "name": "Massachusetts Institute of Technology (MIT)",
+          "count": 3
+        },
+        {
+          "name": "Stanford University",
+          "count": 3
+        },
+        {
+          "name": "California Institute of Technology (Caltech)",
+          "count": 2
+        },
+        {
+          "name": "University of California San Diego (UCSD)",
+          "count": 1
+        }
+      ],
       "mapped_name": "Princeton University"
     },
     {
@@ -134,6 +764,51 @@
       "country": "Japan",
       "score": 0.4769,
       "total_placed": 134,
+      "total_hired": 396,
+      "top_destinations": [
+        {
+          "name": "Osaka University",
+          "count": 43
+        },
+        {
+          "name": "Tokyo Institute of Technology",
+          "count": 24
+        },
+        {
+          "name": "Columbia University",
+          "count": 11
+        },
+        {
+          "name": "Stanford University",
+          "count": 11
+        },
+        {
+          "name": "University of Chicago",
+          "count": 9
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Kyoto University",
+          "count": 26
+        },
+        {
+          "name": "Harvard University",
+          "count": 18
+        },
+        {
+          "name": "Osaka University",
+          "count": 14
+        },
+        {
+          "name": "First Higher School",
+          "count": 12
+        },
+        {
+          "name": "Tohoku University",
+          "count": 7
+        }
+      ],
       "mapped_name": "The University of Tokyo"
     },
     {
@@ -143,6 +818,51 @@
       "country": "United States",
       "score": 0.4653,
       "total_placed": 634,
+      "total_hired": 2273,
+      "top_destinations": [
+        {
+          "name": "Harvard University",
+          "count": 163
+        },
+        {
+          "name": "Stanford University",
+          "count": 125
+        },
+        {
+          "name": "Columbia University",
+          "count": 107
+        },
+        {
+          "name": "University of Chicago",
+          "count": 85
+        },
+        {
+          "name": "Duke University",
+          "count": 49
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Harvard University",
+          "count": 200
+        },
+        {
+          "name": "Princeton University",
+          "count": 76
+        },
+        {
+          "name": "Columbia University",
+          "count": 65
+        },
+        {
+          "name": "University of Chicago",
+          "count": 58
+        },
+        {
+          "name": "Stanford University",
+          "count": 55
+        }
+      ],
       "mapped_name": "Yale University"
     },
     {
@@ -152,6 +872,51 @@
       "country": "United States",
       "score": 0.465,
       "total_placed": 231,
+      "total_hired": 14,
+      "top_destinations": [
+        {
+          "name": "Harvard University",
+          "count": 41
+        },
+        {
+          "name": "Stanford University",
+          "count": 40
+        },
+        {
+          "name": "Columbia University",
+          "count": 40
+        },
+        {
+          "name": "University of Chicago",
+          "count": 29
+        },
+        {
+          "name": "Yale University",
+          "count": 23
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Massachusetts Institute of Technology (MIT)",
+          "count": 3
+        },
+        {
+          "name": "University of Iceland",
+          "count": 2
+        },
+        {
+          "name": "Cornell University",
+          "count": 1
+        },
+        {
+          "name": "Harvard University",
+          "count": 1
+        },
+        {
+          "name": "Michigan State University",
+          "count": 1
+        }
+      ],
       "mapped_name": "University of Pennsylvania"
     },
     {
@@ -161,6 +926,51 @@
       "country": "United Kingdom",
       "score": 0.4439,
       "total_placed": 128,
+      "total_hired": 22,
+      "top_destinations": [
+        {
+          "name": "University of Oxford",
+          "count": 29
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 24
+        },
+        {
+          "name": "University of Leeds",
+          "count": 10
+        },
+        {
+          "name": "University of Toronto",
+          "count": 8
+        },
+        {
+          "name": "Harvard University",
+          "count": 8
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Oxford",
+          "count": 3
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 2
+        },
+        {
+          "name": "University of Manchester",
+          "count": 2
+        },
+        {
+          "name": "University of Valencia",
+          "count": 2
+        },
+        {
+          "name": "University of Zagreb",
+          "count": 2
+        }
+      ],
       "mapped_name": "University of Edinburgh"
     },
     {
@@ -170,6 +980,51 @@
       "country": "United Kingdom",
       "score": 0.4386,
       "total_placed": 140,
+      "total_hired": 25,
+      "top_destinations": [
+        {
+          "name": "University of Oxford",
+          "count": 24
+        },
+        {
+          "name": "University of Leeds",
+          "count": 23
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 22
+        },
+        {
+          "name": "Stanford University",
+          "count": 7
+        },
+        {
+          "name": "University of British Columbia",
+          "count": 7
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Carleton University",
+          "count": 1
+        },
+        {
+          "name": "University of California at Santa Barbara",
+          "count": 1
+        },
+        {
+          "name": "Univerzita Karlova v Praze Matematicko-fyzik\u00e1ln\u00ed fakulta",
+          "count": 1
+        },
+        {
+          "name": "Universit\u00e4t Z\u00fcrich",
+          "count": 1
+        },
+        {
+          "name": "Universit\u00e4t Bern",
+          "count": 1
+        }
+      ],
       "mapped_name": "University of Manchester"
     },
     {
@@ -179,6 +1034,51 @@
       "country": "United States",
       "score": 0.4146,
       "total_placed": 296,
+      "total_hired": 18,
+      "top_destinations": [
+        {
+          "name": "Stanford University",
+          "count": 67
+        },
+        {
+          "name": "Yale University",
+          "count": 40
+        },
+        {
+          "name": "Harvard University",
+          "count": 40
+        },
+        {
+          "name": "University of Chicago",
+          "count": 37
+        },
+        {
+          "name": "Columbia University",
+          "count": 32
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Albert-Ludwigs-Universit\u00e4t Freiburg",
+          "count": 1
+        },
+        {
+          "name": "Brown University",
+          "count": 1
+        },
+        {
+          "name": "University of Pennsylvania",
+          "count": 1
+        },
+        {
+          "name": "University of Oxford",
+          "count": 1
+        },
+        {
+          "name": "University of Chicago",
+          "count": 1
+        }
+      ],
       "mapped_name": "University of Michigan-Ann Arbor"
     },
     {
@@ -188,6 +1088,51 @@
       "country": "Australia",
       "score": 0.4073,
       "total_placed": 74,
+      "total_hired": 18,
+      "top_destinations": [
+        {
+          "name": "University of Sydney",
+          "count": 18
+        },
+        {
+          "name": "University of Oxford",
+          "count": 11
+        },
+        {
+          "name": "Monash University",
+          "count": 7
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 7
+        },
+        {
+          "name": "University of Leeds",
+          "count": 6
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Monash University",
+          "count": 3
+        },
+        {
+          "name": "Albert-Ludwigs-Universit\u00e4t Freiburg Physikalisches Institut",
+          "count": 1
+        },
+        {
+          "name": "Australian National University (ANU)",
+          "count": 1
+        },
+        {
+          "name": "Basel Institute for Immunology and University of Basel: Basel, Switzerland",
+          "count": 1
+        },
+        {
+          "name": "California Institute of Technology (Caltech)",
+          "count": 1
+        }
+      ],
       "mapped_name": "University of Melbourne"
     },
     {
@@ -197,6 +1142,51 @@
       "country": "United States",
       "score": 0.4066,
       "total_placed": 372,
+      "total_hired": 16,
+      "top_destinations": [
+        {
+          "name": "Harvard University",
+          "count": 84
+        },
+        {
+          "name": "Stanford University",
+          "count": 64
+        },
+        {
+          "name": "Columbia University",
+          "count": 49
+        },
+        {
+          "name": "Yale University",
+          "count": 45
+        },
+        {
+          "name": "University of Chicago",
+          "count": 32
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Columbia University",
+          "count": 1
+        },
+        {
+          "name": "Massachusetts Institute of Technology (MIT)",
+          "count": 1
+        },
+        {
+          "name": "New York University (NYU)",
+          "count": 1
+        },
+        {
+          "name": "Stanford University",
+          "count": 1
+        },
+        {
+          "name": "Syracuse University",
+          "count": 1
+        }
+      ],
       "mapped_name": "Cornell University"
     },
     {
@@ -206,6 +1196,51 @@
       "country": "United States",
       "score": 0.4054,
       "total_placed": 323,
+      "total_hired": 18,
+      "top_destinations": [
+        {
+          "name": "Columbia University",
+          "count": 67
+        },
+        {
+          "name": "Harvard University",
+          "count": 59
+        },
+        {
+          "name": "Stanford University",
+          "count": 49
+        },
+        {
+          "name": "Yale University",
+          "count": 34
+        },
+        {
+          "name": "University of Chicago",
+          "count": 33
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Johns Hopkins University",
+          "count": 2
+        },
+        {
+          "name": "California Institute of Technology (Caltech)",
+          "count": 1
+        },
+        {
+          "name": "University of California Berkeley (UCB)",
+          "count": 1
+        },
+        {
+          "name": "University of Texas at Austin",
+          "count": 1
+        },
+        {
+          "name": "University of Texas Health Science Center at San Antonio",
+          "count": 1
+        }
+      ],
       "mapped_name": "New York University (NYU)"
     },
     {
@@ -215,6 +1250,51 @@
       "country": "United States",
       "score": 0.4015,
       "total_placed": 176,
+      "total_hired": 14,
+      "top_destinations": [
+        {
+          "name": "Harvard University",
+          "count": 39
+        },
+        {
+          "name": "Columbia University",
+          "count": 26
+        },
+        {
+          "name": "University of Chicago",
+          "count": 25
+        },
+        {
+          "name": "Stanford University",
+          "count": 23
+        },
+        {
+          "name": "Yale University",
+          "count": 22
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Emory University",
+          "count": 1
+        },
+        {
+          "name": "Massachusetts Institute of Technology (MIT)",
+          "count": 1
+        },
+        {
+          "name": "McMaster University",
+          "count": 1
+        },
+        {
+          "name": "Princeton University",
+          "count": 1
+        },
+        {
+          "name": "Purdue University",
+          "count": 1
+        }
+      ],
       "mapped_name": "Johns Hopkins University"
     },
     {
@@ -224,6 +1304,51 @@
       "country": "Australia",
       "score": 0.4013,
       "total_placed": 34,
+      "total_hired": 27,
+      "top_destinations": [
+        {
+          "name": "University of Sydney",
+          "count": 7
+        },
+        {
+          "name": "Harvard University",
+          "count": 3
+        },
+        {
+          "name": "University of Washington",
+          "count": 3
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 2
+        },
+        {
+          "name": "Monash University",
+          "count": 2
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University College London (UCL)",
+          "count": 3
+        },
+        {
+          "name": "University of Oxford",
+          "count": 2
+        },
+        {
+          "name": "University of Edinburgh",
+          "count": 2
+        },
+        {
+          "name": "Cardiff University",
+          "count": 1
+        },
+        {
+          "name": "University of Bordeaux",
+          "count": 1
+        }
+      ],
       "mapped_name": "The University of Queensland"
     },
     {
@@ -233,6 +1358,51 @@
       "country": "United Kingdom",
       "score": 0.3854,
       "total_placed": 61,
+      "total_hired": 20,
+      "top_destinations": [
+        {
+          "name": "University of Oxford",
+          "count": 17
+        },
+        {
+          "name": "University of Leeds",
+          "count": 8
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 6
+        },
+        {
+          "name": "Harvard University",
+          "count": 5
+        },
+        {
+          "name": "University of Sydney",
+          "count": 4
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University College London (UCL)",
+          "count": 3
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 3
+        },
+        {
+          "name": "Stanford University",
+          "count": 2
+        },
+        {
+          "name": "University of Oxford",
+          "count": 2
+        },
+        {
+          "name": "University of Strathclyde",
+          "count": 2
+        }
+      ],
       "mapped_name": "University of Glasgow"
     },
     {
@@ -242,6 +1412,51 @@
       "country": "South Korea",
       "score": 0.3623,
       "total_placed": 39,
+      "total_hired": 15,
+      "top_destinations": [
+        {
+          "name": "KAIST",
+          "count": 12
+        },
+        {
+          "name": "Korea University",
+          "count": 6
+        },
+        {
+          "name": "Columbia University",
+          "count": 3
+        },
+        {
+          "name": "Duke University",
+          "count": 3
+        },
+        {
+          "name": "POSTECH",
+          "count": 3
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "California Institute of Technology (Caltech)",
+          "count": 1
+        },
+        {
+          "name": "Cornell University",
+          "count": 1
+        },
+        {
+          "name": "Duke University",
+          "count": 1
+        },
+        {
+          "name": "Ewha Womans University",
+          "count": 1
+        },
+        {
+          "name": "Harbin Medical University",
+          "count": 1
+        }
+      ],
       "mapped_name": "Seoul National University"
     },
     {
@@ -251,6 +1466,51 @@
       "country": "United States",
       "score": 0.355,
       "total_placed": 53,
+      "total_hired": 13,
+      "top_destinations": [
+        {
+          "name": "Harvard University",
+          "count": 13
+        },
+        {
+          "name": "Stanford University",
+          "count": 9
+        },
+        {
+          "name": "University of Chicago",
+          "count": 5
+        },
+        {
+          "name": "Duke University",
+          "count": 4
+        },
+        {
+          "name": "Columbia University",
+          "count": 3
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Massachusetts Institute of Technology (MIT)",
+          "count": 2
+        },
+        {
+          "name": "Aarhus University",
+          "count": 1
+        },
+        {
+          "name": "California Institute of Technology (Caltech)",
+          "count": 1
+        },
+        {
+          "name": "Harvard University",
+          "count": 1
+        },
+        {
+          "name": "Humboldt-Universit\u00e4t zu Berlin",
+          "count": 1
+        }
+      ],
       "mapped_name": "University of California San Diego (UCSD)"
     },
     {
@@ -260,6 +1520,51 @@
       "country": "United States",
       "score": 0.3518,
       "total_placed": 64,
+      "total_hired": 979,
+      "top_destinations": [
+        {
+          "name": "Harvard University",
+          "count": 16
+        },
+        {
+          "name": "Stanford University",
+          "count": 14
+        },
+        {
+          "name": "Yale University",
+          "count": 7
+        },
+        {
+          "name": "University of Chicago",
+          "count": 5
+        },
+        {
+          "name": "University of British Columbia",
+          "count": 3
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Harvard University",
+          "count": 57
+        },
+        {
+          "name": "Yale University",
+          "count": 49
+        },
+        {
+          "name": "University of Chicago",
+          "count": 35
+        },
+        {
+          "name": "Princeton University",
+          "count": 28
+        },
+        {
+          "name": "Stanford University",
+          "count": 27
+        }
+      ],
       "mapped_name": "Duke University"
     },
     {
@@ -269,6 +1574,51 @@
       "country": "United States",
       "score": 0.347,
       "total_placed": 136,
+      "total_hired": 18,
+      "top_destinations": [
+        {
+          "name": "Stanford University",
+          "count": 38
+        },
+        {
+          "name": "Harvard University",
+          "count": 22
+        },
+        {
+          "name": "Yale University",
+          "count": 12
+        },
+        {
+          "name": "Columbia University",
+          "count": 12
+        },
+        {
+          "name": "University of Chicago",
+          "count": 11
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Harvard University",
+          "count": 2
+        },
+        {
+          "name": "Albert Einstein College of Medicine",
+          "count": 1
+        },
+        {
+          "name": "UCLA Division of Physical Sciences",
+          "count": 1
+        },
+        {
+          "name": "University of Toronto",
+          "count": 1
+        },
+        {
+          "name": "University of Oxford",
+          "count": 1
+        }
+      ],
       "mapped_name": "University of California Los Angeles (UCLA)"
     },
     {
@@ -278,6 +1628,51 @@
       "country": "Japan",
       "score": 0.3365,
       "total_placed": 34,
+      "total_hired": 162,
+      "top_destinations": [
+        {
+          "name": "The University of Tokyo",
+          "count": 14
+        },
+        {
+          "name": "Tokyo Institute of Technology",
+          "count": 5
+        },
+        {
+          "name": "Columbia University",
+          "count": 3
+        },
+        {
+          "name": "City University of Hong Kong",
+          "count": 1
+        },
+        {
+          "name": "Kyoto University",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "The University of Tokyo",
+          "count": 43
+        },
+        {
+          "name": "Kyoto University",
+          "count": 23
+        },
+        {
+          "name": "Nagoya University",
+          "count": 5
+        },
+        {
+          "name": "Tohoku University",
+          "count": 4
+        },
+        {
+          "name": "University of Chicago",
+          "count": 3
+        }
+      ],
       "mapped_name": "Osaka University"
     },
     {
@@ -287,6 +1682,51 @@
       "country": "Australia",
       "score": 0.3323,
       "total_placed": 23,
+      "total_hired": 30,
+      "top_destinations": [
+        {
+          "name": "University of Melbourne",
+          "count": 3
+        },
+        {
+          "name": "University of Oxford",
+          "count": 3
+        },
+        {
+          "name": "University of Sydney",
+          "count": 3
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 2
+        },
+        {
+          "name": "Yale University",
+          "count": 2
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Melbourne",
+          "count": 7
+        },
+        {
+          "name": "University of Wollongong",
+          "count": 2
+        },
+        {
+          "name": "Lund University",
+          "count": 2
+        },
+        {
+          "name": "The University of Adelaide",
+          "count": 2
+        },
+        {
+          "name": "The University of Queensland",
+          "count": 2
+        }
+      ],
       "mapped_name": "Monash University"
     },
     {
@@ -296,6 +1736,51 @@
       "country": "Japan",
       "score": 0.3309,
       "total_placed": 77,
+      "total_hired": 8,
+      "top_destinations": [
+        {
+          "name": "The University of Tokyo",
+          "count": 26
+        },
+        {
+          "name": "Osaka University",
+          "count": 23
+        },
+        {
+          "name": "Harvard University",
+          "count": 5
+        },
+        {
+          "name": "Columbia University",
+          "count": 4
+        },
+        {
+          "name": "Tokyo Institute of Technology",
+          "count": 4
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Beijing Institute of Technology",
+          "count": 1
+        },
+        {
+          "name": "Graduate School of Medicine, Keio University",
+          "count": 1
+        },
+        {
+          "name": "Jiangnan University",
+          "count": 1
+        },
+        {
+          "name": "Kumamoto University",
+          "count": 1
+        },
+        {
+          "name": "Osaka University",
+          "count": 1
+        }
+      ],
       "mapped_name": "Kyoto University"
     },
     {
@@ -305,6 +1790,51 @@
       "country": "Australia",
       "score": 0.3301,
       "total_placed": 56,
+      "total_hired": 34,
+      "top_destinations": [
+        {
+          "name": "University of Sydney",
+          "count": 18
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 5
+        },
+        {
+          "name": "University of Oxford",
+          "count": 5
+        },
+        {
+          "name": "University of Toronto",
+          "count": 4
+        },
+        {
+          "name": "The University of Western Australia",
+          "count": 3
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Curtin University",
+          "count": 2
+        },
+        {
+          "name": "University of Toronto",
+          "count": 2
+        },
+        {
+          "name": "California Institute of Technology (Caltech)",
+          "count": 2
+        },
+        {
+          "name": "Beijing Normal University",
+          "count": 1
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 1
+        }
+      ],
       "mapped_name": "Australian National University (ANU)"
     },
     {
@@ -314,6 +1844,51 @@
       "country": "United Kingdom",
       "score": 0.3219,
       "total_placed": 44,
+      "total_hired": 510,
+      "top_destinations": [
+        {
+          "name": "University of Oxford",
+          "count": 14
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 11
+        },
+        {
+          "name": "Harvard University",
+          "count": 4
+        },
+        {
+          "name": "University of Sydney",
+          "count": 3
+        },
+        {
+          "name": "McGill University",
+          "count": 2
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Cambridge",
+          "count": 33
+        },
+        {
+          "name": "University College London (UCL)",
+          "count": 31
+        },
+        {
+          "name": "University of Manchester",
+          "count": 23
+        },
+        {
+          "name": "University of Oxford",
+          "count": 21
+        },
+        {
+          "name": "Imperial College London",
+          "count": 11
+        }
+      ],
       "mapped_name": "University of Leeds"
     },
     {
@@ -323,6 +1898,51 @@
       "country": "United States",
       "score": 0.3194,
       "total_placed": 154,
+      "total_hired": 20,
+      "top_destinations": [
+        {
+          "name": "Harvard University",
+          "count": 40
+        },
+        {
+          "name": "Yale University",
+          "count": 24
+        },
+        {
+          "name": "Stanford University",
+          "count": 24
+        },
+        {
+          "name": "University of Chicago",
+          "count": 16
+        },
+        {
+          "name": "Columbia University",
+          "count": 14
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Harvard University",
+          "count": 5
+        },
+        {
+          "name": "Stanford University",
+          "count": 2
+        },
+        {
+          "name": "Duke University",
+          "count": 1
+        },
+        {
+          "name": "Indiana University School of Medicine",
+          "count": 1
+        },
+        {
+          "name": "Kanazawa Daigaku",
+          "count": 1
+        }
+      ],
       "mapped_name": "Brown University"
     },
     {
@@ -332,6 +1952,51 @@
       "country": "Australia",
       "score": 0.3113,
       "total_placed": 55,
+      "total_hired": 437,
+      "top_destinations": [
+        {
+          "name": "University of Cambridge",
+          "count": 14
+        },
+        {
+          "name": "University of Oxford",
+          "count": 10
+        },
+        {
+          "name": "Stanford University",
+          "count": 5
+        },
+        {
+          "name": "Harvard University",
+          "count": 4
+        },
+        {
+          "name": "University of New South Wales (UNSW Sydney)",
+          "count": 4
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University College London (UCL)",
+          "count": 21
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 19
+        },
+        {
+          "name": "University of New South Wales (UNSW Sydney)",
+          "count": 19
+        },
+        {
+          "name": "University of Melbourne",
+          "count": 18
+        },
+        {
+          "name": "Australian National University (ANU)",
+          "count": 18
+        }
+      ],
       "mapped_name": "University of Sydney"
     },
     {
@@ -341,6 +2006,51 @@
       "country": "Australia",
       "score": 0.3113,
       "total_placed": 32,
+      "total_hired": 27,
+      "top_destinations": [
+        {
+          "name": "University of Sydney",
+          "count": 5
+        },
+        {
+          "name": "University of Toronto",
+          "count": 4
+        },
+        {
+          "name": "Stanford University",
+          "count": 3
+        },
+        {
+          "name": "University of British Columbia",
+          "count": 3
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 3
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of South Australia",
+          "count": 2
+        },
+        {
+          "name": "Aristotle University of Thessaloniki",
+          "count": 1
+        },
+        {
+          "name": "Curtin University",
+          "count": 1
+        },
+        {
+          "name": "Universit\u00e9 de Savoie",
+          "count": 1
+        },
+        {
+          "name": "Universit\u00e9 Savoie Mont-Blanc",
+          "count": 1
+        }
+      ],
       "mapped_name": "The University of Adelaide"
     },
     {
@@ -350,6 +2060,51 @@
       "country": "Canada",
       "score": 0.3107,
       "total_placed": 152,
+      "total_hired": 17,
+      "top_destinations": [
+        {
+          "name": "University of Toronto",
+          "count": 41
+        },
+        {
+          "name": "Harvard University",
+          "count": 28
+        },
+        {
+          "name": "Stanford University",
+          "count": 13
+        },
+        {
+          "name": "University of British Columbia",
+          "count": 13
+        },
+        {
+          "name": "University of Chicago",
+          "count": 10
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Leeds",
+          "count": 2
+        },
+        {
+          "name": "University of Manchester",
+          "count": 2
+        },
+        {
+          "name": "Eberhard Karls Universit\u00e4t T\u00fcbingen",
+          "count": 1
+        },
+        {
+          "name": "Free University of Bozen-Bolzano",
+          "count": 1
+        },
+        {
+          "name": "Harvard University",
+          "count": 1
+        }
+      ],
       "mapped_name": "McGill University"
     },
     {
@@ -359,6 +2114,51 @@
       "country": "Netherlands",
       "score": 0.309,
       "total_placed": 103,
+      "total_hired": 637,
+      "top_destinations": [
+        {
+          "name": "Delft University of Technology",
+          "count": 53
+        },
+        {
+          "name": "University of Oxford",
+          "count": 6
+        },
+        {
+          "name": "Harvard University",
+          "count": 6
+        },
+        {
+          "name": "University of Chicago",
+          "count": 6
+        },
+        {
+          "name": "Stanford University",
+          "count": 4
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Leiden University",
+          "count": 105
+        },
+        {
+          "name": "Utrecht University",
+          "count": 78
+        },
+        {
+          "name": "University of Groningen",
+          "count": 30
+        },
+        {
+          "name": "Erasmus University Rotterdam",
+          "count": 14
+        },
+        {
+          "name": "Radboud University",
+          "count": 13
+        }
+      ],
       "mapped_name": "University of Amsterdam"
     },
     {
@@ -368,6 +2168,51 @@
       "country": "Australia",
       "score": 0.3059,
       "total_placed": 21,
+      "total_hired": 25,
+      "top_destinations": [
+        {
+          "name": "University of Cambridge",
+          "count": 4
+        },
+        {
+          "name": "University of Sydney",
+          "count": 4
+        },
+        {
+          "name": "Stanford University",
+          "count": 2
+        },
+        {
+          "name": "University of Oxford",
+          "count": 2
+        },
+        {
+          "name": "Australian National University (ANU)",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Australian National University (ANU)",
+          "count": 3
+        },
+        {
+          "name": "University of Oxford",
+          "count": 2
+        },
+        {
+          "name": "University of Bristol",
+          "count": 2
+        },
+        {
+          "name": "University College London (UCL)",
+          "count": 1
+        },
+        {
+          "name": "University of Sydney",
+          "count": 1
+        }
+      ],
       "mapped_name": "The University of Western Australia"
     },
     {
@@ -377,6 +2222,51 @@
       "country": "United Kingdom",
       "score": 0.305,
       "total_placed": 72,
+      "total_hired": 17,
+      "top_destinations": [
+        {
+          "name": "University of Oxford",
+          "count": 24
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 16
+        },
+        {
+          "name": "Stanford University",
+          "count": 6
+        },
+        {
+          "name": "University of Toronto",
+          "count": 4
+        },
+        {
+          "name": "University of Leeds",
+          "count": 4
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University College London (UCL)",
+          "count": 3
+        },
+        {
+          "name": "Guys and St Thomas",
+          "count": 1
+        },
+        {
+          "name": "Imperial College London",
+          "count": 1
+        },
+        {
+          "name": "Karolinska Institutet",
+          "count": 1
+        },
+        {
+          "name": "University of Edinburgh",
+          "count": 1
+        }
+      ],
       "mapped_name": "King's College London"
     },
     {
@@ -386,6 +2276,51 @@
       "country": "United States",
       "score": 0.3047,
       "total_placed": 106,
+      "total_hired": 17,
+      "top_destinations": [
+        {
+          "name": "Harvard University",
+          "count": 19
+        },
+        {
+          "name": "Stanford University",
+          "count": 19
+        },
+        {
+          "name": "University of Chicago",
+          "count": 18
+        },
+        {
+          "name": "Yale University",
+          "count": 9
+        },
+        {
+          "name": "University of Toronto",
+          "count": 9
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Massachusetts Institute of Technology (MIT)",
+          "count": 2
+        },
+        {
+          "name": "New York University (NYU)",
+          "count": 2
+        },
+        {
+          "name": "Albany Medical College",
+          "count": 1
+        },
+        {
+          "name": "California Institute of Technology (Caltech)",
+          "count": 1
+        },
+        {
+          "name": "Cardiff University",
+          "count": 1
+        }
+      ],
       "mapped_name": "Northwestern University"
     },
     {
@@ -395,6 +2330,30 @@
       "country": "New Zealand",
       "score": 0.3047,
       "total_placed": 35,
+      "total_hired": 0,
+      "top_destinations": [
+        {
+          "name": "University of Sydney",
+          "count": 7
+        },
+        {
+          "name": "University of Oxford",
+          "count": 6
+        },
+        {
+          "name": "Harvard University",
+          "count": 5
+        },
+        {
+          "name": "Stanford University",
+          "count": 3
+        },
+        {
+          "name": "University of Leeds",
+          "count": 3
+        }
+      ],
+      "top_feeders": [],
       "mapped_name": "The University of Auckland"
     },
     {
@@ -404,6 +2363,51 @@
       "country": "United Kingdom",
       "score": 0.3014,
       "total_placed": 33,
+      "total_hired": 25,
+      "top_destinations": [
+        {
+          "name": "University of Cambridge",
+          "count": 6
+        },
+        {
+          "name": "University of Sydney",
+          "count": 5
+        },
+        {
+          "name": "University of Leeds",
+          "count": 4
+        },
+        {
+          "name": "University of Oxford",
+          "count": 3
+        },
+        {
+          "name": "Duke University",
+          "count": 2
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Oxford",
+          "count": 3
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 3
+        },
+        {
+          "name": "University of Sussex",
+          "count": 2
+        },
+        {
+          "name": "University College London (UCL)",
+          "count": 2
+        },
+        {
+          "name": "Aston University",
+          "count": 1
+        }
+      ],
       "mapped_name": "University of Southampton"
     },
     {
@@ -413,6 +2417,51 @@
       "country": "Canada",
       "score": 0.2955,
       "total_placed": 68,
+      "total_hired": 687,
+      "top_destinations": [
+        {
+          "name": "University of Toronto",
+          "count": 21
+        },
+        {
+          "name": "Stanford University",
+          "count": 13
+        },
+        {
+          "name": "Harvard University",
+          "count": 7
+        },
+        {
+          "name": "University of Sydney",
+          "count": 4
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 4
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Toronto",
+          "count": 32
+        },
+        {
+          "name": "University of California Berkeley (UCB)",
+          "count": 25
+        },
+        {
+          "name": "Harvard University",
+          "count": 24
+        },
+        {
+          "name": "University of Washington",
+          "count": 20
+        },
+        {
+          "name": "Stanford University",
+          "count": 18
+        }
+      ],
       "mapped_name": "University of British Columbia"
     },
     {
@@ -422,6 +2471,51 @@
       "country": "United Kingdom",
       "score": 0.2928,
       "total_placed": 63,
+      "total_hired": 33,
+      "top_destinations": [
+        {
+          "name": "University of Cambridge",
+          "count": 12
+        },
+        {
+          "name": "University of Leeds",
+          "count": 9
+        },
+        {
+          "name": "University of Oxford",
+          "count": 8
+        },
+        {
+          "name": "Yale University",
+          "count": 6
+        },
+        {
+          "name": "Stanford University",
+          "count": 4
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Oxford",
+          "count": 4
+        },
+        {
+          "name": "University of Michigan-Ann Arbor",
+          "count": 2
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 2
+        },
+        {
+          "name": "University of Exeter",
+          "count": 2
+        },
+        {
+          "name": "Aston University",
+          "count": 1
+        }
+      ],
       "mapped_name": "University of Birmingham"
     },
     {
@@ -431,6 +2525,51 @@
       "country": "United States",
       "score": 0.2909,
       "total_placed": 46,
+      "total_hired": 32,
+      "top_destinations": [
+        {
+          "name": "Harvard University",
+          "count": 8
+        },
+        {
+          "name": "Stanford University",
+          "count": 7
+        },
+        {
+          "name": "University of Chicago",
+          "count": 5
+        },
+        {
+          "name": "Yale University",
+          "count": 5
+        },
+        {
+          "name": "Purdue University",
+          "count": 4
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "California Institute of Technology (Caltech)",
+          "count": 2
+        },
+        {
+          "name": "University of Chicago",
+          "count": 2
+        },
+        {
+          "name": "Columbia University",
+          "count": 1
+        },
+        {
+          "name": "University of Wisconsin Madison",
+          "count": 1
+        },
+        {
+          "name": "University of Washington",
+          "count": 1
+        }
+      ],
       "mapped_name": "Pennsylvania State University"
     },
     {
@@ -440,6 +2579,51 @@
       "country": "Germany",
       "score": 0.2904,
       "total_placed": 65,
+      "total_hired": 13,
+      "top_destinations": [
+        {
+          "name": "Ruprecht-Karls-Universit\u00e4t Heidelberg",
+          "count": 18
+        },
+        {
+          "name": "Harvard University",
+          "count": 8
+        },
+        {
+          "name": "RWTH Aachen University",
+          "count": 7
+        },
+        {
+          "name": "Stanford University",
+          "count": 6
+        },
+        {
+          "name": "Yale University",
+          "count": 5
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Charit\u00e9 Universit\u00e4tsmedizin Berlin",
+          "count": 1
+        },
+        {
+          "name": "ETH Zurich",
+          "count": 1
+        },
+        {
+          "name": "Eidgen\u00f6ssische Technische Hochschule Z\u00fcrich",
+          "count": 1
+        },
+        {
+          "name": "Georg-August-Universit\u00e4t G\u00f6ttingen",
+          "count": 1
+        },
+        {
+          "name": "Heidelberg University",
+          "count": 1
+        }
+      ],
       "mapped_name": "Freie Universit\u00e4t Berlin"
     },
     {
@@ -449,6 +2633,51 @@
       "country": "Sweden",
       "score": 0.2882,
       "total_placed": 30,
+      "total_hired": 218,
+      "top_destinations": [
+        {
+          "name": "University of Copenhagen",
+          "count": 10
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 5
+        },
+        {
+          "name": "Monash University",
+          "count": 2
+        },
+        {
+          "name": "Stanford University",
+          "count": 2
+        },
+        {
+          "name": "University of Oxford",
+          "count": 2
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Uppsala University",
+          "count": 40
+        },
+        {
+          "name": "Stockholm University",
+          "count": 20
+        },
+        {
+          "name": "University of Copenhagen",
+          "count": 10
+        },
+        {
+          "name": "University of Gothenburg",
+          "count": 5
+        },
+        {
+          "name": "Karolinska Institutet",
+          "count": 4
+        }
+      ],
       "mapped_name": "Lund University"
     },
     {
@@ -458,6 +2687,51 @@
       "country": "Russia",
       "score": 0.2866,
       "total_placed": 31,
+      "total_hired": 744,
+      "top_destinations": [
+        {
+          "name": "Harvard University",
+          "count": 5
+        },
+        {
+          "name": "Columbia University",
+          "count": 3
+        },
+        {
+          "name": "Stanford University",
+          "count": 3
+        },
+        {
+          "name": "University of Toronto",
+          "count": 3
+        },
+        {
+          "name": "University of Chicago",
+          "count": 3
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "MSU Faculty of Mechanics and Mathematics",
+          "count": 74
+        },
+        {
+          "name": "Faculty of Physics and Mathematics of Moscow Imperial University",
+          "count": 56
+        },
+        {
+          "name": "Faculty of History and Philology of Moscow University",
+          "count": 34
+        },
+        {
+          "name": "MSU Faculty of Physics",
+          "count": 27
+        },
+        {
+          "name": "MSU Faculty of History",
+          "count": 24
+        }
+      ],
       "mapped_name": "Lomonosov Moscow State University"
     },
     {
@@ -467,6 +2741,51 @@
       "country": "United Kingdom",
       "score": 0.2831,
       "total_placed": 141,
+      "total_hired": 28,
+      "top_destinations": [
+        {
+          "name": "University of Oxford",
+          "count": 23
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 19
+        },
+        {
+          "name": "Harvard University",
+          "count": 18
+        },
+        {
+          "name": "Columbia University",
+          "count": 15
+        },
+        {
+          "name": "Yale University",
+          "count": 12
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University College London (UCL)",
+          "count": 4
+        },
+        {
+          "name": "Imperial College London",
+          "count": 3
+        },
+        {
+          "name": "Massachusetts Institute of Technology (MIT)",
+          "count": 2
+        },
+        {
+          "name": "Harvard University",
+          "count": 2
+        },
+        {
+          "name": "China University of Geosciences",
+          "count": 1
+        }
+      ],
       "mapped_name": "London School of Economics and Political Science (LSE)"
     },
     {
@@ -476,6 +2795,30 @@
       "country": "Hong Kong SAR",
       "score": 0.2829,
       "total_placed": 22,
+      "total_hired": 0,
+      "top_destinations": [
+        {
+          "name": "City University of Hong Kong",
+          "count": 6
+        },
+        {
+          "name": "Harvard University",
+          "count": 3
+        },
+        {
+          "name": "University of Toronto",
+          "count": 2
+        },
+        {
+          "name": "Australian National University (ANU)",
+          "count": 1
+        },
+        {
+          "name": "Duke University",
+          "count": 1
+        }
+      ],
+      "top_feeders": [],
       "mapped_name": "The University of Hong Kong (HKU)"
     },
     {
@@ -485,6 +2828,51 @@
       "country": "United Kingdom",
       "score": 0.2828,
       "total_placed": 48,
+      "total_hired": 21,
+      "top_destinations": [
+        {
+          "name": "University of Oxford",
+          "count": 17
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 10
+        },
+        {
+          "name": "University of Leeds",
+          "count": 4
+        },
+        {
+          "name": "University of British Columbia",
+          "count": 3
+        },
+        {
+          "name": "The University of Western Australia",
+          "count": 2
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Southampton",
+          "count": 2
+        },
+        {
+          "name": "University of Reading",
+          "count": 2
+        },
+        {
+          "name": "University of Oxford",
+          "count": 2
+        },
+        {
+          "name": "University of Bath",
+          "count": 2
+        },
+        {
+          "name": "Imperial College London",
+          "count": 1
+        }
+      ],
       "mapped_name": "University of Bristol"
     },
     {
@@ -494,6 +2882,51 @@
       "country": "China",
       "score": 0.2815,
       "total_placed": 34,
+      "total_hired": 201,
+      "top_destinations": [
+        {
+          "name": "Stanford University",
+          "count": 4
+        },
+        {
+          "name": "Fudan University",
+          "count": 4
+        },
+        {
+          "name": "Harvard University",
+          "count": 4
+        },
+        {
+          "name": "Columbia University",
+          "count": 3
+        },
+        {
+          "name": "City University of Hong Kong",
+          "count": 2
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Tsinghua University",
+          "count": 11
+        },
+        {
+          "name": "Harvard University",
+          "count": 10
+        },
+        {
+          "name": "Columbia University",
+          "count": 6
+        },
+        {
+          "name": "University of Science and Technology of China",
+          "count": 5
+        },
+        {
+          "name": "University of Oxford",
+          "count": 4
+        }
+      ],
       "mapped_name": "Peking University"
     },
     {
@@ -503,6 +2936,51 @@
       "country": "France",
       "score": 0.2812,
       "total_placed": 58,
+      "total_hired": 94,
+      "top_destinations": [
+        {
+          "name": "Columbia University",
+          "count": 11
+        },
+        {
+          "name": "Harvard University",
+          "count": 6
+        },
+        {
+          "name": "Yale University",
+          "count": 6
+        },
+        {
+          "name": "University of Oxford",
+          "count": 5
+        },
+        {
+          "name": "University of Chicago",
+          "count": 5
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "\u00c9cole Normale Sup\u00e9rieure",
+          "count": 12
+        },
+        {
+          "name": "Pierre and Marie Curie University",
+          "count": 9
+        },
+        {
+          "name": "Paris Descartes University",
+          "count": 3
+        },
+        {
+          "name": "Sciences Po",
+          "count": 3
+        },
+        {
+          "name": "Universit\u00e9 Pierre et Marie Curie",
+          "count": 2
+        }
+      ],
       "mapped_name": "Sorbonne University"
     },
     {
@@ -512,6 +2990,51 @@
       "country": "Germany",
       "score": 0.2802,
       "total_placed": 206,
+      "total_hired": 14,
+      "top_destinations": [
+        {
+          "name": "Ruprecht-Karls-Universit\u00e4t Heidelberg",
+          "count": 78
+        },
+        {
+          "name": "Harvard University",
+          "count": 25
+        },
+        {
+          "name": "ETH Zurich",
+          "count": 18
+        },
+        {
+          "name": "RWTH Aachen University",
+          "count": 14
+        },
+        {
+          "name": "University of Chicago",
+          "count": 13
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Charles University in Prague",
+          "count": 2
+        },
+        {
+          "name": "Ludwig Maximilian University of Munich",
+          "count": 2
+        },
+        {
+          "name": "Albert-Ludwigs-Universit\u00e4t Freiburg",
+          "count": 1
+        },
+        {
+          "name": "Brandeis University",
+          "count": 1
+        },
+        {
+          "name": "Friedrich-Miescher-Laboratorium fur biologische Arbeitsgruppen in der MPG",
+          "count": 1
+        }
+      ],
       "mapped_name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen (LMU Munich)"
     },
     {
@@ -521,6 +3044,51 @@
       "country": "United Kingdom",
       "score": 0.2779,
       "total_placed": 37,
+      "total_hired": 30,
+      "top_destinations": [
+        {
+          "name": "University of Cambridge",
+          "count": 8
+        },
+        {
+          "name": "University of Oxford",
+          "count": 8
+        },
+        {
+          "name": "University of Leeds",
+          "count": 7
+        },
+        {
+          "name": "Harvard University",
+          "count": 4
+        },
+        {
+          "name": "Duke University",
+          "count": 2
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Cambridge",
+          "count": 5
+        },
+        {
+          "name": "University of Edinburgh",
+          "count": 2
+        },
+        {
+          "name": "University of Oxford",
+          "count": 2
+        },
+        {
+          "name": "University College London (UCL)",
+          "count": 2
+        },
+        {
+          "name": "University of Hertfordshire",
+          "count": 1
+        }
+      ],
       "mapped_name": "Durham University"
     },
     {
@@ -530,6 +3098,51 @@
       "country": "South Korea",
       "score": 0.2765,
       "total_placed": 9,
+      "total_hired": 8,
+      "top_destinations": [
+        {
+          "name": "KAIST",
+          "count": 3
+        },
+        {
+          "name": "Columbia University",
+          "count": 1
+        },
+        {
+          "name": "Harvard University",
+          "count": 1
+        },
+        {
+          "name": "Korea University",
+          "count": 1
+        },
+        {
+          "name": "Princeton University",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Columbia University",
+          "count": 1
+        },
+        {
+          "name": "Florida State University",
+          "count": 1
+        },
+        {
+          "name": "Georgia Institute of Technology",
+          "count": 1
+        },
+        {
+          "name": "Imperial College London",
+          "count": 1
+        },
+        {
+          "name": "Max-Planck-Institut f\u00fcr Polymerforschung",
+          "count": 1
+        }
+      ],
       "mapped_name": "Yonsei University"
     },
     {
@@ -539,6 +3152,51 @@
       "country": "United States",
       "score": 0.2758,
       "total_placed": 77,
+      "total_hired": 22,
+      "top_destinations": [
+        {
+          "name": "Stanford University",
+          "count": 14
+        },
+        {
+          "name": "University of Chicago",
+          "count": 11
+        },
+        {
+          "name": "Harvard University",
+          "count": 11
+        },
+        {
+          "name": "Yale University",
+          "count": 10
+        },
+        {
+          "name": "Purdue University",
+          "count": 5
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Stanford University",
+          "count": 3
+        },
+        {
+          "name": "University of California Berkeley (UCB)",
+          "count": 3
+        },
+        {
+          "name": "University of Wisconsin Madison",
+          "count": 2
+        },
+        {
+          "name": "California Institute of Technology (Caltech)",
+          "count": 1
+        },
+        {
+          "name": "University of Illinois at Urbana-Champaign",
+          "count": 1
+        }
+      ],
       "mapped_name": "University of Texas at Austin"
     },
     {
@@ -548,6 +3206,51 @@
       "country": "Singapore",
       "score": 0.2754,
       "total_placed": 12,
+      "total_hired": 22,
+      "top_destinations": [
+        {
+          "name": "City University of Hong Kong",
+          "count": 2
+        },
+        {
+          "name": "Nanyang Technological University (NTU)",
+          "count": 2
+        },
+        {
+          "name": "National Taiwan University (NTU)",
+          "count": 2
+        },
+        {
+          "name": "Columbia University",
+          "count": 1
+        },
+        {
+          "name": "Shanghai Jiao Tong University",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Stanford University",
+          "count": 2
+        },
+        {
+          "name": "Texas A&M University",
+          "count": 2
+        },
+        {
+          "name": "Massachusetts Institute of Technology (MIT)",
+          "count": 2
+        },
+        {
+          "name": "University of Idaho",
+          "count": 1
+        },
+        {
+          "name": "University of Edinburgh",
+          "count": 1
+        }
+      ],
       "mapped_name": "National University of Singapore (NUS)"
     },
     {
@@ -557,6 +3260,51 @@
       "country": "Australia",
       "score": 0.2749,
       "total_placed": 38,
+      "total_hired": 30,
+      "top_destinations": [
+        {
+          "name": "University of Sydney",
+          "count": 19
+        },
+        {
+          "name": "Harvard University",
+          "count": 3
+        },
+        {
+          "name": "University of Leeds",
+          "count": 3
+        },
+        {
+          "name": "University of Technology Sydney (UTS)",
+          "count": 3
+        },
+        {
+          "name": "University of Toronto",
+          "count": 2
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Sydney",
+          "count": 4
+        },
+        {
+          "name": "Australian National University (ANU)",
+          "count": 2
+        },
+        {
+          "name": "Chinese Academy of Sciences",
+          "count": 1
+        },
+        {
+          "name": "Uppsala Universitet",
+          "count": 1
+        },
+        {
+          "name": "Universit\u00e9 Pierre et Marie Curie",
+          "count": 1
+        }
+      ],
       "mapped_name": "University of New South Wales (UNSW Sydney)"
     },
     {
@@ -566,6 +3314,30 @@
       "country": "United States",
       "score": 0.2748,
       "total_placed": 5,
+      "total_hired": 0,
+      "top_destinations": [
+        {
+          "name": "City University of Hong Kong",
+          "count": 1
+        },
+        {
+          "name": "National Taiwan University (NTU)",
+          "count": 1
+        },
+        {
+          "name": "Purdue University",
+          "count": 1
+        },
+        {
+          "name": "Seoul National University",
+          "count": 1
+        },
+        {
+          "name": "University of Texas at Austin",
+          "count": 1
+        }
+      ],
+      "top_feeders": [],
       "mapped_name": "University of Illinois at Urbana-Champaign"
     },
     {
@@ -575,6 +3347,51 @@
       "country": "China",
       "score": 0.2748,
       "total_placed": 50,
+      "total_hired": 25,
+      "top_destinations": [
+        {
+          "name": "Peking University",
+          "count": 11
+        },
+        {
+          "name": "Stanford University",
+          "count": 9
+        },
+        {
+          "name": "Columbia University",
+          "count": 6
+        },
+        {
+          "name": "Harvard University",
+          "count": 6
+        },
+        {
+          "name": "University of Chicago",
+          "count": 5
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Harvard University",
+          "count": 3
+        },
+        {
+          "name": "California Institute of Technology (Caltech)",
+          "count": 2
+        },
+        {
+          "name": "Arizona State University",
+          "count": 1
+        },
+        {
+          "name": "University of British Columbia",
+          "count": 1
+        },
+        {
+          "name": "University of Toronto",
+          "count": 1
+        }
+      ],
       "mapped_name": "Tsinghua University"
     },
     {
@@ -584,6 +3401,51 @@
       "country": "United States",
       "score": 0.2733,
       "total_placed": 31,
+      "total_hired": 750,
+      "top_destinations": [
+        {
+          "name": "Stanford University",
+          "count": 7
+        },
+        {
+          "name": "Columbia University",
+          "count": 4
+        },
+        {
+          "name": "ETH Zurich",
+          "count": 3
+        },
+        {
+          "name": "Harvard University",
+          "count": 3
+        },
+        {
+          "name": "University of Chicago",
+          "count": 3
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Massachusetts Institute of Technology (MIT)",
+          "count": 23
+        },
+        {
+          "name": "Harvard University",
+          "count": 20
+        },
+        {
+          "name": "University of Chicago",
+          "count": 20
+        },
+        {
+          "name": "University of Michigan-Ann Arbor",
+          "count": 19
+        },
+        {
+          "name": "University of California Berkeley (UCB)",
+          "count": 18
+        }
+      ],
       "mapped_name": "Purdue University"
     },
     {
@@ -593,6 +3455,51 @@
       "country": "United States",
       "score": 0.2699,
       "total_placed": 71,
+      "total_hired": 20,
+      "top_destinations": [
+        {
+          "name": "Stanford University",
+          "count": 22
+        },
+        {
+          "name": "Harvard University",
+          "count": 6
+        },
+        {
+          "name": "University of Toronto",
+          "count": 6
+        },
+        {
+          "name": "Purdue University",
+          "count": 6
+        },
+        {
+          "name": "Columbia University",
+          "count": 5
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Massachusetts Institute of Technology (MIT)",
+          "count": 3
+        },
+        {
+          "name": "University of California Berkeley (UCB)",
+          "count": 3
+        },
+        {
+          "name": "Friedrich-Alexander-Universitat Erlangen-Nurnberg",
+          "count": 1
+        },
+        {
+          "name": "Fritz-Haber-Institut der Max-Planck-Gesellschaft",
+          "count": 1
+        },
+        {
+          "name": "Hebrew University of Jerusalem",
+          "count": 1
+        }
+      ],
       "mapped_name": "Carnegie Mellon University"
     },
     {
@@ -602,6 +3509,51 @@
       "country": "Switzerland",
       "score": 0.2697,
       "total_placed": 55,
+      "total_hired": 832,
+      "top_destinations": [
+        {
+          "name": "Ruprecht-Karls-Universit\u00e4t Heidelberg",
+          "count": 9
+        },
+        {
+          "name": "Stanford University",
+          "count": 9
+        },
+        {
+          "name": "Delft University of Technology",
+          "count": 5
+        },
+        {
+          "name": "Harvard University",
+          "count": 4
+        },
+        {
+          "name": "Columbia University",
+          "count": 3
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Zurich",
+          "count": 52
+        },
+        {
+          "name": "University of G\u00f6ttingen",
+          "count": 27
+        },
+        {
+          "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen (LMU Munich)",
+          "count": 18
+        },
+        {
+          "name": "Heidelberg University",
+          "count": 17
+        },
+        {
+          "name": "University of Bern",
+          "count": 16
+        }
+      ],
       "mapped_name": "ETH Zurich"
     },
     {
@@ -611,6 +3563,39 @@
       "country": "South Korea",
       "score": 0.2691,
       "total_placed": 8,
+      "total_hired": 43,
+      "top_destinations": [
+        {
+          "name": "KAIST",
+          "count": 4
+        },
+        {
+          "name": "POSTECH",
+          "count": 4
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Seoul National University",
+          "count": 6
+        },
+        {
+          "name": "University of Washington",
+          "count": 2
+        },
+        {
+          "name": "University of Kerala",
+          "count": 2
+        },
+        {
+          "name": "Columbia University",
+          "count": 1
+        },
+        {
+          "name": "University of Maribor",
+          "count": 1
+        }
+      ],
       "mapped_name": "Korea University"
     },
     {
@@ -620,6 +3605,51 @@
       "country": "Denmark",
       "score": 0.2669,
       "total_placed": 46,
+      "total_hired": 510,
+      "top_destinations": [
+        {
+          "name": "Lund University",
+          "count": 10
+        },
+        {
+          "name": "University of Oxford",
+          "count": 6
+        },
+        {
+          "name": "Yale University",
+          "count": 6
+        },
+        {
+          "name": "Harvard University",
+          "count": 5
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 4
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Aarhus University",
+          "count": 35
+        },
+        {
+          "name": "Metropolitanskolen",
+          "count": 33
+        },
+        {
+          "name": "Technical University of Denmark",
+          "count": 15
+        },
+        {
+          "name": "Sor\u00f8 Academy",
+          "count": 11
+        },
+        {
+          "name": "Lund University",
+          "count": 10
+        }
+      ],
       "mapped_name": "University of Copenhagen"
     },
     {
@@ -629,6 +3659,51 @@
       "country": "China",
       "score": 0.2608,
       "total_placed": 24,
+      "total_hired": 87,
+      "top_destinations": [
+        {
+          "name": "Stanford University",
+          "count": 7
+        },
+        {
+          "name": "University of Oxford",
+          "count": 3
+        },
+        {
+          "name": "Harvard University",
+          "count": 2
+        },
+        {
+          "name": "Peking University",
+          "count": 2
+        },
+        {
+          "name": "Shanghai Jiao Tong University",
+          "count": 2
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Zhejiang University",
+          "count": 5
+        },
+        {
+          "name": "Harvard University",
+          "count": 4
+        },
+        {
+          "name": "Shanghai Jiao Tong University",
+          "count": 4
+        },
+        {
+          "name": "Peking University",
+          "count": 4
+        },
+        {
+          "name": "East China Normal University",
+          "count": 3
+        }
+      ],
       "mapped_name": "Fudan University"
     },
     {
@@ -638,6 +3713,43 @@
       "country": "Germany",
       "score": 0.2579,
       "total_placed": 3,
+      "total_hired": 1557,
+      "top_destinations": [
+        {
+          "name": "Technical University of Munich (TUM)",
+          "count": 1
+        },
+        {
+          "name": "University of Edinburgh",
+          "count": 1
+        },
+        {
+          "name": "University of Toronto",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Heidelberg University",
+          "count": 272
+        },
+        {
+          "name": "University of G\u00f6ttingen",
+          "count": 82
+        },
+        {
+          "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen (LMU Munich)",
+          "count": 78
+        },
+        {
+          "name": "Humboldt-Universit\u00e4t zu Berlin",
+          "count": 72
+        },
+        {
+          "name": "University of T\u00fcbingen",
+          "count": 67
+        }
+      ],
       "mapped_name": "Ruprecht-Karls-Universit\u00e4t Heidelberg"
     },
     {
@@ -647,6 +3759,30 @@
       "country": "Hong Kong SAR",
       "score": 0.2567,
       "total_placed": 10,
+      "total_hired": 0,
+      "top_destinations": [
+        {
+          "name": "City University of Hong Kong",
+          "count": 2
+        },
+        {
+          "name": "Harvard University",
+          "count": 2
+        },
+        {
+          "name": "Stanford University",
+          "count": 2
+        },
+        {
+          "name": "Nanyang Technological University (NTU)",
+          "count": 1
+        },
+        {
+          "name": "University of Birmingham",
+          "count": 1
+        }
+      ],
+      "top_feeders": [],
       "mapped_name": "The Chinese University of Hong Kong (CUHK)"
     },
     {
@@ -656,6 +3792,30 @@
       "country": "United Kingdom",
       "score": 0.2549,
       "total_placed": 31,
+      "total_hired": 0,
+      "top_destinations": [
+        {
+          "name": "University of Oxford",
+          "count": 9
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 5
+        },
+        {
+          "name": "University of Leeds",
+          "count": 5
+        },
+        {
+          "name": "Harvard University",
+          "count": 4
+        },
+        {
+          "name": "Duke University",
+          "count": 1
+        }
+      ],
+      "top_feeders": [],
       "mapped_name": "The University of Warwick"
     },
     {
@@ -665,6 +3825,51 @@
       "country": "Canada",
       "score": 0.2518,
       "total_placed": 45,
+      "total_hired": 27,
+      "top_destinations": [
+        {
+          "name": "University of British Columbia",
+          "count": 16
+        },
+        {
+          "name": "University of Toronto",
+          "count": 13
+        },
+        {
+          "name": "Harvard University",
+          "count": 4
+        },
+        {
+          "name": "Duke University",
+          "count": 2
+        },
+        {
+          "name": "Yale University",
+          "count": 2
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Cambridge",
+          "count": 2
+        },
+        {
+          "name": "Ahmadu Bello University",
+          "count": 1
+        },
+        {
+          "name": "California Institute of Technology (Caltech)",
+          "count": 1
+        },
+        {
+          "name": "Virginia Polytechnic Institute and State University",
+          "count": 1
+        },
+        {
+          "name": "Universit\u00e0 degli Studi di Padova",
+          "count": 1
+        }
+      ],
       "mapped_name": "University of Alberta"
     },
     {
@@ -674,6 +3879,51 @@
       "country": "China",
       "score": 0.2517,
       "total_placed": 20,
+      "total_hired": 26,
+      "top_destinations": [
+        {
+          "name": "Fudan University",
+          "count": 5
+        },
+        {
+          "name": "Harvard University",
+          "count": 3
+        },
+        {
+          "name": "Peking University",
+          "count": 3
+        },
+        {
+          "name": "City University of Hong Kong",
+          "count": 2
+        },
+        {
+          "name": "Columbia University",
+          "count": 2
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Toronto",
+          "count": 2
+        },
+        {
+          "name": "Peking University",
+          "count": 2
+        },
+        {
+          "name": "Chinese Academy of Sciences",
+          "count": 1
+        },
+        {
+          "name": "The Chinese University of Hong Kong (CUHK)",
+          "count": 1
+        },
+        {
+          "name": "University of Wollongong",
+          "count": 1
+        }
+      ],
       "mapped_name": "Zhejiang University"
     },
     {
@@ -683,6 +3933,39 @@
       "country": "Argentina",
       "score": 0.2484,
       "total_placed": 2,
+      "total_hired": 22,
+      "top_destinations": [
+        {
+          "name": "Harvard University",
+          "count": 1
+        },
+        {
+          "name": "University of Michigan-Ann Arbor",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Buenos Aires",
+          "count": 5
+        },
+        {
+          "name": "Colorado State University",
+          "count": 2
+        },
+        {
+          "name": "University of California Berkeley (UCB)",
+          "count": 1
+        },
+        {
+          "name": "University of Texas",
+          "count": 1
+        },
+        {
+          "name": "University of Rhode Island",
+          "count": 1
+        }
+      ],
       "mapped_name": "Universidad de Buenos Aires (UBA)"
     },
     {
@@ -692,6 +3975,39 @@
       "country": "Belgium",
       "score": 0.2468,
       "total_placed": 2,
+      "total_hired": 14,
+      "top_destinations": [
+        {
+          "name": "Institut Polytechnique de Paris",
+          "count": 1
+        },
+        {
+          "name": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Katholieke Universiteit Leuven",
+          "count": 3
+        },
+        {
+          "name": "University of Leuven",
+          "count": 2
+        },
+        {
+          "name": "KULeuven",
+          "count": 1
+        },
+        {
+          "name": "Leiden University",
+          "count": 1
+        },
+        {
+          "name": "Maastricht University",
+          "count": 1
+        }
+      ],
       "mapped_name": "KU Leuven"
     },
     {
@@ -701,6 +4017,47 @@
       "country": "Japan",
       "score": 0.2455,
       "total_placed": 9,
+      "total_hired": 78,
+      "top_destinations": [
+        {
+          "name": "The University of Tokyo",
+          "count": 4
+        },
+        {
+          "name": "Osaka University",
+          "count": 3
+        },
+        {
+          "name": "POSTECH",
+          "count": 1
+        },
+        {
+          "name": "Stanford University",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "The University of Tokyo",
+          "count": 24
+        },
+        {
+          "name": "Osaka University",
+          "count": 5
+        },
+        {
+          "name": "Kyoto University",
+          "count": 4
+        },
+        {
+          "name": "Keio University",
+          "count": 3
+        },
+        {
+          "name": "University College London (UCL)",
+          "count": 3
+        }
+      ],
       "mapped_name": "Tokyo Institute of Technology"
     },
     {
@@ -710,6 +4067,51 @@
       "country": "Taiwan",
       "score": 0.2448,
       "total_placed": 41,
+      "total_hired": 17,
+      "top_destinations": [
+        {
+          "name": "Stanford University",
+          "count": 9
+        },
+        {
+          "name": "Harvard University",
+          "count": 8
+        },
+        {
+          "name": "Columbia University",
+          "count": 6
+        },
+        {
+          "name": "The University of Tokyo",
+          "count": 4
+        },
+        {
+          "name": "University of Chicago",
+          "count": 4
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "National University of Singapore (NUS)",
+          "count": 2
+        },
+        {
+          "name": "University of Chicago",
+          "count": 2
+        },
+        {
+          "name": "Institute of High Energy Physics Chinese Academy of Sciences",
+          "count": 1
+        },
+        {
+          "name": "Johns Hopkins University",
+          "count": 1
+        },
+        {
+          "name": "Kyoto University",
+          "count": 1
+        }
+      ],
       "mapped_name": "National Taiwan University (NTU)"
     },
     {
@@ -719,6 +4121,51 @@
       "country": "Germany",
       "score": 0.2446,
       "total_placed": 48,
+      "total_hired": 18,
+      "top_destinations": [
+        {
+          "name": "ETH Zurich",
+          "count": 15
+        },
+        {
+          "name": "Harvard University",
+          "count": 6
+        },
+        {
+          "name": "RWTH Aachen University",
+          "count": 6
+        },
+        {
+          "name": "Ruprecht-Karls-Universit\u00e4t Heidelberg",
+          "count": 4
+        },
+        {
+          "name": "Lomonosov Moscow State University",
+          "count": 3
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Cornell University",
+          "count": 1
+        },
+        {
+          "name": "Department Surgical Research",
+          "count": 1
+        },
+        {
+          "name": "University of Paris-Sud, INRIA",
+          "count": 1
+        },
+        {
+          "name": "University of Natural Resources and Life Sciences",
+          "count": 1
+        },
+        {
+          "name": "University of Manchester",
+          "count": 1
+        }
+      ],
       "mapped_name": "Technical University of Munich (TUM)"
     },
     {
@@ -728,6 +4175,51 @@
       "country": "China",
       "score": 0.2445,
       "total_placed": 14,
+      "total_hired": 75,
+      "top_destinations": [
+        {
+          "name": "Fudan University",
+          "count": 4
+        },
+        {
+          "name": "Stanford University",
+          "count": 4
+        },
+        {
+          "name": "Peking University",
+          "count": 2
+        },
+        {
+          "name": "University of Sydney",
+          "count": 2
+        },
+        {
+          "name": "Columbia University",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Nanjing University",
+          "count": 3
+        },
+        {
+          "name": "University of Science and Technology of China",
+          "count": 3
+        },
+        {
+          "name": "University of Chicago",
+          "count": 2
+        },
+        {
+          "name": "Tsinghua University",
+          "count": 2
+        },
+        {
+          "name": "Katholieke Universiteit Leuven",
+          "count": 2
+        }
+      ],
       "mapped_name": "Shanghai Jiao Tong University"
     },
     {
@@ -737,6 +4229,51 @@
       "country": "Ireland",
       "score": 0.2437,
       "total_placed": 26,
+      "total_hired": 144,
+      "top_destinations": [
+        {
+          "name": "University of Cambridge",
+          "count": 6
+        },
+        {
+          "name": "Harvard University",
+          "count": 4
+        },
+        {
+          "name": "University of Oxford",
+          "count": 4
+        },
+        {
+          "name": "Yale University",
+          "count": 4
+        },
+        {
+          "name": "Stanford University",
+          "count": 3
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University College London (UCL)",
+          "count": 8
+        },
+        {
+          "name": "University College Dublin",
+          "count": 7
+        },
+        {
+          "name": "Queen's University Belfast",
+          "count": 6
+        },
+        {
+          "name": "University College Cork",
+          "count": 4
+        },
+        {
+          "name": "University of Oxford",
+          "count": 4
+        }
+      ],
       "mapped_name": "Trinity College Dublin"
     },
     {
@@ -746,6 +4283,47 @@
       "country": "Singapore",
       "score": 0.2419,
       "total_placed": 6,
+      "total_hired": 30,
+      "top_destinations": [
+        {
+          "name": "City University of Hong Kong",
+          "count": 3
+        },
+        {
+          "name": "Stanford University",
+          "count": 1
+        },
+        {
+          "name": "The University of Tokyo",
+          "count": 1
+        },
+        {
+          "name": "University of Technology Sydney (UTS)",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Imperial College London",
+          "count": 2
+        },
+        {
+          "name": "National University of Singapore (NUS)",
+          "count": 2
+        },
+        {
+          "name": "University College London (UCL)",
+          "count": 2
+        },
+        {
+          "name": "Harvard University",
+          "count": 2
+        },
+        {
+          "name": "Chinese Academy of Sciences",
+          "count": 1
+        }
+      ],
       "mapped_name": "Nanyang Technological University (NTU)"
     },
     {
@@ -755,6 +4333,51 @@
       "country": "Netherlands",
       "score": 0.2401,
       "total_placed": 29,
+      "total_hired": 407,
+      "top_destinations": [
+        {
+          "name": "University of Amsterdam",
+          "count": 13
+        },
+        {
+          "name": "ETH Zurich",
+          "count": 4
+        },
+        {
+          "name": "Harvard University",
+          "count": 3
+        },
+        {
+          "name": "Stanford University",
+          "count": 2
+        },
+        {
+          "name": "University of Toronto",
+          "count": 2
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Amsterdam",
+          "count": 53
+        },
+        {
+          "name": "Leiden University",
+          "count": 52
+        },
+        {
+          "name": "Utrecht University",
+          "count": 33
+        },
+        {
+          "name": "University of Groningen",
+          "count": 27
+        },
+        {
+          "name": "Eindhoven University of Technology",
+          "count": 12
+        }
+      ],
       "mapped_name": "Delft University of Technology"
     },
     {
@@ -764,6 +4387,35 @@
       "country": "France",
       "score": 0.2398,
       "total_placed": 1,
+      "total_hired": 50,
+      "top_destinations": [
+        {
+          "name": "Institut Polytechnique de Paris",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of Paris-Sud",
+          "count": 4
+        },
+        {
+          "name": "Universit\u00e9 Paris-Sud",
+          "count": 4
+        },
+        {
+          "name": "Sorbonne University",
+          "count": 3
+        },
+        {
+          "name": "Pierre and Marie Curie University",
+          "count": 3
+        },
+        {
+          "name": "Panth\u00e9on-Assas University Paris",
+          "count": 2
+        }
+      ],
       "mapped_name": "Universit\u00e9 Paris-Saclay"
     },
     {
@@ -773,6 +4425,22 @@
       "country": "Hong Kong SAR",
       "score": 0.2397,
       "total_placed": 5,
+      "total_hired": 0,
+      "top_destinations": [
+        {
+          "name": "Columbia University",
+          "count": 2
+        },
+        {
+          "name": "Stanford University",
+          "count": 2
+        },
+        {
+          "name": "The University of Adelaide",
+          "count": 1
+        }
+      ],
+      "top_feeders": [],
       "mapped_name": "The Hong Kong University of Science and Technology (HKUST)"
     },
     {
@@ -782,6 +4450,35 @@
       "country": "Brazil",
       "score": 0.239,
       "total_placed": 1,
+      "total_hired": 29,
+      "top_destinations": [
+        {
+          "name": "Universidad de Buenos Aires (UBA)",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "King's College London",
+          "count": 2
+        },
+        {
+          "name": "Universidade Federal de Uberl\u00e2ndia",
+          "count": 2
+        },
+        {
+          "name": "Augusta University Medical College of Georgia",
+          "count": 1
+        },
+        {
+          "name": "Universidade Federal de Minas Gerais",
+          "count": 1
+        },
+        {
+          "name": "University of Toronto",
+          "count": 1
+        }
+      ],
       "mapped_name": "Universidade de S\u00e3o Paulo (USP)"
     },
     {
@@ -791,6 +4488,35 @@
       "country": "South Korea",
       "score": 0.2348,
       "total_placed": 1,
+      "total_hired": 61,
+      "top_destinations": [
+        {
+          "name": "Korea University",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Seoul National University",
+          "count": 12
+        },
+        {
+          "name": "Korea University",
+          "count": 4
+        },
+        {
+          "name": "Yonsei University",
+          "count": 3
+        },
+        {
+          "name": "Northwestern University",
+          "count": 3
+        },
+        {
+          "name": "Massachusetts Institute of Technology (MIT)",
+          "count": 2
+        }
+      ],
       "mapped_name": "KAIST"
     },
     {
@@ -800,6 +4526,51 @@
       "country": "Germany",
       "score": 0.2344,
       "total_placed": 16,
+      "total_hired": 366,
+      "top_destinations": [
+        {
+          "name": "Ruprecht-Karls-Universit\u00e4t Heidelberg",
+          "count": 5
+        },
+        {
+          "name": "Delft University of Technology",
+          "count": 3
+        },
+        {
+          "name": "ETH Zurich",
+          "count": 3
+        },
+        {
+          "name": "Stanford University",
+          "count": 2
+        },
+        {
+          "name": "Harvard University",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "University of G\u00f6ttingen",
+          "count": 23
+        },
+        {
+          "name": "University of Bonn",
+          "count": 19
+        },
+        {
+          "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen (LMU Munich)",
+          "count": 14
+        },
+        {
+          "name": "Technische Universit\u00e4t Berlin",
+          "count": 13
+        },
+        {
+          "name": "Humboldt-Universit\u00e4t zu Berlin",
+          "count": 13
+        }
+      ],
       "mapped_name": "RWTH Aachen University"
     },
     {
@@ -809,6 +4580,35 @@
       "country": "South Korea",
       "score": 0.2328,
       "total_placed": 1,
+      "total_hired": 30,
+      "top_destinations": [
+        {
+          "name": "KAIST",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Korea University",
+          "count": 4
+        },
+        {
+          "name": "Pohang University of Science and Technology",
+          "count": 4
+        },
+        {
+          "name": "Seoul National University",
+          "count": 3
+        },
+        {
+          "name": "Shahid Beheshti University",
+          "count": 1
+        },
+        {
+          "name": "University of Washington",
+          "count": 1
+        }
+      ],
       "mapped_name": "POSTECH"
     },
     {
@@ -818,6 +4618,14 @@
       "country": "Hong Kong SAR",
       "score": 0.2313,
       "total_placed": 1,
+      "total_hired": 0,
+      "top_destinations": [
+        {
+          "name": "City University of Hong Kong",
+          "count": 1
+        }
+      ],
+      "top_feeders": [],
       "mapped_name": "The Hong Kong Polytechnic University"
     },
     {
@@ -827,6 +4635,35 @@
       "country": "Chile",
       "score": 0.2309,
       "total_placed": 1,
+      "total_hired": 42,
+      "top_destinations": [
+        {
+          "name": "Trinity College Dublin",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Albert Einstein College of Medicine",
+          "count": 3
+        },
+        {
+          "name": "University College London (UCL)",
+          "count": 3
+        },
+        {
+          "name": "Oregon State University",
+          "count": 2
+        },
+        {
+          "name": "University of Valencia",
+          "count": 2
+        },
+        {
+          "name": "Universidad de Chile",
+          "count": 2
+        }
+      ],
       "mapped_name": "Pontificia Universidad Cat\u00f3lica de Chile"
     },
     {
@@ -836,6 +4673,35 @@
       "country": "Australia",
       "score": 0.2307,
       "total_placed": 2,
+      "total_hired": 34,
+      "top_destinations": [
+        {
+          "name": "University of Sydney",
+          "count": 2
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "Curtin University of Technology",
+          "count": 3
+        },
+        {
+          "name": "University of Sydney",
+          "count": 3
+        },
+        {
+          "name": "University of New South Wales (UNSW Sydney)",
+          "count": 3
+        },
+        {
+          "name": "The University of Queensland",
+          "count": 2
+        },
+        {
+          "name": "University of Wollongong",
+          "count": 2
+        }
+      ],
       "mapped_name": "University of Technology Sydney (UTS)"
     },
     {
@@ -845,6 +4711,35 @@
       "country": "Hong Kong SAR",
       "score": 0.23,
       "total_placed": 1,
+      "total_hired": 109,
+      "top_destinations": [
+        {
+          "name": "Delft University of Technology",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "The University of Hong Kong (HKU)",
+          "count": 6
+        },
+        {
+          "name": "University of California Berkeley (UCB)",
+          "count": 3
+        },
+        {
+          "name": "New York University (NYU)",
+          "count": 3
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 3
+        },
+        {
+          "name": "Nanyang Technological University (NTU)",
+          "count": 3
+        }
+      ],
       "mapped_name": "City University of Hong Kong"
     },
     {
@@ -854,6 +4749,35 @@
       "country": "Switzerland",
       "score": 0.2298,
       "total_placed": 1,
+      "total_hired": 28,
+      "top_destinations": [
+        {
+          "name": "ETH Zurich",
+          "count": 1
+        }
+      ],
+      "top_feeders": [
+        {
+          "name": "California Institute of Technology (Caltech)",
+          "count": 3
+        },
+        {
+          "name": "Pennsylvania State University",
+          "count": 2
+        },
+        {
+          "name": "The University of Adelaide",
+          "count": 1
+        },
+        {
+          "name": "Utah State University",
+          "count": 1
+        },
+        {
+          "name": "Universit\u00e9 Joseph Fourier",
+          "count": 1
+        }
+      ],
       "mapped_name": "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)"
     },
     {
@@ -862,7 +4786,31 @@
       "university": "Universiti Malaya (UM)",
       "country": "Malaysia",
       "score": 0.2295,
-      "total_placed": 1,
+      "total_placed": 0,
+      "total_hired": 27,
+      "top_destinations": [],
+      "top_feeders": [
+        {
+          "name": "University of Malaya",
+          "count": 4
+        },
+        {
+          "name": "University of Cambridge",
+          "count": 3
+        },
+        {
+          "name": "University of Strathclyde",
+          "count": 2
+        },
+        {
+          "name": "University of Birmingham",
+          "count": 2
+        },
+        {
+          "name": "Columbia University",
+          "count": 1
+        }
+      ],
       "mapped_name": "Universiti Malaya (UM)"
     },
     {
@@ -871,7 +4819,31 @@
       "university": "Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM)",
       "country": "Mexico",
       "score": 0.2295,
-      "total_placed": 1,
+      "total_placed": 0,
+      "total_hired": 25,
+      "top_destinations": [],
+      "top_feeders": [
+        {
+          "name": "Universidad Nacional Autonoma de Mexico",
+          "count": 2
+        },
+        {
+          "name": "AstroParticule et Cosmologie",
+          "count": 1
+        },
+        {
+          "name": "University of California Irvine",
+          "count": 1
+        },
+        {
+          "name": "Universit\u00e9 de Gen\u00e8ve",
+          "count": 1
+        },
+        {
+          "name": "Universit\u00e0 degli Studi di Padova",
+          "count": 1
+        }
+      ],
       "mapped_name": "Universidad Nacional Aut\u00f3noma de M\u00e9xico (UNAM)"
     },
     {
@@ -880,7 +4852,31 @@
       "university": "KTH Royal Institute of Technology",
       "country": "Sweden",
       "score": 0.2295,
-      "total_placed": 1,
+      "total_placed": 0,
+      "total_hired": 25,
+      "top_destinations": [],
+      "top_feeders": [
+        {
+          "name": "Stockholm University",
+          "count": 4
+        },
+        {
+          "name": "University of Helsinki",
+          "count": 2
+        },
+        {
+          "name": "Kungliga Tekniska Hogskolan",
+          "count": 2
+        },
+        {
+          "name": "Royal Institute of Technology",
+          "count": 2
+        },
+        {
+          "name": "East China University of Science and Technology",
+          "count": 2
+        }
+      ],
       "mapped_name": "KTH Royal Institute of Technology"
     },
     {
@@ -889,7 +4885,31 @@
       "university": "Institut Polytechnique de Paris",
       "country": "France",
       "score": 0.2295,
-      "total_placed": 1,
+      "total_placed": 0,
+      "total_hired": 19,
+      "top_destinations": [],
+      "top_feeders": [
+        {
+          "name": "Universit\u00e9 Pierre et Marie Curie",
+          "count": 2
+        },
+        {
+          "name": "Boston University",
+          "count": 1
+        },
+        {
+          "name": "CEA Saclay",
+          "count": 1
+        },
+        {
+          "name": "\u00c9cole Normale Sup\u00e9rieure (ENS)",
+          "count": 1
+        },
+        {
+          "name": "Universit\u00e9 de Lorraine",
+          "count": 1
+        }
+      ],
       "mapped_name": "Institut Polytechnique de Paris"
     },
     {
@@ -898,74 +4918,333 @@
       "university": "Universit\u00e9 PSL",
       "country": "France",
       "score": 0.2295,
-      "total_placed": 1,
+      "total_placed": 0,
+      "total_hired": 25,
+      "top_destinations": [],
+      "top_feeders": [
+        {
+          "name": "Universit\u00e9 Paris Diderot",
+          "count": 5
+        },
+        {
+          "name": "Universit\u00e9 Pierre et Marie Curie",
+          "count": 3
+        },
+        {
+          "name": "Universit\u00e9 Paris-Sud",
+          "count": 2
+        },
+        {
+          "name": "Centre d'Immunologie de Marseille-Luminy",
+          "count": 1
+        },
+        {
+          "name": "European Southern Observatory",
+          "count": 1
+        }
+      ],
       "mapped_name": "Universit\u00e9 PSL"
     }
   ],
   "network": {
     "nodes": [
       {
-        "id": "Harvard University"
+        "id": "Harvard University",
+        "rank": 1,
+        "score": 1.1037,
+        "country": "United States",
+        "placed": 1292
       },
       {
-        "id": "Stanford University"
+        "id": "Stanford University",
+        "rank": 2,
+        "score": 0.8567,
+        "country": "United States",
+        "placed": 393
       },
       {
-        "id": "University College London (UCL)"
+        "id": "University College London (UCL)",
+        "rank": 3,
+        "score": 0.8563,
+        "country": "United Kingdom",
+        "placed": 421
       },
       {
-        "id": "University of California Berkeley (UCB)"
+        "id": "University of California Berkeley (UCB)",
+        "rank": 4,
+        "score": 0.8379,
+        "country": "United States",
+        "placed": 655
       },
       {
-        "id": "University of Oxford"
+        "id": "University of Oxford",
+        "rank": 5,
+        "score": 0.821,
+        "country": "United Kingdom",
+        "placed": 367
       },
       {
-        "id": "Massachusetts Institute of Technology (MIT)"
+        "id": "Massachusetts Institute of Technology (MIT)",
+        "rank": 6,
+        "score": 0.8053,
+        "country": "United States",
+        "placed": 600
       },
       {
-        "id": "University of Cambridge"
+        "id": "University of Cambridge",
+        "rank": 7,
+        "score": 0.782,
+        "country": "United Kingdom",
+        "placed": 483
       },
       {
-        "id": "California Institute of Technology (Caltech)"
+        "id": "California Institute of Technology (Caltech)",
+        "rank": 8,
+        "score": 0.6564,
+        "country": "United States",
+        "placed": 224
       },
       {
-        "id": "Imperial College London"
+        "id": "Imperial College London",
+        "rank": 9,
+        "score": 0.5582,
+        "country": "United Kingdom",
+        "placed": 95
       },
       {
-        "id": "Columbia University"
+        "id": "Columbia University",
+        "rank": 10,
+        "score": 0.5305,
+        "country": "United States",
+        "placed": 480
       },
       {
-        "id": "University of Chicago"
+        "id": "University of Chicago",
+        "rank": 11,
+        "score": 0.5089,
+        "country": "United States",
+        "placed": 440
       },
       {
-        "id": "University of Toronto"
+        "id": "University of Toronto",
+        "rank": 12,
+        "score": 0.4991,
+        "country": "Canada",
+        "placed": 156
       },
       {
-        "id": "University of Washington"
+        "id": "University of Washington",
+        "rank": 13,
+        "score": 0.4888,
+        "country": "United States",
+        "placed": 248
       },
       {
-        "id": "Princeton University"
+        "id": "Princeton University",
+        "rank": 14,
+        "score": 0.4781,
+        "country": "United States",
+        "placed": 614
       },
       {
-        "id": "The University of Tokyo"
+        "id": "The University of Tokyo",
+        "rank": 15,
+        "score": 0.4769,
+        "country": "Japan",
+        "placed": 134
       },
       {
-        "id": "Yale University"
+        "id": "Yale University",
+        "rank": 16,
+        "score": 0.4653,
+        "country": "United States",
+        "placed": 634
       },
       {
-        "id": "University of Pennsylvania"
+        "id": "University of Pennsylvania",
+        "rank": 17,
+        "score": 0.465,
+        "country": "United States",
+        "placed": 231
       },
       {
-        "id": "University of Edinburgh"
+        "id": "University of Edinburgh",
+        "rank": 18,
+        "score": 0.4439,
+        "country": "United Kingdom",
+        "placed": 128
       },
       {
-        "id": "University of Manchester"
+        "id": "University of Manchester",
+        "rank": 19,
+        "score": 0.4386,
+        "country": "United Kingdom",
+        "placed": 140
       },
       {
-        "id": "University of Michigan-Ann Arbor"
+        "id": "University of Michigan-Ann Arbor",
+        "rank": 20,
+        "score": 0.4146,
+        "country": "United States",
+        "placed": 296
+      },
+      {
+        "id": "University of Melbourne",
+        "rank": 21,
+        "score": 0.4073,
+        "country": "Australia",
+        "placed": 74
+      },
+      {
+        "id": "Cornell University",
+        "rank": 22,
+        "score": 0.4066,
+        "country": "United States",
+        "placed": 372
+      },
+      {
+        "id": "New York University (NYU)",
+        "rank": 23,
+        "score": 0.4054,
+        "country": "United States",
+        "placed": 323
+      },
+      {
+        "id": "Johns Hopkins University",
+        "rank": 24,
+        "score": 0.4015,
+        "country": "United States",
+        "placed": 176
+      },
+      {
+        "id": "The University of Queensland",
+        "rank": 25,
+        "score": 0.4013,
+        "country": "Australia",
+        "placed": 34
+      },
+      {
+        "id": "University of Glasgow",
+        "rank": 26,
+        "score": 0.3854,
+        "country": "United Kingdom",
+        "placed": 61
+      },
+      {
+        "id": "Seoul National University",
+        "rank": 27,
+        "score": 0.3623,
+        "country": "South Korea",
+        "placed": 39
+      },
+      {
+        "id": "University of California San Diego (UCSD)",
+        "rank": 28,
+        "score": 0.355,
+        "country": "United States",
+        "placed": 53
+      },
+      {
+        "id": "Duke University",
+        "rank": 29,
+        "score": 0.3518,
+        "country": "United States",
+        "placed": 64
+      },
+      {
+        "id": "University of California Los Angeles (UCLA)",
+        "rank": 30,
+        "score": 0.347,
+        "country": "United States",
+        "placed": 136
+      },
+      {
+        "id": "Osaka University",
+        "rank": 31,
+        "score": 0.3365,
+        "country": "Japan",
+        "placed": 34
+      },
+      {
+        "id": "Monash University",
+        "rank": 32,
+        "score": 0.3323,
+        "country": "Australia",
+        "placed": 23
+      },
+      {
+        "id": "Kyoto University",
+        "rank": 33,
+        "score": 0.3309,
+        "country": "Japan",
+        "placed": 77
+      },
+      {
+        "id": "Australian National University (ANU)",
+        "rank": 34,
+        "score": 0.3301,
+        "country": "Australia",
+        "placed": 56
+      },
+      {
+        "id": "University of Leeds",
+        "rank": 35,
+        "score": 0.3219,
+        "country": "United Kingdom",
+        "placed": 44
       }
     ],
     "links": [
+      {
+        "source": "Australian National University (ANU)",
+        "target": "California Institute of Technology (Caltech)",
+        "weight": 2
+      },
+      {
+        "source": "Australian National University (ANU)",
+        "target": "Imperial College London",
+        "weight": 1
+      },
+      {
+        "source": "Australian National University (ANU)",
+        "target": "Monash University",
+        "weight": 1
+      },
+      {
+        "source": "Australian National University (ANU)",
+        "target": "The University of Tokyo",
+        "weight": 1
+      },
+      {
+        "source": "Australian National University (ANU)",
+        "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "Australian National University (ANU)",
+        "target": "University of Cambridge",
+        "weight": 1
+      },
+      {
+        "source": "Australian National University (ANU)",
+        "target": "University of Melbourne",
+        "weight": 1
+      },
+      {
+        "source": "Australian National University (ANU)",
+        "target": "The University of Queensland",
+        "weight": 1
+      },
+      {
+        "source": "Australian National University (ANU)",
+        "target": "University of Toronto",
+        "weight": 2
+      },
+      {
+        "source": "Australian National University (ANU)",
+        "target": "University of Manchester",
+        "weight": 1
+      },
       {
         "source": "California Institute of Technology (Caltech)",
         "target": "Columbia University",
@@ -987,6 +5266,26 @@
         "weight": 1
       },
       {
+        "source": "California Institute of Technology (Caltech)",
+        "target": "University of California San Diego (UCSD)",
+        "weight": 1
+      },
+      {
+        "source": "California Institute of Technology (Caltech)",
+        "target": "University of Glasgow",
+        "weight": 1
+      },
+      {
+        "source": "Columbia University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Columbia University",
+        "target": "Australian National University (ANU)",
+        "weight": 3
+      },
+      {
         "source": "Columbia University",
         "target": "University College London (UCL)",
         "weight": 1
@@ -999,6 +5298,51 @@
       {
         "source": "Columbia University",
         "target": "University of Chicago",
+        "weight": 1
+      },
+      {
+        "source": "Columbia University",
+        "target": "New York University (NYU)",
+        "weight": 26
+      },
+      {
+        "source": "Columbia University",
+        "target": "New York University (NYU)",
+        "weight": 7
+      },
+      {
+        "source": "Columbia University",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "Columbia University",
+        "target": "Cornell University",
+        "weight": 42
+      },
+      {
+        "source": "Columbia University",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "Columbia University",
+        "target": "Cornell University",
+        "weight": 2
+      },
+      {
+        "source": "Columbia University",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "Columbia University",
+        "target": "Duke University",
+        "weight": 1
+      },
+      {
+        "source": "Columbia University",
+        "target": "Duke University",
         "weight": 1
       },
       {
@@ -1078,6 +5422,26 @@
       },
       {
         "source": "Columbia University",
+        "target": "Johns Hopkins University",
+        "weight": 1
+      },
+      {
+        "source": "Columbia University",
+        "target": "Johns Hopkins University",
+        "weight": 2
+      },
+      {
+        "source": "Columbia University",
+        "target": "Johns Hopkins University",
+        "weight": 23
+      },
+      {
+        "source": "Columbia University",
+        "target": "Kyoto University",
+        "weight": 4
+      },
+      {
+        "source": "Columbia University",
         "target": "University College London (UCL)",
         "weight": 1
       },
@@ -1090,6 +5454,26 @@
         "source": "Columbia University",
         "target": "Massachusetts Institute of Technology (MIT)",
         "weight": 49
+      },
+      {
+        "source": "Columbia University",
+        "target": "Monash University",
+        "weight": 1
+      },
+      {
+        "source": "Columbia University",
+        "target": "New York University (NYU)",
+        "weight": 26
+      },
+      {
+        "source": "Columbia University",
+        "target": "New York University (NYU)",
+        "weight": 2
+      },
+      {
+        "source": "Columbia University",
+        "target": "New York University (NYU)",
+        "weight": 1
       },
       {
         "source": "Columbia University",
@@ -1123,6 +5507,11 @@
       },
       {
         "source": "Columbia University",
+        "target": "Seoul National University",
+        "weight": 3
+      },
+      {
+        "source": "Columbia University",
         "target": "Stanford University",
         "weight": 1
       },
@@ -1130,6 +5519,21 @@
         "source": "Columbia University",
         "target": "Stanford University",
         "weight": 34
+      },
+      {
+        "source": "Columbia University",
+        "target": "New York University (NYU)",
+        "weight": 2
+      },
+      {
+        "source": "Columbia University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Columbia University",
+        "target": "New York University (NYU)",
+        "weight": 1
       },
       {
         "source": "Columbia University",
@@ -1150,6 +5554,16 @@
         "source": "Columbia University",
         "target": "University of California Berkeley (UCB)",
         "weight": 1
+      },
+      {
+        "source": "Columbia University",
+        "target": "University of California Los Angeles (UCLA)",
+        "weight": 12
+      },
+      {
+        "source": "Columbia University",
+        "target": "University of California San Diego (UCSD)",
+        "weight": 3
       },
       {
         "source": "Columbia University",
@@ -1183,6 +5597,11 @@
       },
       {
         "source": "Columbia University",
+        "target": "University of Glasgow",
+        "weight": 1
+      },
+      {
+        "source": "Columbia University",
         "target": "University of Chicago",
         "weight": 1
       },
@@ -1205,6 +5624,11 @@
         "source": "Columbia University",
         "target": "University of Michigan-Ann Arbor",
         "weight": 32
+      },
+      {
+        "source": "Columbia University",
+        "target": "Osaka University",
+        "weight": 3
       },
       {
         "source": "Columbia University",
@@ -1255,6 +5679,11 @@
         "source": "Columbia University",
         "target": "University of Washington",
         "weight": 1
+      },
+      {
+        "source": "Columbia University",
+        "target": "Cornell University",
+        "weight": 2
       },
       {
         "source": "Columbia University",
@@ -1312,9 +5741,329 @@
         "weight": 1
       },
       {
+        "source": "Cornell University",
+        "target": "Massachusetts Institute of Technology (MIT)",
+        "weight": 1
+      },
+      {
+        "source": "Cornell University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Cornell University",
+        "target": "Stanford University",
+        "weight": 1
+      },
+      {
+        "source": "Cornell University",
+        "target": "University of California Berkeley (UCB)",
+        "weight": 1
+      },
+      {
+        "source": "Cornell University",
+        "target": "University of California San Diego (UCSD)",
+        "weight": 1
+      },
+      {
+        "source": "Cornell University",
+        "target": "Columbia University",
+        "weight": 1
+      },
+      {
+        "source": "Cornell University",
+        "target": "University of Toronto",
+        "weight": 1
+      },
+      {
+        "source": "Cornell University",
+        "target": "University of Washington",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "Australian National University (ANU)",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Washington",
+        "weight": 2
+      },
+      {
+        "source": "Duke University",
+        "target": "California Institute of Technology (Caltech)",
+        "weight": 8
+      },
+      {
+        "source": "Duke University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "Columbia University",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "Columbia University",
+        "weight": 23
+      },
+      {
+        "source": "Duke University",
+        "target": "Columbia University",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "Cornell University",
+        "weight": 16
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Washington",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "Harvard University",
+        "weight": 3
+      },
+      {
+        "source": "Duke University",
+        "target": "Harvard University",
+        "weight": 2
+      },
+      {
+        "source": "Duke University",
+        "target": "Harvard University",
+        "weight": 9
+      },
+      {
+        "source": "Duke University",
+        "target": "Harvard University",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "Harvard University",
+        "weight": 42
+      },
+      {
+        "source": "Duke University",
+        "target": "Johns Hopkins University",
+        "weight": 3
+      },
+      {
+        "source": "Duke University",
+        "target": "Johns Hopkins University",
+        "weight": 5
+      },
+      {
+        "source": "Duke University",
+        "target": "Massachusetts Institute of Technology (MIT)",
+        "weight": 23
+      },
+      {
+        "source": "Duke University",
+        "target": "New York University (NYU)",
+        "weight": 13
+      },
+      {
+        "source": "Duke University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "New York University (NYU)",
+        "weight": 2
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Pennsylvania",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "Princeton University",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "Princeton University",
+        "weight": 27
+      },
+      {
+        "source": "Duke University",
+        "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "Seoul National University",
+        "weight": 3
+      },
+      {
+        "source": "Duke University",
+        "target": "Stanford University",
+        "weight": 2
+      },
+      {
+        "source": "Duke University",
+        "target": "Stanford University",
+        "weight": 25
+      },
+      {
+        "source": "Duke University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Oxford",
+        "weight": 3
+      },
+      {
+        "source": "Duke University",
+        "target": "University of California Berkeley (UCB)",
+        "weight": 16
+      },
+      {
+        "source": "Duke University",
+        "target": "University of California Los Angeles (UCLA)",
+        "weight": 2
+      },
+      {
+        "source": "Duke University",
+        "target": "University of California San Diego (UCSD)",
+        "weight": 4
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Cambridge",
+        "weight": 9
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Chicago",
+        "weight": 32
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Chicago",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Chicago",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Glasgow",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Chicago",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Manchester",
+        "weight": 3
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Michigan-Ann Arbor",
+        "weight": 10
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Oxford",
+        "weight": 13
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Pennsylvania",
+        "weight": 9
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Toronto",
+        "weight": 5
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Washington",
+        "weight": 7
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Washington",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Washington",
+        "weight": 4
+      },
+      {
+        "source": "Duke University",
+        "target": "University of Washington",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "Yale University",
+        "weight": 4
+      },
+      {
+        "source": "Duke University",
+        "target": "Yale University",
+        "weight": 2
+      },
+      {
+        "source": "Duke University",
+        "target": "Yale University",
+        "weight": 2
+      },
+      {
+        "source": "Duke University",
+        "target": "Yale University",
+        "weight": 1
+      },
+      {
+        "source": "Duke University",
+        "target": "Yale University",
+        "weight": 40
+      },
+      {
         "source": "Harvard University",
         "target": "University of Manchester",
         "weight": 1
+      },
+      {
+        "source": "Harvard University",
+        "target": "Australian National University (ANU)",
+        "weight": 3
       },
       {
         "source": "Harvard University",
@@ -1330,6 +6079,16 @@
         "source": "Harvard University",
         "target": "University of Chicago",
         "weight": 1
+      },
+      {
+        "source": "Harvard University",
+        "target": "New York University (NYU)",
+        "weight": 22
+      },
+      {
+        "source": "Harvard University",
+        "target": "New York University (NYU)",
+        "weight": 4
       },
       {
         "source": "Harvard University",
@@ -1393,6 +6152,51 @@
       },
       {
         "source": "Harvard University",
+        "target": "Cornell University",
+        "weight": 3
+      },
+      {
+        "source": "Harvard University",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "Harvard University",
+        "target": "Cornell University",
+        "weight": 66
+      },
+      {
+        "source": "Harvard University",
+        "target": "Cornell University",
+        "weight": 3
+      },
+      {
+        "source": "Harvard University",
+        "target": "Cornell University",
+        "weight": 2
+      },
+      {
+        "source": "Harvard University",
+        "target": "Cornell University",
+        "weight": 5
+      },
+      {
+        "source": "Harvard University",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "Harvard University",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "Harvard University",
+        "target": "Duke University",
+        "weight": 16
+      },
+      {
+        "source": "Harvard University",
         "target": "University of Washington",
         "weight": 3
       },
@@ -1400,6 +6204,11 @@
         "source": "Harvard University",
         "target": "University of Washington",
         "weight": 8
+      },
+      {
+        "source": "Harvard University",
+        "target": "University of Glasgow",
+        "weight": 1
       },
       {
         "source": "Harvard University",
@@ -1423,6 +6232,36 @@
       },
       {
         "source": "Harvard University",
+        "target": "Johns Hopkins University",
+        "weight": 3
+      },
+      {
+        "source": "Harvard University",
+        "target": "Johns Hopkins University",
+        "weight": 1
+      },
+      {
+        "source": "Harvard University",
+        "target": "Johns Hopkins University",
+        "weight": 2
+      },
+      {
+        "source": "Harvard University",
+        "target": "Johns Hopkins University",
+        "weight": 33
+      },
+      {
+        "source": "Harvard University",
+        "target": "Kyoto University",
+        "weight": 5
+      },
+      {
+        "source": "Harvard University",
+        "target": "University of Leeds",
+        "weight": 1
+      },
+      {
+        "source": "Harvard University",
         "target": "University College London (UCL)",
         "weight": 1
       },
@@ -1433,8 +6272,33 @@
       },
       {
         "source": "Harvard University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Harvard University",
         "target": "Massachusetts Institute of Technology (MIT)",
         "weight": 116
+      },
+      {
+        "source": "Harvard University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Harvard University",
+        "target": "New York University (NYU)",
+        "weight": 23
+      },
+      {
+        "source": "Harvard University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Harvard University",
+        "target": "New York University (NYU)",
+        "weight": 1
       },
       {
         "source": "Harvard University",
@@ -1473,6 +6337,11 @@
       },
       {
         "source": "Harvard University",
+        "target": "Seoul National University",
+        "weight": 2
+      },
+      {
+        "source": "Harvard University",
         "target": "Stanford University",
         "weight": 2
       },
@@ -1493,6 +6362,31 @@
       },
       {
         "source": "Harvard University",
+        "target": "New York University (NYU)",
+        "weight": 3
+      },
+      {
+        "source": "Harvard University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Harvard University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Harvard University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Harvard University",
+        "target": "University of Glasgow",
+        "weight": 1
+      },
+      {
+        "source": "Harvard University",
         "target": "The University of Tokyo",
         "weight": 1
       },
@@ -1510,6 +6404,16 @@
         "source": "Harvard University",
         "target": "University of California Berkeley (UCB)",
         "weight": 112
+      },
+      {
+        "source": "Harvard University",
+        "target": "University of California Los Angeles (UCLA)",
+        "weight": 22
+      },
+      {
+        "source": "Harvard University",
+        "target": "University of California San Diego (UCSD)",
+        "weight": 13
       },
       {
         "source": "Harvard University",
@@ -1543,7 +6447,17 @@
       },
       {
         "source": "Harvard University",
+        "target": "University of Glasgow",
+        "weight": 3
+      },
+      {
+        "source": "Harvard University",
         "target": "University of Chicago",
+        "weight": 3
+      },
+      {
+        "source": "Harvard University",
+        "target": "University of Leeds",
         "weight": 3
       },
       {
@@ -1560,6 +6474,11 @@
         "source": "Harvard University",
         "target": "University of Washington",
         "weight": 1
+      },
+      {
+        "source": "Harvard University",
+        "target": "University of Melbourne",
+        "weight": 4
       },
       {
         "source": "Harvard University",
@@ -1585,6 +6504,11 @@
         "source": "Harvard University",
         "target": "University of Pennsylvania",
         "weight": 1
+      },
+      {
+        "source": "Harvard University",
+        "target": "The University of Queensland",
+        "weight": 3
       },
       {
         "source": "Harvard University",
@@ -1619,6 +6543,11 @@
       {
         "source": "Harvard University",
         "target": "University of Washington",
+        "weight": 2
+      },
+      {
+        "source": "Harvard University",
+        "target": "Cornell University",
         "weight": 2
       },
       {
@@ -1703,7 +6632,52 @@
       },
       {
         "source": "Imperial College London",
+        "target": "University of Melbourne",
+        "weight": 1
+      },
+      {
+        "source": "Imperial College London",
         "target": "University of Oxford",
+        "weight": 1
+      },
+      {
+        "source": "Johns Hopkins University",
+        "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "Johns Hopkins University",
+        "target": "Massachusetts Institute of Technology (MIT)",
+        "weight": 1
+      },
+      {
+        "source": "Johns Hopkins University",
+        "target": "Princeton University",
+        "weight": 1
+      },
+      {
+        "source": "Johns Hopkins University",
+        "target": "University of California Berkeley (UCB)",
+        "weight": 1
+      },
+      {
+        "source": "Johns Hopkins University",
+        "target": "University of Michigan-Ann Arbor",
+        "weight": 1
+      },
+      {
+        "source": "Johns Hopkins University",
+        "target": "University of Pennsylvania",
+        "weight": 1
+      },
+      {
+        "source": "Kyoto University",
+        "target": "Osaka University",
+        "weight": 1
+      },
+      {
+        "source": "Kyoto University",
+        "target": "The University of Tokyo",
         "weight": 1
       },
       {
@@ -1737,6 +6711,181 @@
         "weight": 1
       },
       {
+        "source": "Monash University",
+        "target": "The University of Queensland",
+        "weight": 1
+      },
+      {
+        "source": "Monash University",
+        "target": "Stanford University",
+        "weight": 1
+      },
+      {
+        "source": "Monash University",
+        "target": "University of Melbourne",
+        "weight": 1
+      },
+      {
+        "source": "Monash University",
+        "target": "University of Cambridge",
+        "weight": 1
+      },
+      {
+        "source": "Monash University",
+        "target": "University of Glasgow",
+        "weight": 1
+      },
+      {
+        "source": "Monash University",
+        "target": "University of Melbourne",
+        "weight": 6
+      },
+      {
+        "source": "Monash University",
+        "target": "The University of Queensland",
+        "weight": 1
+      },
+      {
+        "source": "Monash University",
+        "target": "University of Washington",
+        "weight": 1
+      },
+      {
+        "source": "New York University (NYU)",
+        "target": "California Institute of Technology (Caltech)",
+        "weight": 1
+      },
+      {
+        "source": "New York University (NYU)",
+        "target": "Johns Hopkins University",
+        "weight": 2
+      },
+      {
+        "source": "New York University (NYU)",
+        "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "New York University (NYU)",
+        "target": "University of California Berkeley (UCB)",
+        "weight": 1
+      },
+      {
+        "source": "New York University (NYU)",
+        "target": "University of Chicago",
+        "weight": 1
+      },
+      {
+        "source": "New York University (NYU)",
+        "target": "University of Michigan-Ann Arbor",
+        "weight": 1
+      },
+      {
+        "source": "New York University (NYU)",
+        "target": "University of Pennsylvania",
+        "weight": 1
+      },
+      {
+        "source": "New York University (NYU)",
+        "target": "University of Washington",
+        "weight": 1
+      },
+      {
+        "source": "Osaka University",
+        "target": "Columbia University",
+        "weight": 1
+      },
+      {
+        "source": "Osaka University",
+        "target": "Harvard University",
+        "weight": 1
+      },
+      {
+        "source": "Osaka University",
+        "target": "Kyoto University",
+        "weight": 23
+      },
+      {
+        "source": "Osaka University",
+        "target": "Massachusetts Institute of Technology (MIT)",
+        "weight": 3
+      },
+      {
+        "source": "Osaka University",
+        "target": "Princeton University",
+        "weight": 1
+      },
+      {
+        "source": "Osaka University",
+        "target": "The University of Tokyo",
+        "weight": 1
+      },
+      {
+        "source": "Osaka University",
+        "target": "Seoul National University",
+        "weight": 1
+      },
+      {
+        "source": "Osaka University",
+        "target": "Stanford University",
+        "weight": 1
+      },
+      {
+        "source": "Osaka University",
+        "target": "The University of Tokyo",
+        "weight": 3
+      },
+      {
+        "source": "Osaka University",
+        "target": "The University of Tokyo",
+        "weight": 1
+      },
+      {
+        "source": "Osaka University",
+        "target": "The University of Tokyo",
+        "weight": 1
+      },
+      {
+        "source": "Osaka University",
+        "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "Osaka University",
+        "target": "University of California Berkeley (UCB)",
+        "weight": 1
+      },
+      {
+        "source": "Osaka University",
+        "target": "University of California Los Angeles (UCLA)",
+        "weight": 1
+      },
+      {
+        "source": "Osaka University",
+        "target": "University of Chicago",
+        "weight": 2
+      },
+      {
+        "source": "Osaka University",
+        "target": "University of Chicago",
+        "weight": 1
+      },
+      {
+        "source": "Osaka University",
+        "target": "University of Pennsylvania",
+        "weight": 1
+      },
+      {
+        "source": "Osaka University",
+        "target": "The University of Tokyo",
+        "weight": 37
+      },
+      {
+        "source": "Osaka University",
+        "target": "Yale University",
+        "weight": 2
+      },
+      {
         "source": "Princeton University",
         "target": "California Institute of Technology (Caltech)",
         "weight": 2
@@ -1753,6 +6902,11 @@
       },
       {
         "source": "Princeton University",
+        "target": "Johns Hopkins University",
+        "weight": 1
+      },
+      {
+        "source": "Princeton University",
         "target": "Massachusetts Institute of Technology (MIT)",
         "weight": 3
       },
@@ -1760,6 +6914,11 @@
         "source": "Princeton University",
         "target": "Stanford University",
         "weight": 3
+      },
+      {
+        "source": "Princeton University",
+        "target": "University of Melbourne",
+        "weight": 1
       },
       {
         "source": "Princeton University",
@@ -1779,6 +6938,11 @@
       {
         "source": "Princeton University",
         "target": "University of California Berkeley (UCB)",
+        "weight": 1
+      },
+      {
+        "source": "Princeton University",
+        "target": "University of California San Diego (UCSD)",
         "weight": 1
       },
       {
@@ -1807,6 +6971,46 @@
         "weight": 1
       },
       {
+        "source": "Seoul National University",
+        "target": "California Institute of Technology (Caltech)",
+        "weight": 1
+      },
+      {
+        "source": "Seoul National University",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "Seoul National University",
+        "target": "Duke University",
+        "weight": 1
+      },
+      {
+        "source": "Seoul National University",
+        "target": "Massachusetts Institute of Technology (MIT)",
+        "weight": 1
+      },
+      {
+        "source": "Seoul National University",
+        "target": "University of California Berkeley (UCB)",
+        "weight": 1
+      },
+      {
+        "source": "Seoul National University",
+        "target": "University of Pennsylvania",
+        "weight": 1
+      },
+      {
+        "source": "Seoul National University",
+        "target": "Yale University",
+        "weight": 1
+      },
+      {
+        "source": "Stanford University",
+        "target": "Australian National University (ANU)",
+        "weight": 1
+      },
+      {
         "source": "Stanford University",
         "target": "California Institute of Technology (Caltech)",
         "weight": 69
@@ -1825,6 +7029,16 @@
         "source": "Stanford University",
         "target": "University of Chicago",
         "weight": 1
+      },
+      {
+        "source": "Stanford University",
+        "target": "New York University (NYU)",
+        "weight": 15
+      },
+      {
+        "source": "Stanford University",
+        "target": "New York University (NYU)",
+        "weight": 2
       },
       {
         "source": "Stanford University",
@@ -1855,6 +7069,41 @@
         "source": "Stanford University",
         "target": "Columbia University",
         "weight": 2
+      },
+      {
+        "source": "Stanford University",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "Stanford University",
+        "target": "Cornell University",
+        "weight": 2
+      },
+      {
+        "source": "Stanford University",
+        "target": "Cornell University",
+        "weight": 56
+      },
+      {
+        "source": "Stanford University",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "Stanford University",
+        "target": "Cornell University",
+        "weight": 2
+      },
+      {
+        "source": "Stanford University",
+        "target": "Cornell University",
+        "weight": 2
+      },
+      {
+        "source": "Stanford University",
+        "target": "Duke University",
+        "weight": 14
       },
       {
         "source": "Stanford University",
@@ -1918,6 +7167,21 @@
       },
       {
         "source": "Stanford University",
+        "target": "Johns Hopkins University",
+        "weight": 1
+      },
+      {
+        "source": "Stanford University",
+        "target": "Johns Hopkins University",
+        "weight": 2
+      },
+      {
+        "source": "Stanford University",
+        "target": "Johns Hopkins University",
+        "weight": 20
+      },
+      {
+        "source": "Stanford University",
         "target": "University College London (UCL)",
         "weight": 1
       },
@@ -1940,6 +7204,31 @@
         "source": "Stanford University",
         "target": "Massachusetts Institute of Technology (MIT)",
         "weight": 165
+      },
+      {
+        "source": "Stanford University",
+        "target": "Monash University",
+        "weight": 1
+      },
+      {
+        "source": "Stanford University",
+        "target": "New York University (NYU)",
+        "weight": 24
+      },
+      {
+        "source": "Stanford University",
+        "target": "New York University (NYU)",
+        "weight": 2
+      },
+      {
+        "source": "Stanford University",
+        "target": "New York University (NYU)",
+        "weight": 5
+      },
+      {
+        "source": "Stanford University",
+        "target": "New York University (NYU)",
+        "weight": 1
       },
       {
         "source": "Stanford University",
@@ -1968,7 +7257,17 @@
       },
       {
         "source": "Stanford University",
+        "target": "Seoul National University",
+        "weight": 1
+      },
+      {
+        "source": "Stanford University",
         "target": "The University of Tokyo",
+        "weight": 1
+      },
+      {
+        "source": "Stanford University",
+        "target": "University of California Los Angeles (UCLA)",
         "weight": 1
       },
       {
@@ -2003,6 +7302,16 @@
       },
       {
         "source": "Stanford University",
+        "target": "University of California Los Angeles (UCLA)",
+        "weight": 37
+      },
+      {
+        "source": "Stanford University",
+        "target": "University of California San Diego (UCSD)",
+        "weight": 9
+      },
+      {
+        "source": "Stanford University",
         "target": "University of Cambridge",
         "weight": 51
       },
@@ -2028,8 +7337,18 @@
       },
       {
         "source": "Stanford University",
+        "target": "University of Glasgow",
+        "weight": 2
+      },
+      {
+        "source": "Stanford University",
         "target": "University of Chicago",
         "weight": 5
+      },
+      {
+        "source": "Stanford University",
+        "target": "University of Leeds",
+        "weight": 1
       },
       {
         "source": "Stanford University",
@@ -2040,6 +7359,11 @@
         "source": "Stanford University",
         "target": "University of Manchester",
         "weight": 5
+      },
+      {
+        "source": "Stanford University",
+        "target": "University of Melbourne",
+        "weight": 1
       },
       {
         "source": "Stanford University",
@@ -2122,6 +7446,56 @@
         "weight": 96
       },
       {
+        "source": "The University of Queensland",
+        "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "The University of Queensland",
+        "target": "University of Melbourne",
+        "weight": 1
+      },
+      {
+        "source": "The University of Queensland",
+        "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "The University of Queensland",
+        "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "The University of Queensland",
+        "target": "University of California Berkeley (UCB)",
+        "weight": 1
+      },
+      {
+        "source": "The University of Queensland",
+        "target": "University of Cambridge",
+        "weight": 1
+      },
+      {
+        "source": "The University of Queensland",
+        "target": "University of Edinburgh",
+        "weight": 2
+      },
+      {
+        "source": "The University of Queensland",
+        "target": "University of Manchester",
+        "weight": 1
+      },
+      {
+        "source": "The University of Queensland",
+        "target": "University of Oxford",
+        "weight": 2
+      },
+      {
+        "source": "The University of Tokyo",
+        "target": "Australian National University (ANU)",
+        "weight": 1
+      },
+      {
         "source": "The University of Tokyo",
         "target": "California Institute of Technology (Caltech)",
         "weight": 2
@@ -2135,6 +7509,16 @@
         "source": "The University of Tokyo",
         "target": "Columbia University",
         "weight": 5
+      },
+      {
+        "source": "The University of Tokyo",
+        "target": "Cornell University",
+        "weight": 2
+      },
+      {
+        "source": "The University of Tokyo",
+        "target": "Cornell University",
+        "weight": 1
       },
       {
         "source": "The University of Tokyo",
@@ -2158,8 +7542,38 @@
       },
       {
         "source": "The University of Tokyo",
+        "target": "Johns Hopkins University",
+        "weight": 1
+      },
+      {
+        "source": "The University of Tokyo",
+        "target": "Kyoto University",
+        "weight": 1
+      },
+      {
+        "source": "The University of Tokyo",
+        "target": "Kyoto University",
+        "weight": 1
+      },
+      {
+        "source": "The University of Tokyo",
+        "target": "Kyoto University",
+        "weight": 24
+      },
+      {
+        "source": "The University of Tokyo",
         "target": "Massachusetts Institute of Technology (MIT)",
         "weight": 5
+      },
+      {
+        "source": "The University of Tokyo",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "The University of Tokyo",
+        "target": "Osaka University",
+        "weight": 2
       },
       {
         "source": "The University of Tokyo",
@@ -2178,6 +7592,11 @@
       },
       {
         "source": "The University of Tokyo",
+        "target": "University of California Los Angeles (UCLA)",
+        "weight": 1
+      },
+      {
+        "source": "The University of Tokyo",
         "target": "University of Cambridge",
         "weight": 2
       },
@@ -2193,8 +7612,23 @@
       },
       {
         "source": "The University of Tokyo",
+        "target": "University of Glasgow",
+        "weight": 1
+      },
+      {
+        "source": "The University of Tokyo",
         "target": "University College London (UCL)",
         "weight": 1
+      },
+      {
+        "source": "The University of Tokyo",
+        "target": "University of Melbourne",
+        "weight": 2
+      },
+      {
+        "source": "The University of Tokyo",
+        "target": "Osaka University",
+        "weight": 12
       },
       {
         "source": "The University of Tokyo",
@@ -2218,6 +7652,11 @@
       },
       {
         "source": "University College London (UCL)",
+        "target": "Duke University",
+        "weight": 1
+      },
+      {
+        "source": "University College London (UCL)",
         "target": "Imperial College London",
         "weight": 2
       },
@@ -2230,6 +7669,11 @@
         "source": "University College London (UCL)",
         "target": "University of California Berkeley (UCB)",
         "weight": 1
+      },
+      {
+        "source": "University College London (UCL)",
+        "target": "University of Glasgow",
+        "weight": 2
       },
       {
         "source": "University College London (UCL)",
@@ -2258,12 +7702,22 @@
       },
       {
         "source": "University of California Berkeley (UCB)",
+        "target": "Johns Hopkins University",
+        "weight": 1
+      },
+      {
+        "source": "University of California Berkeley (UCB)",
         "target": "Stanford University",
         "weight": 5
       },
       {
         "source": "University of California Berkeley (UCB)",
         "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "University of California Berkeley (UCB)",
+        "target": "University of California San Diego (UCSD)",
         "weight": 1
       },
       {
@@ -2292,6 +7746,81 @@
         "weight": 1
       },
       {
+        "source": "University of California Los Angeles (UCLA)",
+        "target": "California Institute of Technology (Caltech)",
+        "weight": 1
+      },
+      {
+        "source": "University of California Los Angeles (UCLA)",
+        "target": "Harvard University",
+        "weight": 2
+      },
+      {
+        "source": "University of California Los Angeles (UCLA)",
+        "target": "Massachusetts Institute of Technology (MIT)",
+        "weight": 1
+      },
+      {
+        "source": "University of California Los Angeles (UCLA)",
+        "target": "Stanford University",
+        "weight": 1
+      },
+      {
+        "source": "University of California Los Angeles (UCLA)",
+        "target": "University of Oxford",
+        "weight": 1
+      },
+      {
+        "source": "University of California Los Angeles (UCLA)",
+        "target": "University of Toronto",
+        "weight": 1
+      },
+      {
+        "source": "University of California San Diego (UCSD)",
+        "target": "California Institute of Technology (Caltech)",
+        "weight": 1
+      },
+      {
+        "source": "University of California San Diego (UCSD)",
+        "target": "Harvard University",
+        "weight": 1
+      },
+      {
+        "source": "University of California San Diego (UCSD)",
+        "target": "Massachusetts Institute of Technology (MIT)",
+        "weight": 2
+      },
+      {
+        "source": "University of California San Diego (UCSD)",
+        "target": "University of Washington",
+        "weight": 1
+      },
+      {
+        "source": "University of California San Diego (UCSD)",
+        "target": "University of California Los Angeles (UCLA)",
+        "weight": 1
+      },
+      {
+        "source": "University of California San Diego (UCSD)",
+        "target": "University of Cambridge",
+        "weight": 1
+      },
+      {
+        "source": "University of California San Diego (UCSD)",
+        "target": "University of Pennsylvania",
+        "weight": 1
+      },
+      {
+        "source": "University of California San Diego (UCSD)",
+        "target": "University of Toronto",
+        "weight": 1
+      },
+      {
+        "source": "University of Cambridge",
+        "target": "Australian National University (ANU)",
+        "weight": 5
+      },
+      {
         "source": "University of Cambridge",
         "target": "University College London (UCL)",
         "weight": 1
@@ -2308,6 +7837,16 @@
       },
       {
         "source": "University of Cambridge",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "University of Cambridge",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "University of Cambridge",
         "target": "University College London (UCL)",
         "weight": 2
       },
@@ -2320,6 +7859,16 @@
         "source": "University of Cambridge",
         "target": "Columbia University",
         "weight": 15
+      },
+      {
+        "source": "University of Cambridge",
+        "target": "Cornell University",
+        "weight": 11
+      },
+      {
+        "source": "University of Cambridge",
+        "target": "Duke University",
+        "weight": 2
       },
       {
         "source": "University of Cambridge",
@@ -2363,7 +7912,22 @@
       },
       {
         "source": "University of Cambridge",
+        "target": "Johns Hopkins University",
+        "weight": 3
+      },
+      {
+        "source": "University of Cambridge",
         "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "University of Cambridge",
+        "target": "University of Leeds",
+        "weight": 1
+      },
+      {
+        "source": "University of Cambridge",
+        "target": "University of Leeds",
         "weight": 1
       },
       {
@@ -2388,8 +7952,28 @@
       },
       {
         "source": "University of Cambridge",
+        "target": "University of Melbourne",
+        "weight": 1
+      },
+      {
+        "source": "University of Cambridge",
+        "target": "University of Melbourne",
+        "weight": 1
+      },
+      {
+        "source": "University of Cambridge",
         "target": "University of Pennsylvania",
         "weight": 1
+      },
+      {
+        "source": "University of Cambridge",
+        "target": "Monash University",
+        "weight": 2
+      },
+      {
+        "source": "University of Cambridge",
+        "target": "New York University (NYU)",
+        "weight": 4
       },
       {
         "source": "University of Cambridge",
@@ -2453,6 +8037,11 @@
       },
       {
         "source": "University of Cambridge",
+        "target": "University of Glasgow",
+        "weight": 1
+      },
+      {
+        "source": "University of Cambridge",
         "target": "University of Manchester",
         "weight": 3
       },
@@ -2473,6 +8062,16 @@
       },
       {
         "source": "University of Cambridge",
+        "target": "University of California Los Angeles (UCLA)",
+        "weight": 4
+      },
+      {
+        "source": "University of Cambridge",
+        "target": "University of California San Diego (UCSD)",
+        "weight": 2
+      },
+      {
+        "source": "University of Cambridge",
         "target": "University of Chicago",
         "weight": 8
       },
@@ -2480,6 +8079,16 @@
         "source": "University of Cambridge",
         "target": "University of Edinburgh",
         "weight": 22
+      },
+      {
+        "source": "University of Cambridge",
+        "target": "University of Glasgow",
+        "weight": 5
+      },
+      {
+        "source": "University of Cambridge",
+        "target": "University of Leeds",
+        "weight": 9
       },
       {
         "source": "University of Cambridge",
@@ -2498,6 +8107,11 @@
       },
       {
         "source": "University of Cambridge",
+        "target": "University of Melbourne",
+        "weight": 5
+      },
+      {
+        "source": "University of Cambridge",
         "target": "University of Michigan-Ann Arbor",
         "weight": 3
       },
@@ -2510,6 +8124,11 @@
         "source": "University of Cambridge",
         "target": "University of Pennsylvania",
         "weight": 6
+      },
+      {
+        "source": "University of Cambridge",
+        "target": "The University of Queensland",
+        "weight": 2
       },
       {
         "source": "University of Cambridge",
@@ -2553,6 +8172,11 @@
       },
       {
         "source": "University of Chicago",
+        "target": "Australian National University (ANU)",
+        "weight": 2
+      },
+      {
+        "source": "University of Chicago",
         "target": "University College London (UCL)",
         "weight": 1
       },
@@ -2565,6 +8189,16 @@
         "source": "University of Chicago",
         "target": "California Institute of Technology (Caltech)",
         "weight": 13
+      },
+      {
+        "source": "University of Chicago",
+        "target": "New York University (NYU)",
+        "weight": 13
+      },
+      {
+        "source": "University of Chicago",
+        "target": "New York University (NYU)",
+        "weight": 3
       },
       {
         "source": "University of Chicago",
@@ -2595,6 +8229,36 @@
         "source": "University of Chicago",
         "target": "Columbia University",
         "weight": 2
+      },
+      {
+        "source": "University of Chicago",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "University of Chicago",
+        "target": "Cornell University",
+        "weight": 27
+      },
+      {
+        "source": "University of Chicago",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "University of Chicago",
+        "target": "Cornell University",
+        "weight": 2
+      },
+      {
+        "source": "University of Chicago",
+        "target": "Duke University",
+        "weight": 5
+      },
+      {
+        "source": "University of Chicago",
+        "target": "Johns Hopkins University",
+        "weight": 1
       },
       {
         "source": "University of Chicago",
@@ -2643,8 +8307,43 @@
       },
       {
         "source": "University of Chicago",
+        "target": "Johns Hopkins University",
+        "weight": 24
+      },
+      {
+        "source": "University of Chicago",
+        "target": "Kyoto University",
+        "weight": 2
+      },
+      {
+        "source": "University of Chicago",
         "target": "Massachusetts Institute of Technology (MIT)",
         "weight": 46
+      },
+      {
+        "source": "University of Chicago",
+        "target": "University of Melbourne",
+        "weight": 1
+      },
+      {
+        "source": "University of Chicago",
+        "target": "Monash University",
+        "weight": 1
+      },
+      {
+        "source": "University of Chicago",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "University of Chicago",
+        "target": "New York University (NYU)",
+        "weight": 12
+      },
+      {
+        "source": "University of Chicago",
+        "target": "New York University (NYU)",
+        "weight": 1
       },
       {
         "source": "University of Chicago",
@@ -2668,6 +8367,11 @@
       },
       {
         "source": "University of Chicago",
+        "target": "Seoul National University",
+        "weight": 1
+      },
+      {
+        "source": "University of Chicago",
         "target": "Stanford University",
         "weight": 1
       },
@@ -2675,6 +8379,16 @@
         "source": "University of Chicago",
         "target": "Stanford University",
         "weight": 36
+      },
+      {
+        "source": "University of Chicago",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "University of Chicago",
+        "target": "New York University (NYU)",
+        "weight": 2
       },
       {
         "source": "University of Chicago",
@@ -2708,6 +8422,16 @@
       },
       {
         "source": "University of Chicago",
+        "target": "University of California Los Angeles (UCLA)",
+        "weight": 11
+      },
+      {
+        "source": "University of Chicago",
+        "target": "University of California San Diego (UCSD)",
+        "weight": 5
+      },
+      {
+        "source": "University of Chicago",
         "target": "University of Cambridge",
         "weight": 18
       },
@@ -2724,6 +8448,11 @@
       {
         "source": "University of Chicago",
         "target": "University of Manchester",
+        "weight": 3
+      },
+      {
+        "source": "University of Chicago",
+        "target": "University of Melbourne",
         "weight": 3
       },
       {
@@ -2783,6 +8512,11 @@
       },
       {
         "source": "University of Chicago",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "University of Chicago",
         "target": "University of Washington",
         "weight": 1
       },
@@ -2832,6 +8566,281 @@
         "weight": 1
       },
       {
+        "source": "University of Glasgow",
+        "target": "Australian National University (ANU)",
+        "weight": 1
+      },
+      {
+        "source": "University of Glasgow",
+        "target": "Columbia University",
+        "weight": 1
+      },
+      {
+        "source": "University of Glasgow",
+        "target": "Imperial College London",
+        "weight": 1
+      },
+      {
+        "source": "University of Glasgow",
+        "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "University of Glasgow",
+        "target": "Stanford University",
+        "weight": 2
+      },
+      {
+        "source": "University of Glasgow",
+        "target": "University College London (UCL)",
+        "weight": 2
+      },
+      {
+        "source": "University of Glasgow",
+        "target": "University of Cambridge",
+        "weight": 3
+      },
+      {
+        "source": "University of Glasgow",
+        "target": "University of Edinburgh",
+        "weight": 1
+      },
+      {
+        "source": "University of Glasgow",
+        "target": "University of Manchester",
+        "weight": 1
+      },
+      {
+        "source": "University of Glasgow",
+        "target": "University of Oxford",
+        "weight": 2
+      },
+      {
+        "source": "University of Leeds",
+        "target": "California Institute of Technology (Caltech)",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University College London (UCL)",
+        "weight": 3
+      },
+      {
+        "source": "University of Leeds",
+        "target": "Columbia University",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Edinburgh",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Edinburgh",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "Harvard University",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "Harvard University",
+        "weight": 3
+      },
+      {
+        "source": "University of Leeds",
+        "target": "Imperial College London",
+        "weight": 11
+      },
+      {
+        "source": "University of Leeds",
+        "target": "Kyoto University",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Melbourne",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University College London (UCL)",
+        "weight": 2
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Manchester",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "Massachusetts Institute of Technology (MIT)",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Melbourne",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Glasgow",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University College London (UCL)",
+        "weight": 4
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Manchester",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University College London (UCL)",
+        "weight": 3
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Manchester",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University College London (UCL)",
+        "weight": 4
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Oxford",
+        "weight": 3
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of California San Diego (UCSD)",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Cambridge",
+        "weight": 32
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Cambridge",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Chicago",
+        "weight": 2
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Edinburgh",
+        "weight": 7
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Edinburgh",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Glasgow",
+        "weight": 7
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University College London (UCL)",
+        "weight": 11
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Manchester",
+        "weight": 15
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Manchester",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Melbourne",
+        "weight": 4
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Michigan-Ann Arbor",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Oxford",
+        "weight": 18
+      },
+      {
+        "source": "University of Leeds",
+        "target": "The University of Queensland",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Toronto",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Washington",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University of Manchester",
+        "weight": 4
+      },
+      {
+        "source": "University of Leeds",
+        "target": "University College London (UCL)",
+        "weight": 1
+      },
+      {
+        "source": "University of Leeds",
+        "target": "Yale University",
+        "weight": 1
+      },
+      {
         "source": "University of Manchester",
         "target": "University of Cambridge",
         "weight": 1
@@ -2844,6 +8853,51 @@
       {
         "source": "University of Manchester",
         "target": "University of Oxford",
+        "weight": 1
+      },
+      {
+        "source": "University of Melbourne",
+        "target": "Australian National University (ANU)",
+        "weight": 1
+      },
+      {
+        "source": "University of Melbourne",
+        "target": "California Institute of Technology (Caltech)",
+        "weight": 1
+      },
+      {
+        "source": "University of Melbourne",
+        "target": "Harvard University",
+        "weight": 1
+      },
+      {
+        "source": "University of Melbourne",
+        "target": "Monash University",
+        "weight": 3
+      },
+      {
+        "source": "University of Melbourne",
+        "target": "University of Cambridge",
+        "weight": 1
+      },
+      {
+        "source": "University of Melbourne",
+        "target": "University of Edinburgh",
+        "weight": 1
+      },
+      {
+        "source": "University of Melbourne",
+        "target": "University of Oxford",
+        "weight": 1
+      },
+      {
+        "source": "University of Melbourne",
+        "target": "The University of Queensland",
+        "weight": 1
+      },
+      {
+        "source": "University of Melbourne",
+        "target": "University of Toronto",
         "weight": 1
       },
       {
@@ -2888,6 +8942,11 @@
       },
       {
         "source": "University of Oxford",
+        "target": "Australian National University (ANU)",
+        "weight": 5
+      },
+      {
+        "source": "University of Oxford",
         "target": "University College London (UCL)",
         "weight": 2
       },
@@ -2910,6 +8969,16 @@
         "source": "University of Oxford",
         "target": "Columbia University",
         "weight": 8
+      },
+      {
+        "source": "University of Oxford",
+        "target": "Cornell University",
+        "weight": 6
+      },
+      {
+        "source": "University of Oxford",
+        "target": "Duke University",
+        "weight": 1
       },
       {
         "source": "University of Oxford",
@@ -2968,6 +9037,26 @@
       },
       {
         "source": "University of Oxford",
+        "target": "Kyoto University",
+        "weight": 1
+      },
+      {
+        "source": "University of Oxford",
+        "target": "University of Leeds",
+        "weight": 1
+      },
+      {
+        "source": "University of Oxford",
+        "target": "University of Leeds",
+        "weight": 2
+      },
+      {
+        "source": "University of Oxford",
+        "target": "University of Leeds",
+        "weight": 1
+      },
+      {
+        "source": "University of Oxford",
         "target": "University College London (UCL)",
         "weight": 1
       },
@@ -2990,6 +9079,26 @@
         "source": "University of Oxford",
         "target": "Massachusetts Institute of Technology (MIT)",
         "weight": 13
+      },
+      {
+        "source": "University of Oxford",
+        "target": "University of Melbourne",
+        "weight": 2
+      },
+      {
+        "source": "University of Oxford",
+        "target": "Monash University",
+        "weight": 3
+      },
+      {
+        "source": "University of Oxford",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "University of Oxford",
+        "target": "New York University (NYU)",
+        "weight": 1
       },
       {
         "source": "University of Oxford",
@@ -3038,6 +9147,21 @@
       },
       {
         "source": "University of Oxford",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "University of Oxford",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "University of Oxford",
+        "target": "University of Glasgow",
+        "weight": 3
+      },
+      {
+        "source": "University of Oxford",
         "target": "University of Manchester",
         "weight": 1
       },
@@ -3048,12 +9172,27 @@
       },
       {
         "source": "University of Oxford",
+        "target": "University of California Los Angeles (UCLA)",
+        "weight": 1
+      },
+      {
+        "source": "University of Oxford",
         "target": "University of California Berkeley (UCB)",
         "weight": 11
       },
       {
         "source": "University of Oxford",
         "target": "University of California Berkeley (UCB)",
+        "weight": 1
+      },
+      {
+        "source": "University of Oxford",
+        "target": "University of California Los Angeles (UCLA)",
+        "weight": 4
+      },
+      {
+        "source": "University of Oxford",
+        "target": "University of California San Diego (UCSD)",
         "weight": 1
       },
       {
@@ -3070,6 +9209,21 @@
         "source": "University of Oxford",
         "target": "University of Edinburgh",
         "weight": 23
+      },
+      {
+        "source": "University of Oxford",
+        "target": "University of Glasgow",
+        "weight": 13
+      },
+      {
+        "source": "University of Oxford",
+        "target": "University of Glasgow",
+        "weight": 1
+      },
+      {
+        "source": "University of Oxford",
+        "target": "University of Leeds",
+        "weight": 10
       },
       {
         "source": "University of Oxford",
@@ -3098,6 +9252,11 @@
       },
       {
         "source": "University of Oxford",
+        "target": "University of Melbourne",
+        "weight": 9
+      },
+      {
+        "source": "University of Oxford",
         "target": "University of Michigan-Ann Arbor",
         "weight": 3
       },
@@ -3105,6 +9264,11 @@
         "source": "University of Oxford",
         "target": "University of Pennsylvania",
         "weight": 5
+      },
+      {
+        "source": "University of Oxford",
+        "target": "The University of Queensland",
+        "weight": 2
       },
       {
         "source": "University of Oxford",
@@ -3128,6 +9292,11 @@
       },
       {
         "source": "University of Oxford",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "University of Oxford",
         "target": "Yale University",
         "weight": 1
       },
@@ -3135,6 +9304,11 @@
         "source": "University of Oxford",
         "target": "Yale University",
         "weight": 12
+      },
+      {
+        "source": "University of Pennsylvania",
+        "target": "Cornell University",
+        "weight": 1
       },
       {
         "source": "University of Pennsylvania",
@@ -3152,6 +9326,16 @@
         "weight": 1
       },
       {
+        "source": "University of Pennsylvania",
+        "target": "University of California Los Angeles (UCLA)",
+        "weight": 1
+      },
+      {
+        "source": "University of Toronto",
+        "target": "Australian National University (ANU)",
+        "weight": 4
+      },
+      {
         "source": "University of Toronto",
         "target": "California Institute of Technology (Caltech)",
         "weight": 6
@@ -3159,6 +9343,16 @@
       {
         "source": "University of Toronto",
         "target": "University of Cambridge",
+        "weight": 1
+      },
+      {
+        "source": "University of Toronto",
+        "target": "New York University (NYU)",
+        "weight": 2
+      },
+      {
+        "source": "University of Toronto",
+        "target": "New York University (NYU)",
         "weight": 1
       },
       {
@@ -3185,6 +9379,16 @@
         "source": "University of Toronto",
         "target": "Columbia University",
         "weight": 13
+      },
+      {
+        "source": "University of Toronto",
+        "target": "Cornell University",
+        "weight": 16
+      },
+      {
+        "source": "University of Toronto",
+        "target": "Duke University",
+        "weight": 1
       },
       {
         "source": "University of Toronto",
@@ -3238,6 +9442,16 @@
       },
       {
         "source": "University of Toronto",
+        "target": "Johns Hopkins University",
+        "weight": 9
+      },
+      {
+        "source": "University of Toronto",
+        "target": "Kyoto University",
+        "weight": 2
+      },
+      {
+        "source": "University of Toronto",
         "target": "University College London (UCL)",
         "weight": 1
       },
@@ -3253,6 +9467,21 @@
       },
       {
         "source": "University of Toronto",
+        "target": "Monash University",
+        "weight": 1
+      },
+      {
+        "source": "University of Toronto",
+        "target": "New York University (NYU)",
+        "weight": 3
+      },
+      {
+        "source": "University of Toronto",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "University of Toronto",
         "target": "Princeton University",
         "weight": 1
       },
@@ -3265,6 +9494,11 @@
         "source": "University of Toronto",
         "target": "University College London (UCL)",
         "weight": 2
+      },
+      {
+        "source": "University of Toronto",
+        "target": "University of Glasgow",
+        "weight": 1
       },
       {
         "source": "University of Toronto",
@@ -3308,6 +9542,16 @@
       },
       {
         "source": "University of Toronto",
+        "target": "University of California Los Angeles (UCLA)",
+        "weight": 3
+      },
+      {
+        "source": "University of Toronto",
+        "target": "University of California San Diego (UCSD)",
+        "weight": 1
+      },
+      {
+        "source": "University of Toronto",
         "target": "University of Cambridge",
         "weight": 35
       },
@@ -3320,6 +9564,16 @@
         "source": "University of Toronto",
         "target": "University of Edinburgh",
         "weight": 8
+      },
+      {
+        "source": "University of Toronto",
+        "target": "University of Glasgow",
+        "weight": 2
+      },
+      {
+        "source": "University of Toronto",
+        "target": "University of Leeds",
+        "weight": 2
       },
       {
         "source": "University of Toronto",
@@ -3345,6 +9599,11 @@
         "source": "University of Toronto",
         "target": "University of Pennsylvania",
         "weight": 9
+      },
+      {
+        "source": "University of Toronto",
+        "target": "The University of Queensland",
+        "weight": 1
       },
       {
         "source": "University of Toronto",
@@ -3383,6 +9642,11 @@
       },
       {
         "source": "University of Washington",
+        "target": "Johns Hopkins University",
+        "weight": 1
+      },
+      {
+        "source": "University of Washington",
         "target": "University College London (UCL)",
         "weight": 1
       },
@@ -3393,7 +9657,22 @@
       },
       {
         "source": "University of Washington",
+        "target": "University of Melbourne",
+        "weight": 1
+      },
+      {
+        "source": "University of Washington",
+        "target": "The University of Queensland",
+        "weight": 1
+      },
+      {
+        "source": "University of Washington",
         "target": "University of California Berkeley (UCB)",
+        "weight": 1
+      },
+      {
+        "source": "University of Washington",
+        "target": "University of California San Diego (UCSD)",
         "weight": 1
       },
       {
@@ -3413,6 +9692,16 @@
       },
       {
         "source": "University of Washington",
+        "target": "The University of Queensland",
+        "weight": 1
+      },
+      {
+        "source": "University of Washington",
+        "target": "The University of Queensland",
+        "weight": 1
+      },
+      {
+        "source": "University of Washington",
         "target": "The University of Tokyo",
         "weight": 1
       },
@@ -3423,8 +9712,28 @@
       },
       {
         "source": "Yale University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Yale University",
+        "target": "Australian National University (ANU)",
+        "weight": 2
+      },
+      {
+        "source": "Yale University",
         "target": "California Institute of Technology (Caltech)",
         "weight": 14
+      },
+      {
+        "source": "Yale University",
+        "target": "New York University (NYU)",
+        "weight": 5
+      },
+      {
+        "source": "Yale University",
+        "target": "New York University (NYU)",
+        "weight": 1
       },
       {
         "source": "Yale University",
@@ -3460,6 +9769,31 @@
         "source": "Yale University",
         "target": "Columbia University",
         "weight": 4
+      },
+      {
+        "source": "Yale University",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "Yale University",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "Yale University",
+        "target": "Cornell University",
+        "weight": 42
+      },
+      {
+        "source": "Yale University",
+        "target": "Cornell University",
+        "weight": 1
+      },
+      {
+        "source": "Yale University",
+        "target": "Duke University",
+        "weight": 7
       },
       {
         "source": "Yale University",
@@ -3538,8 +9872,53 @@
       },
       {
         "source": "Yale University",
+        "target": "Johns Hopkins University",
+        "weight": 1
+      },
+      {
+        "source": "Yale University",
+        "target": "Johns Hopkins University",
+        "weight": 1
+      },
+      {
+        "source": "Yale University",
+        "target": "Johns Hopkins University",
+        "weight": 20
+      },
+      {
+        "source": "Yale University",
+        "target": "Kyoto University",
+        "weight": 1
+      },
+      {
+        "source": "Yale University",
         "target": "Massachusetts Institute of Technology (MIT)",
         "weight": 50
+      },
+      {
+        "source": "Yale University",
+        "target": "Monash University",
+        "weight": 2
+      },
+      {
+        "source": "Yale University",
+        "target": "New York University (NYU)",
+        "weight": 14
+      },
+      {
+        "source": "Yale University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Yale University",
+        "target": "New York University (NYU)",
+        "weight": 3
+      },
+      {
+        "source": "Yale University",
+        "target": "New York University (NYU)",
+        "weight": 1
       },
       {
         "source": "Yale University",
@@ -3588,6 +9967,11 @@
       },
       {
         "source": "Yale University",
+        "target": "Seoul National University",
+        "weight": 1
+      },
+      {
+        "source": "Yale University",
         "target": "Stanford University",
         "weight": 2
       },
@@ -3599,6 +9983,31 @@
       {
         "source": "Yale University",
         "target": "Stanford University",
+        "weight": 2
+      },
+      {
+        "source": "Yale University",
+        "target": "New York University (NYU)",
+        "weight": 2
+      },
+      {
+        "source": "Yale University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Yale University",
+        "target": "New York University (NYU)",
+        "weight": 2
+      },
+      {
+        "source": "Yale University",
+        "target": "New York University (NYU)",
+        "weight": 1
+      },
+      {
+        "source": "Yale University",
+        "target": "New York University (NYU)",
         "weight": 2
       },
       {
@@ -3615,6 +10024,16 @@
         "source": "Yale University",
         "target": "University of California Berkeley (UCB)",
         "weight": 52
+      },
+      {
+        "source": "Yale University",
+        "target": "University of California Los Angeles (UCLA)",
+        "weight": 12
+      },
+      {
+        "source": "Yale University",
+        "target": "University of California San Diego (UCSD)",
+        "weight": 1
       },
       {
         "source": "Yale University",
@@ -3638,6 +10057,16 @@
       },
       {
         "source": "Yale University",
+        "target": "University of Glasgow",
+        "weight": 2
+      },
+      {
+        "source": "Yale University",
+        "target": "University of Leeds",
+        "weight": 2
+      },
+      {
+        "source": "Yale University",
         "target": "University College London (UCL)",
         "weight": 12
       },
@@ -3648,8 +10077,18 @@
       },
       {
         "source": "Yale University",
+        "target": "University of Melbourne",
+        "weight": 1
+      },
+      {
+        "source": "Yale University",
         "target": "University of Michigan-Ann Arbor",
         "weight": 40
+      },
+      {
+        "source": "Yale University",
+        "target": "Osaka University",
+        "weight": 1
       },
       {
         "source": "Yale University",
@@ -3665,6 +10104,11 @@
         "source": "Yale University",
         "target": "University of Pennsylvania",
         "weight": 2
+      },
+      {
+        "source": "Yale University",
+        "target": "The University of Queensland",
+        "weight": 1
       },
       {
         "source": "Yale University",

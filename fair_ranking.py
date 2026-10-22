@@ -170,9 +170,11 @@ def main():
     acad_edges = edges[edges['TaxonomyLevel'] == 'Academia']
     acad_edges_no_self = acad_edges[acad_edges['InstitutionName'] != acad_edges['DegreeInstitutionName']]
     total_placed = acad_edges_no_self.groupby('DegreeInstitutionName')['Total'].sum().to_dict()
+    total_hired = acad_edges_no_self.groupby('InstitutionName')['Total'].sum().to_dict()
     
     qs_df['Fair_Score'] = 0.0
     qs_df['Total_Placed'] = 0.0
+    qs_df['Total_Hired'] = 0.0
     qs_df['Mapped_Name'] = None
     qs_df['Data_Available'] = False
     
@@ -183,7 +185,8 @@ def main():
         # Since names are already normalized, we can match exactly using the canonical name
         if qs_name in pagerank_scores:
             qs_df.at[idx, 'Fair_Score'] = pagerank_scores[qs_name]
-            qs_df.at[idx, 'Total_Placed'] = total_placed.get(qs_name, 1.0)
+            qs_df.at[idx, 'Total_Placed'] = total_placed.get(qs_name, 0.0)
+            qs_df.at[idx, 'Total_Hired'] = total_hired.get(qs_name, 0.0)
             qs_df.at[idx, 'Mapped_Name'] = qs_name
             qs_df.at[idx, 'Data_Available'] = True
 
@@ -223,9 +226,27 @@ def main():
     matched = fair_df[fair_df['Data_Available'] == True].copy()
     matched = matched.sort_values('Fair_Score', ascending=False)
 
+    # Precompute placement destinations and faculty feeders for detail modals
+    dest_grouped = acad_edges_no_self.groupby(['DegreeInstitutionName', 'InstitutionName'])['Total'].sum()
+    feeder_grouped = acad_edges_no_self.groupby(['InstitutionName', 'DegreeInstitutionName'])['Total'].sum()
+
     # Prepare rankings JSON
     rankings_json = []
     for _, row in matched.iterrows():
+        u_name = row['Mapped_Name']
+        
+        # Top 5 destinations where this school's PhDs were hired
+        dest_items = []
+        if u_name in dest_grouped.index.levels[0]:
+            top_d = dest_grouped.loc[u_name].sort_values(ascending=False).head(5)
+            dest_items = [{'name': name, 'count': int(cnt)} for name, cnt in top_d.items() if cnt > 0]
+            
+        # Top 5 feeders where this school hires its faculty from
+        feeder_items = []
+        if u_name in feeder_grouped.index.levels[0]:
+            top_f = feeder_grouped.loc[u_name].sort_values(ascending=False).head(5)
+            feeder_items = [{'name': name, 'count': int(cnt)} for name, cnt in top_f.items() if cnt > 0]
+
         rankings_json.append({
             'fair_rank': int(row['FairRank']),
             'qs_rank': int(row['Rank']),
@@ -233,21 +254,25 @@ def main():
             'country': row['Country'],
             'score': round(row['Fair_Score'], 4),
             'total_placed': int(row['Total_Placed']),
-            'mapped_name': row['Mapped_Name']
+            'total_hired': int(row['Total_Hired']),
+            'top_destinations': dest_items,
+            'top_feeders': feeder_items,
+            'mapped_name': u_name
         })
 
-    # Prepare network edges JSON (only top 20 universities for visualization)
-    top_names = [r['mapped_name'] for r in rankings_json[:20]]
-    acad_edges = edges[edges['TaxonomyLevel'] == 'Academia']
+    # Prepare network edges JSON for up to top 35 universities for rich visualization
+    top_graph_names = [r['mapped_name'] for r in rankings_json[:35]]
+    top_graph_set = set(top_graph_names)
+    
     network_edges = []
-    for _, row in acad_edges.iterrows():
+    for _, row in acad_edges_no_self.iterrows():
         h = row['InstitutionName']
         d = row['DegreeInstitutionName']
         w = row['Total']
         if pd.isna(w) or w <= 0:
             continue
         w = int(w)
-        if h in top_names and d in top_names and h != d:
+        if h in top_graph_set and d in top_graph_set and h != d:
             network_edges.append({
                 'source': h,
                 'target': d,
@@ -258,7 +283,15 @@ def main():
         'total_connections': G.number_of_edges(),
         'rankings': rankings_json,
         'network': {
-            'nodes': [{'id': n} for n in top_names],
+            'nodes': [
+                {
+                    'id': r['mapped_name'],
+                    'rank': r['fair_rank'],
+                    'score': r['score'],
+                    'country': r['country'],
+                    'placed': r['total_placed']
+                } for r in rankings_json[:35]
+            ],
             'links': network_edges
         }
     }

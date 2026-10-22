@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FairRank Faculty Placement Prestige</title>
-    <meta name="description" content="FairRank estimates university faculty-placement prestige using weighted PageRank on Wikidata, OpenAlex, and ORCID data.">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
+    <title>FairRank — Faculty Placement Prestige</title>
+    <meta name="description" content="FairRank measures university faculty-placement prestige using weighted PageRank on open hiring networks from Wikidata, OpenAlex, and ORCID.">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="index.css">
 </head>
 <body>
@@ -16,63 +16,116 @@
     </div>
 
     <div class="container">
+        <!-- Header -->
         <header class="glass-panel" id="header">
-            <div class="logo">
-                <h1>FairRank</h1>
-                <span class="badge">Global API · Open Data</span>
+            <div class="brand">
+                <div class="logo">
+                    <span class="logo-icon">⚖️</span>
+                    <h1>FairRank</h1>
+                </div>
+                <span class="badge">Global API · Open Data · 2026 Edition</span>
             </div>
-            <p class="subtitle">Faculty-placement prestige via PhD-to-employment flow networks</p>
+            <div class="header-actions">
+                <a href="https://github.com/q-cai/fair-university-ranking" target="_blank" class="action-btn" title="View Source on GitHub">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+                    <span>GitHub</span>
+                </a>
+                <button class="action-btn" id="btnExportCsv" title="Export current rankings to CSV">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+                    <span>Export CSV</span>
+                </button>
+            </div>
         </header>
 
+        <!-- Intro Card -->
         <section class="glass-panel intro-card">
-            <h2>💡 What is FairRank?</h2>
+            <div class="intro-header">
+                <h2>💡 What is FairRank?</h2>
+                <span class="sub-badge">Prestige via Faculty Flow</span>
+            </div>
             <p class="intro-text">
-                Traditional university rankings rely heavily on subjective surveys, financial resources, or research outputs. 
-                <strong>FairRank</strong> maps the <strong>PhD-to-faculty employment flow network</strong> to estimate academic placement prestige from open data. 
-                Using a consolidated dataset across Wikidata, OpenAlex, and ORCID APIs, FairRank runs a <strong>Weighted PageRank</strong> algorithm to score universities based on where their PhD graduates go on to teach. The result is an open placement-prestige signal, not a complete measure of university quality.
+                Traditional commercial university rankings rely heavily on subjective reputation surveys, endowment wealth, and self-reported metrics. 
+                <strong>FairRank</strong> maps the <strong>PhD-to-faculty academic placement network</strong> to uncover real-world institutional prestige from unbiased open data. 
+                By consolidating records across <strong>Wikidata</strong>, <strong>OpenAlex</strong>, and <strong>ORCID</strong>, FairRank runs a <strong>Weighted PageRank</strong> algorithm where hiring a university's doctoral graduates acts as an endorsement of that institution. The result is an objective academic placement-prestige index.
             </p>
         </section>
 
+        <!-- Stats Overview -->
         <div class="stats-row" id="statsRow">
             <div class="stat-card glass-panel">
-                <div class="stat-value" id="statTotal">—</div>
-                <div class="stat-label">Universities Ranked</div>
+                <div class="stat-icon">🏛️</div>
+                <div class="stat-content">
+                    <div class="stat-value" id="statTotal">—</div>
+                    <div class="stat-label">Universities Ranked</div>
+                </div>
             </div>
             <div class="stat-card glass-panel">
-                <div class="stat-value" id="statEdges">—</div>
-                <div class="stat-label">Hiring Connections</div>
+                <div class="stat-icon">🔗</div>
+                <div class="stat-content">
+                    <div class="stat-value" id="statEdges">—</div>
+                    <div class="stat-label">Hiring Connections</div>
+                </div>
             </div>
             <div class="stat-card glass-panel">
-                <div class="stat-value" id="statTop">—</div>
-                <div class="stat-label">#1 University</div>
+                <div class="stat-icon">👑</div>
+                <div class="stat-content">
+                    <div class="stat-value" id="statTop">—</div>
+                    <div class="stat-label">#1 Faculty Feeder</div>
+                </div>
             </div>
             <div class="stat-card glass-panel">
-                <div class="stat-value">0.85</div>
-                <div class="stat-label">Damping Factor</div>
+                <div class="stat-icon">⚡</div>
+                <div class="stat-content">
+                    <div class="stat-value">0.85</div>
+                    <div class="stat-label">PageRank Damping</div>
+                </div>
             </div>
         </div>
 
+        <!-- Main Dashboard -->
         <main class="dashboard">
+            <!-- Table Section -->
             <section class="rankings glass-panel">
                 <div class="section-header">
-                    <h2>📊 FairRank vs QS Rankings</h2>
-                    <div class="toggle-group">
-                        <button class="toggle-btn active" id="btnAll">All</button>
-                        <button class="toggle-btn" id="btnUS">US Only</button>
-                        <button class="toggle-btn" id="btnIntl">International</button>
+                    <div class="section-title">
+                        <h2>📊 FairRank vs QS Rankings</h2>
+                        <span class="count-pill" id="tableCount">100 Universities</span>
                     </div>
                 </div>
+
+                <!-- Search and Filters Bar -->
+                <div class="controls-bar">
+                    <div class="search-box">
+                        <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+                        <input type="text" id="searchInput" placeholder="Search university or country..." autocomplete="off">
+                        <button class="clear-btn" id="clearSearch" title="Clear search">×</button>
+                    </div>
+
+                    <div class="filter-controls">
+                        <div class="toggle-group">
+                            <button class="toggle-btn active" data-filter="all">All</button>
+                            <button class="toggle-btn" data-filter="us">US Only</button>
+                            <button class="toggle-btn" data-filter="intl">International</button>
+                            <button class="toggle-btn" data-filter="gainers" title="Schools with higher FairRank than QS">Gainers ▲</button>
+                            <button class="toggle-btn" data-filter="drops" title="Schools with lower FairRank than QS">Drops ▼</button>
+                        </div>
+                        <select id="countrySelect" class="styled-select" title="Filter by country">
+                            <option value="all">🌐 All Countries</option>
+                        </select>
+                    </div>
+                </div>
+
                 <div class="table-container" id="tableContainer">
                     <table id="rankingsTable">
                         <thead>
                             <tr>
-                                <th>FairRank</th>
-                                <th>Δ</th>
-                                <th>University</th>
-                                <th>Country</th>
-                                <th>QS</th>
-                                <th>External Placed</th>
-                                <th>Score</th>
+                                <th class="sortable" data-sort="fair_rank">FairRank <span class="sort-icon">▲</span></th>
+                                <th class="sortable" data-sort="delta">Δ <span class="sort-icon"></span></th>
+                                <th class="sortable" data-sort="university">University <span class="sort-icon"></span></th>
+                                <th class="sortable" data-sort="country">Country <span class="sort-icon"></span></th>
+                                <th class="sortable" data-sort="qs_rank">QS <span class="sort-icon"></span></th>
+                                <th class="sortable" data-sort="total_placed" title="Total PhD graduates observed teaching elsewhere">External Placed <span class="sort-icon"></span></th>
+                                <th class="sortable" data-sort="score">Score <span class="sort-icon"></span></th>
                             </tr>
                         </thead>
                         <tbody id="rankingsBody">
@@ -80,49 +133,164 @@
                         </tbody>
                     </table>
                 </div>
+                <div class="table-footer-hint">
+                    <span>💡 Tip: Click any row to inspect top hiring destinations and faculty feeders.</span>
+                </div>
             </section>
 
+            <!-- Network Visualization Section -->
             <section class="visualization glass-panel">
                 <div class="section-header">
-                    <h2>🕸️ Faculty Hiring Network</h2>
-                    <p class="hint">Top 20 · Drag nodes · Hover for details</p>
+                    <div class="section-title">
+                        <h2>🕸️ Faculty Hiring Network</h2>
+                        <span class="sub-hint">Directed Employment Flow</span>
+                    </div>
+                    <div class="graph-actions">
+                        <div class="graph-scope">
+                            <label for="nodeScope">Nodes:</label>
+                            <select id="nodeScope" class="styled-select-sm">
+                                <option value="15">Top 15</option>
+                                <option value="20" selected>Top 20</option>
+                                <option value="35">Top 35</option>
+                            </select>
+                        </div>
+                        <div class="zoom-controls">
+                            <button class="zoom-btn" id="btnZoomIn" title="Zoom In">+</button>
+                            <button class="zoom-btn" id="btnZoomOut" title="Zoom Out">−</button>
+                            <button class="zoom-btn" id="btnZoomReset" title="Reset View">⟲</button>
+                        </div>
+                    </div>
                 </div>
+
+                <div class="graph-legend">
+                    <div class="legend-item"><span class="legend-dot dot-cyan"></span> Node size: FairRank Score</div>
+                    <div class="legend-item"><span class="legend-line line-flow"></span> Arrow: Hiring University → Alma Mater</div>
+                </div>
+
                 <div id="networkGraph" class="graph-container"></div>
                 <div id="tooltip" class="tooltip"></div>
             </section>
         </main>
 
+        <!-- Metric Explanations Section -->
         <section class="glass-panel explanation-card">
-            <h2>📖 Metric Explanations</h2>
+            <h2>📖 Metric Explanations & Methodology</h2>
             <div class="explanation-grid">
                 <div class="exp-item">
+                    <div class="exp-icon">🏆</div>
                     <h3>FairRank Score</h3>
-                    <p>The academic placement-prestige value calculated via <strong>Weighted PageRank</strong> (multiplied by 1,000 for legibility). It represents the probability of reaching a university by tracing observed faculty hiring paths. Higher scores indicate stronger observed placement into influential academic employers.</p>
+                    <p>Calculated via <strong>Weighted PageRank</strong> (scaled by ×1,000 for clarity). It measures the probability of landing on a university when following observed faculty hiring paths. Universities that place PhD graduates into top research institutions receive compounding prestige scores.</p>
                 </div>
                 <div class="exp-item">
+                    <div class="exp-icon">🎓</div>
                     <h3>External Placed</h3>
-                    <p>The count of observed PhD graduates from a given university who are employed as faculty at other institutions in the dataset. Self-hires are excluded to match the PageRank graph. With edges directed from hiring institution to alma mater, this is the university's weighted incoming placement count.</p>
+                    <p>The total count of verified PhD graduates from this university who currently serve as professors/faculty at other institutions in the global network. Institutional self-hires are excluded to evaluate true outward market influence.</p>
                 </div>
                 <div class="exp-item">
+                    <div class="exp-icon">📈</div>
                     <h3>Δ (Prestige Shift)</h3>
-                    <p>The change in position when comparing the university's <strong>FairRank</strong> placement-prestige rank against its official <strong>QS World Ranking</strong>. A positive green shift indicates that a school's observed academic placement signal is stronger than its general QS position suggests.</p>
+                    <p>The difference between a university's <strong>FairRank</strong> placement position and its published <strong>QS World Ranking</strong> (<code style="color:var(--accent-3)">QS Rank − FairRank</code>). A positive green value indicates the university's academic hiring power exceeds its general survey reputation.</p>
                 </div>
                 <div class="exp-item">
+                    <div class="exp-icon">🌐</div>
                     <h3>Hiring Connections</h3>
-                    <p>The total number of active directed employment edges in the academic network graph after self-loops are removed. Each connection represents a pathway where an alumnus of an alma mater is employed as faculty at a hiring university.</p>
+                    <p>The total number of directed hiring ties between institutions in the network (11,500+ edges). Each edge represents one or more verified faculty members holding a doctorate from the alma mater and employed by the hiring university.</p>
                 </div>
                 <div class="exp-item">
+                    <div class="exp-icon">⚙️</div>
                     <h3>Damping Factor (0.85)</h3>
-                    <p>A standard parameter in the PageRank algorithm. It means 85% of score propagation follows observed placement links, while 15% is redistributed across the graph to ensure convergence and stability.</p>
+                    <p>Standard PageRank parameter ($\alpha=0.85$). 85% of prestige propagation is channeled through actual placement links, while 15% is uniformly distributed across the academic graph to guarantee convergence and prevent dead ends.</p>
+                </div>
+                <div class="exp-item">
+                    <div class="exp-icon">🛡️</div>
+                    <h3>Zero Subjective Bias</h3>
+                    <p>Unlike traditional tables influenced by peer surveys, university marketing budgets, or arbitrary faculty-student ratios, FairRank is computed purely from empirical placement graphs derived from open bibliographic and academic records.</p>
                 </div>
             </div>
         </section>
 
+        <!-- Footer -->
         <footer class="glass-panel footer">
-            <p>Data Source: <a href="https://openalex.org/" target="_blank">OpenAlex</a> + <a href="https://orcid.org/" target="_blank">ORCID</a> + <a href="https://www.wikidata.org/" target="_blank">Wikidata</a> · Algorithm: Weighted PageRank (d=0.85) · Self-loops removed</p>
+            <div class="footer-content">
+                <p>Data Sources: <a href="https://openalex.org/" target="_blank">OpenAlex API</a> · <a href="https://orcid.org/" target="_blank">ORCID</a> · <a href="https://www.wikidata.org/" target="_blank">Wikidata SPARQL</a> · Benchmark: QS World Rankings</p>
+                <p class="footer-sub">Open Source under MIT License · <a href="https://github.com/q-cai/fair-university-ranking" target="_blank">fair-university-ranking</a></p>
+            </div>
         </footer>
     </div>
 
+    <!-- University Profile Modal -->
+    <div id="uniModal" class="modal-backdrop" aria-hidden="true">
+        <div class="modal-card glass-panel" role="dialog" aria-labelledby="modalUniName">
+            <button class="modal-close" id="modalClose" aria-label="Close modal">&times;</button>
+            <div class="modal-header">
+                <div class="modal-title-row">
+                    <span class="modal-flag" id="modalFlag">🌍</span>
+                    <div>
+                        <h2 id="modalUniName">University Name</h2>
+                        <div class="modal-country" id="modalCountry">Country</div>
+                    </div>
+                </div>
+                <div class="modal-ranks">
+                    <div class="rank-badge-box">
+                        <span class="badge-label">FairRank</span>
+                        <span class="badge-num" id="modalFairRank">#1</span>
+                    </div>
+                    <div class="rank-badge-box">
+                        <span class="badge-label">QS Rank</span>
+                        <span class="badge-num" id="modalQsRank">#4</span>
+                    </div>
+                    <div class="rank-badge-box">
+                        <span class="badge-label">Prestige Shift</span>
+                        <span class="badge-delta" id="modalDelta">▲+3</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal-body">
+                <div class="modal-stats-grid">
+                    <div class="mini-stat">
+                        <span class="mini-val" id="modalScore">—</span>
+                        <span class="mini-lbl">FairRank Score</span>
+                    </div>
+                    <div class="mini-stat">
+                        <span class="mini-val" id="modalPlaced">—</span>
+                        <span class="mini-lbl">PhDs Placed Externally</span>
+                    </div>
+                    <div class="mini-stat">
+                        <span class="mini-val" id="modalHired">—</span>
+                        <span class="mini-lbl">Faculty Hired (Observed)</span>
+                    </div>
+                </div>
+
+                <div class="flow-sections-grid">
+                    <!-- Top Destinations -->
+                    <div class="flow-box">
+                        <h3>🎓 Top Placement Destinations <small>(Where PhDs go)</small></h3>
+                        <div class="flow-list" id="modalDestList">
+                            <!-- Populated by JS -->
+                        </div>
+                    </div>
+
+                    <!-- Top Feeders -->
+                    <div class="flow-box">
+                        <h3>👨‍🏫 Top Faculty Feeders <small>(Where faculty studied)</small></h3>
+                        <div class="flow-list" id="modalFeederList">
+                            <!-- Populated by JS -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal-footer">
+                <button class="modal-action-btn" id="modalFocusGraph">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="3"/></svg>
+                    <span>Highlight in Network Graph</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- D3.js and Application Scripts -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="index.js"></script>
 </body>

@@ -58,8 +58,11 @@ Combined, this yields an open global network of **12,473 edges** spanning most o
 * `data/merge_global_data.py`: Merges and aggregates ORCID and Wikidata edge lists. Outputs `edge_lists_global_fair.csv`.
 * `fair_ranking.py`: Performs name normalization, builds the directed graph, runs PageRank, and exports web data. Outputs `output/fair_university_rankings.csv` and `web/data.json`.
 * `web/`: Frontend dashboard containing:
-  - Interactive comparison table of FairRank vs. QS Rank.
-  - A premium D3.js force-directed network graph visualizing the Top 20 academic flow topology.
+  - Interactive comparison table of FairRank vs. QS Rank with real-time text search, country dropdown filters, and segment filters (Gainers ▲ / Drops ▼).
+  - Multi-column sortable table headers (FairRank, Delta, University, Country, QS, Placed, Score).
+  - University Profile Drawer / Modal showing top outward PhD destinations and inward faculty feeder institutions with proportional bars.
+  - Interactive D3.js force-directed network graph with pan/zoom controls, directional flow arrows, neighbor isolation on hover, and node scope toggles (Top 15, 20, 35).
+  - Client-side CSV export functionality.
 
 ---
 
