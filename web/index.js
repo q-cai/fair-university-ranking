@@ -41,7 +41,7 @@
         initData(window.FAIR_RANK_DATA);
     } else {
         // 2. Fetch local data.json
-        fetch('data.json')
+        fetch('data.json?t=' + Date.now())
             .then(r => {
                 if (!r.ok) throw new Error(`HTTP ${r.status}`);
                 return r.json();
@@ -50,7 +50,7 @@
             .catch(err => {
                 console.warn('Local data.json fetch failed, trying online backup...', err);
                 // 3. Fallback to live GitHub Pages data
-                fetch('https://q-cai.github.io/fair-university-ranking/web/data.json')
+                fetch('https://q-cai.github.io/fair-university-ranking/web/data.json?t=' + Date.now())
                     .then(r => {
                         if (!r.ok) throw new Error(`Online HTTP ${r.status}`);
                         return r.json();
