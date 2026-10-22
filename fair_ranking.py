@@ -301,5 +301,12 @@ def main():
         json.dump(web_data, f, indent=2)
     print(f"Saved web visualization data to {web_json_file}")
 
+    web_js_file = 'web/data.js'
+    with open(web_js_file, 'w') as f:
+        f.write('window.FAIR_RANK_DATA = ')
+        json.dump(web_data, f)
+        f.write(';\n')
+    print(f"Saved offline web bundle to {web_js_file}")
+
 if __name__ == "__main__":
     main()

@@ -26,29 +26,49 @@
     let graphNodesGroup = null;
     let graphLinksGroup = null;
 
-    // ——— Load data.json ———
-    fetch('data.json')
-        .then(r => {
-            if (!r.ok) throw new Error('Failed to load data.json');
-            return r.json();
-        })
-        .then(data => {
-            RAW_DATA = data;
-            populateStats(data);
-            populateCountryFilter(data.rankings);
-            setupControls(data);
-            applyFilterAndRender();
-            renderNetwork(data.network, data.rankings, currentScope);
-        })
-        .catch(err => {
-            console.error(err);
-            document.getElementById('rankingsBody').innerHTML =
-                `<tr><td colspan="7" style="color:var(--red);padding:2rem;text-align:center">
-                    ❌ Could not load data.json.<br>
-                    Run <code>python3 fair_ranking.py</code> first to regenerate data.<br>
-                    Error: ${err.message}
-                </td></tr>`;
-        });
+    function initData(data) {
+        RAW_DATA = data;
+        populateStats(data);
+        populateCountryFilter(data.rankings);
+        setupControls(data);
+        applyFilterAndRender();
+        renderNetwork(data.network, data.rankings, currentScope);
+    }
+
+    // ——— Robust Multi-Source Data Loader ———
+    // 1. Instant load from bundled data.js (works on file:// without local server)
+    if (window.FAIR_RANK_DATA) {
+        initData(window.FAIR_RANK_DATA);
+    } else {
+        // 2. Fetch local data.json
+        fetch('data.json')
+            .then(r => {
+                if (!r.ok) throw new Error(`HTTP ${r.status}`);
+                return r.json();
+            })
+            .then(initData)
+            .catch(err => {
+                console.warn('Local data.json fetch failed, trying online backup...', err);
+                // 3. Fallback to live GitHub Pages data
+                fetch('https://q-cai.github.io/fair-university-ranking/web/data.json')
+                    .then(r => {
+                        if (!r.ok) throw new Error(`Online HTTP ${r.status}`);
+                        return r.json();
+                    })
+                    .then(initData)
+                    .catch(cdnErr => {
+                        console.error('All data loading attempts failed:', cdnErr);
+                        document.getElementById('rankingsBody').innerHTML =
+                            `<tr><td colspan="7" style="color:var(--red);padding:2.5rem;text-align:center">
+                                ❌ <strong>Could not load data.json.</strong><br><br>
+                                <span style="color:var(--text-secondary)">If you opened this HTML file directly from Finder, please start a local HTTP server:</span><br>
+                                <code style="display:inline-block;margin:0.75rem 0;background:rgba(0,0,0,0.5);padding:0.4rem 0.8rem;border-radius:6px;color:#a78bfa">cd university_ranking && python3 -m http.server 8080</code><br>
+                                Then navigate to <a href="http://localhost:8080/web/" target="_blank" style="color:var(--cyan);text-decoration:underline">http://localhost:8080/web/</a><br>
+                                Or visit the live online version: <a href="https://q-cai.github.io/fair-university-ranking/web/" target="_blank" style="color:var(--cyan);text-decoration:underline">q-cai.github.io/fair-university-ranking/web/</a>
+                            </td></tr>`;
+                    });
+            });
+    }
 
     // ——— Stats Overview ———
     function populateStats(data) {
